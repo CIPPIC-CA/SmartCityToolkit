@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content homepage" aria-label="Content">
+        <div class="smart-city--image-map"> 
+            
+            <map id="smart-city--map" name="smart-city--map">
+                <area href="/industry.html" title="Industry" alt="Industry" target="_blank" shape="poly" coords="120,450,280,450,280,680,120,680">
+                <area href="/hospital.html" title="Hospital" alt="Hospital" target="_blank" shape="poly" coords="120,740,320,740,320,980,120,980">
+            </map>
+            <img src="/smartcities/assets/images/smart-city.png" alt="smart city link map" usemap="#smart-city--map">
+        </div>
+
+
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

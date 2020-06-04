@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content with-sidebar" aria-label="Content">
+        <div class="sidebar">
+            {% for item in site.data.toc.toc %}
+                {% if item.title == page.title %}
+                    <h3>{{ item.title }}</h3>
+                    <ul>
+                        {% for entry in item.subfolderitems %}
+                        <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+                
+            {% endfor %}
+        </div>
+      <div class="content-wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

@@ -1,0 +1,15 @@
+toc:
+  - title: Transportation
+    subfolderitems:
+      - page: Transportation Infrastructure Planning
+        url: /transporation-infrastructure-planning.html
+      - page: Bike Counting
+        url: /bike-counting.html
+      - page: Complete Streets
+        url: /complete-streets.html
+      - page: Wifi at Bus Stations
+        url: /wifi-at-bus-stations.html
+  - title: Manufacturing 
+  - title: Waste
+  - title: Energy
+  

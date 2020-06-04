@@ -1,0 +1,19 @@
+- name: Transportation
+  link: /transportation.html
+  sublinks:
+    - title: Transportation Infrastructure Planning
+      url: /transporation/transporation-infrastructure-planning.html
+    - title: Bike Counting
+      url: /transporation/bike-counting.html
+    - title: Complete Streets
+      url: /transporation/complete-streets.html
+    
+- name: Manufacturing
+  link: /manufacturing.html
+- name: Waste
+  link: /waste.html
+- name: Energy
+  link: /energy.html
+  sublinks:
+    - title: Wifi at Bus Stations
+      url: /transporation/wifi-at-bus-stations.html
