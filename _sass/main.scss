@@ -80,7 +80,19 @@ body {
   overflow-wrap: break-word;
 }
 
-
+.page-content {
+  .page-logo {
+      float: left;
+      padding-right: 4rem;
+      img {
+          max-width: 230px;
+      }
+  }
+  .page-content {
+    padding: 0;
+    display: inline-block;
+  }
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

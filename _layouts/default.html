@@ -9,7 +9,15 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+        <div class="page-logo">
+          {% if page.title == 'Transportation' %}
+          <img src="/assets/images/transportation.png" alt="Tranportation logo" title="Transportation">
+          {% endif %}
+        </div>
+        <div class="page-content">
+          {{ content }}
+        </div>
+        
       </div>
     </main>
 

@@ -7,6 +7,8 @@
       url: /transporation/bike-counting.html
     - title: Complete Streets
       url: /transporation/complete-streets.html
+    - title: Wifi at Bus Stations
+      url: /transporation/wifi-at-bus-stations.html
     
 - name: Manufacturing
   link: /manufacturing.html
@@ -14,6 +16,5 @@
   link: /waste.html
 - name: Energy
   link: /energy.html
-  sublinks:
-    - title: Wifi at Bus Stations
-      url: /transporation/wifi-at-bus-stations.html
+  
+   

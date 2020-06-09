@@ -1,9 +1,9 @@
 ---
-layout: sidebar-page
+layout: default
 title: Transportation
 permalink: /transportation
 ---
-# Transporation page
+# Transporation
 
 Transportation technologies impact how people and goods get around.
 
