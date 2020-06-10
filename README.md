@@ -11,24 +11,20 @@ https://help.github.com/en/github/working-with-github-pages/adding-content-to-yo
 
 4. Add the following YAML frontmatter to the top of the file, replacing PAGE TITLE with the page's title and URL-PATH with a path you want for the page's URL. For example, if the base URL of your site is https://octocat.github.io and your URL-PATH is /about/contact/, your page will be located at https://octocat.github.io/about/contact.
 
-![page info](/SmartCityToolkit/assets/images/page-info.png)
+![page info](page-info.png)
 
 5. Below the frontmatter, add content for your page.
 
 6. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple co-authors."
-
   6. Commit message for your change
 
 7. Below the commit message fields, click the email address drop-down menu and choose a Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then <username>@users.noreply.github.com is the default commit author email address. For more information, see "Setting your commit email address."
+  7. Choose commit email addresses
 
-   7. Choose commit email addresses
-
-8. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request. For more information, see "Creating a new pull request."
-
+8. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request. For more information, see "Creating a new pull request.
   8. Commit branch options
 
 9. Click Propose file change.
-
   9. Propose file change button
 
 ## Adding content on your page. 
