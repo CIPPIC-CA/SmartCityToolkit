@@ -3,9 +3,8 @@ layout: default
 title: Transportation
 permalink: /transportation
 ---
-# Transporation
 
-Transportation technologies impact how people and goods get around.
+## Transportation technologies impact how people and goods get around.
 
 * Connected cars and buses
 * Self-driving (“autonomous”) cars

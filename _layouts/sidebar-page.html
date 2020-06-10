@@ -9,6 +9,7 @@
 
     <main class="page-content with-sidebar" aria-label="Content">
         <div class="sidebar">
+          {%- include logos.html -%}
             {% for item in site.data.toc.toc %}
                 {% if item.title == page.title %}
                     <h3>{{ item.title }}</h3>
