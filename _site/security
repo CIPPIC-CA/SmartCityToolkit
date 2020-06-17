@@ -3,18 +3,18 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Transporation Infrastructure Planning | Smart City Toolkit</title>
+<title>Security | Smart City Toolkit</title>
 <meta name="generator" content="Jekyll v4.1.0" />
-<meta property="og:title" content="Transporation Infrastructure Planning" />
+<meta property="og:title" content="Security" />
 <meta name="author" content="Smart City Toolkit." />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Note and Disclaimer: This site was created to use our toolkit of information about smart cities." />
-<meta property="og:description" content="Note and Disclaimer: This site was created to use our toolkit of information about smart cities." />
-<link rel="canonical" href="http://localhost:4000/transportation/transportation-infrastructure-planning" />
-<meta property="og:url" content="http://localhost:4000/transportation/transportation-infrastructure-planning" />
+<meta name="description" content="Headings H1 H2 H3 H4 H5 H6" />
+<meta property="og:description" content="Headings H1 H2 H3 H4 H5 H6" />
+<link rel="canonical" href="http://localhost:4000/security" />
+<meta property="og:url" content="http://localhost:4000/security" />
 <meta property="og:site_name" content="Smart City Toolkit" />
 <script type="application/ld+json">
-{"headline":"Transporation Infrastructure Planning","url":"http://localhost:4000/transportation/transportation-infrastructure-planning","author":{"@type":"Person","name":"Smart City Toolkit."},"description":"Note and Disclaimer: This site was created to use our toolkit of information about smart cities.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"headline":"Security","url":"http://localhost:4000/security","author":{"@type":"Person","name":"Smart City Toolkit."},"description":"Headings H1 H2 H3 H4 H5 H6","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Smart City Toolkit" /><script src="/assets/js/script.coffee"></script>
   
@@ -97,16 +97,47 @@
   </div>
 </header>
 <main class="page-content" aria-label="Content">
-      <h1 class="page-title">Transporation Infrastructure Planning</h1>
+      <h1 class="page-title">Security</h1>
       <div class="wrapper"><div class="page--logo-title">
   <div class="page-logo">
     
+      <img src="/SmartCityToolkit/assets/images/security.png" alt="Tranportation logo" title="Transportation">
+    
   </div>
   <div class="page-title">
-    <h1>Transporation Infrastructure Planning</h1>
+    <h1>Security</h1>
   </div>
 </div><div class="page-content">
-          
+          Headings
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+This is normal size text.
+
+2 stars on both sides make text **bold**
+
+1 star on both side make text *italic*
+
+Bullet lists
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+  
+Numbered lists 
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+   
+Images
+![Alt Text](url)
 
         </div>
         

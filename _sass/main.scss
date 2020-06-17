@@ -47,7 +47,6 @@ $on-large:         $on-laptop !default;
 html {
   font-size: $base-font-size;
 }
-
 /**
  * Reset some basic elements
  */
@@ -79,32 +78,23 @@ body {
   flex-direction: column;
   overflow-wrap: break-word;
 }
-
-.page-content {
-  padding-top: 1rem;
-  .page--logo-title {
-    overflow: auto;
-    .page-logo {
-      float: left;
-      padding-right: 4rem;
-      img {
-          max-width: 230px;
-          max-height: 150px;
-      }
-    }
+.page-content.with-sidebar {
+  .sidebar {
     .page-title {
-      padding-top: 1rem;
-      h1 {
-        font-size: 2.5rem;
-        font-weight: bold !important;
-      }
+      display: none;
     }
   }
+}
+.page-content {
+  padding-top: 1rem;
+  h1.page-title {
+    font-size: 2.5rem;
+    font-weight: bold !important;
+    border-bottom: 4px dotted black;
+  }
   
-  .page-content {
-    padding: 0;
-    display: inline-block;
-    padding-top: 1rem;
+  .content-wrapper {
+    width: 100%;
   }
 }
 

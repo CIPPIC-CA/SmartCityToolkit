@@ -1,0 +1,177 @@
+.homepage {
+    .smart-city--image-map {
+        position: relative;
+        area {
+            color: black;
+            position: relative;
+            &:hover,
+            &:focus {
+                &::before {
+                    content:'+';
+                    background-size: contain;
+                    background-repeat: no-repeat;
+                    position: absolute;
+                    
+                    
+                    width: 8rem;
+                    height: 8rem;
+                    background-color: white;
+                    color: transparent;
+                    padding: .5rem;
+        
+                }
+            }
+        }
+        .infrastructure {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/infrastructure.png');
+                    bottom: 8rem;
+                    left: 11rem;
+                }
+            }
+        }
+        .public-health {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/public-health.png');
+                    bottom: -3rem;
+                    left: 11rem;
+                }
+            }
+        }
+        .housing {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/housing.png');
+                }
+            }
+        }
+        .transportation-mobility {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/transportation.png');
+                    bottom: -12rem;
+                    left: 72rem;
+                }
+            }
+        }
+        .park-recreation {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/parks-recreation.png');
+                    bottom: -33rem;
+                    left: 11rem;
+                }
+            }
+        }
+        .economic-develop {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/economic-development-culture.png');
+                    bottom: -4rem;
+                    left: 57rem;
+                }
+            }
+        }
+        .municipal-administration {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/municipal-administration.png');
+                }
+            }
+        }
+        .civic-engagement {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/civic-engagement.png');
+                }
+            }
+        }
+        .information-technology {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/it-services.png');
+                }
+            }
+        }
+        .emergency-management {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/emergency-management.png');
+                    bottom: -12rem;
+                    left: 20rem;
+                }
+            }
+        }
+        .utitlies {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/utitlies.png');
+                }
+            }
+        }
+        .privacy {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/privacy.png');
+                }
+            }
+        }
+        .security {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/security.png');
+                }
+            }
+        }
+        .inclusion {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/inclusion.png');
+                }
+            }
+        }
+        .intellectual-property {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/intellectual-property.png');
+                }
+            }
+        }
+        .procurement {
+            &:hover,
+            &:focus {
+                &::before {
+                    background-image: url('/assets/images/procurement.png');
+                }
+            }
+        }
+    }
+    .footer-city-logos {
+        .wrapper {
+            display: flex;
+            margin: 0 3rem;
+            a {
+                margin: 0 2rem;
+            }
+        }
+        
+    }
+}
+
