@@ -26,9 +26,9 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/infrastructure.png');
-                    bottom: 8rem;
-                    left: 11rem;
+                    background-image: url('/assets/images/infrastructure.png');
+                    bottom: -7rem;
+                    left: 46rem;
                 }
             }
         }
@@ -36,7 +36,7 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/public-health.png');
+                    background-image: url('/assets/images/public-health.png');
                     bottom: -3rem;
                     left: 11rem;
                 }
@@ -46,7 +46,9 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/housing.png');
+                    background-image: url('/assets/images/housing.png');
+                    bottom: -1rem;
+                    left: 6rem;
                 }
             }
         }
@@ -54,7 +56,7 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/transportation.png');
+                    background-image: url('/assets/images/transportation.png');
                     bottom: -15rem;
                     left: 64rem;
                 }
@@ -64,7 +66,7 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/parks-recreation.png');
+                    background-image: url('/assets/images/parks-recreation.png');
                     bottom: -33rem;
                     left: 11rem;
                 }
@@ -74,7 +76,7 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/economic-development-culture.png');
+                    background-image: url('/assets/images/economic-development-culture.png');
                     bottom: -4rem;
                     left: 57rem;
                 }
@@ -84,7 +86,9 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/municipal-administration.png');
+                    background-image: url('/assets/images/municipal-administration.png');
+                    bottom: -3rem;
+                    left: 30rem;
                 }
             }
         }
@@ -92,7 +96,7 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/civic-engagement.png');
+                    background-image: url('/assets/images/civic-engagement.png');
                     bottom: -18rem;
                     left: 44rem;
                 }
@@ -102,7 +106,9 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/it-services.png');
+                    background-image: url('/assets/images/it-services.png');
+                    bottom: 19rem;
+                    left: 62rem;
                 }
             }
         }
@@ -110,67 +116,64 @@
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/emergency-management.png');
+                    background-image: url('/assets/images/emergency-management.png');
                     bottom: -12rem;
                     left: 20rem;
                 }
             }
         }
-        .utitlies {
+        .utitlies1 {
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/utitlies.png');
+                    background-image: url('/assets/images/utilities.png');
+                    bottom: 18rem;
+                    left: 22rem;
                 }
             }
         }
-        .privacy {
+        .utitlies2 {
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/privacy.png');
+                    background-image: url('/assets/images/utilities.png');
+                    bottom: -12rem;
+                    left: 32rem;
                 }
             }
         }
-        .security {
+        .utitlies3 {
             &:hover,
             &:focus {
                 &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/security.png');
-                }
-            }
-        }
-        .inclusion {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/inclusion.png');
-                }
-            }
-        }
-        .intellectual-property {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/intellectual-property.png');
-                }
-            }
-        }
-        .procurement {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/procurement.png');
+                    background-image: url('/assets/images/utilities.png');
+                    bottom: 21rem;
+                    left: 68rem;
                 }
             }
         }
     }
     .footer-city-logos {
+        margin-bottom: 2rem;
         .wrapper {
             display: flex;
             margin: 0 3rem;
             a {
                 margin: 0 2rem;
+                text-align: center;
+                font-size: 1.5rem;
+                font-weight: bold;
+                color: black;
+                &:hover,
+                &:focus {
+                    color: rgb(31, 31, 179);
+                    text-decoration: underline;
+                }
+                img {
+                    width: 14rem;
+                    height: 12rem;
+                    margin-bottom: 1rem;
+                }
             }
         }
         

@@ -2,6 +2,6 @@
 layout: homepage
 title: Smart Cities
 ---
-### Getting more information
+## Getting more information
 
 The more information blurb.
