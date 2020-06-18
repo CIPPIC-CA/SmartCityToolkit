@@ -550,7 +550,8 @@ table {
   .navbar-nav {
     display: flex;
     list-style-type: none;
-    // position: relative;
+    margin-bottom: 0;
+    margin-top: 1rem;
     li {
       margin-right: 1rem;
     }

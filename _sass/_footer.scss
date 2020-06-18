@@ -1,0 +1,17 @@
+.footer-wrapper {
+    text-align: center;
+    a {
+        color: black;
+        padding-right: 1rem;
+        &::after {
+            content: '|';
+            padding-left: .5rem;
+
+        }
+    }
+    a:last-child {
+        &::after {
+            content: '';
+        }
+    }
+}
