@@ -6,7 +6,7 @@ https://help.github.com/en/github/working-with-github-pages/adding-content-to-yo
 
 ### To add a new page to your site. 
 1. In the root of your repo, click 'Create new file'.
-![picture of create file](create-file.png)
+![picture of create file](images/create-file.png)
 
 2. Name your file, making sure to add ".md" to file name.
 Example: about-us.md
@@ -18,12 +18,12 @@ There are two different **layout** to use:
 
 **Title** - of the page.
 **permalink** - this will allow you create url alias.
-![mandatory info](mandatory-info.png)
+![mandatory info](images/mandatory-info.png)
 
 4. Add content to page. 
 
 5. Commit file to repo.
-![commit-file](commit-file.png)
+![commit-file](images/commit-file.png)
 
 
 ## Adding content on your page. 
@@ -38,6 +38,14 @@ For full syntax guide https://guides.github.com/features/mastering-markdown/
 
 Homepage content at top of city scape image, is the only different on where to change the text content and can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_layouts/homepage.html 
 Within the <span> is where the text can be changed. 
-![homepage-intro](homepage-intro.png)
+![homepage-intro](images/homepage-intro.png)
 
 Homepage secondary content below the city scape image can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/index.md
+
+## Adding menu items to sidebar navigation
+When you have a page with children pages that you would like to display in the sidebar. 
+![sidebar-navigation](images/sidebar-navigation.png)
+You will to edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
+1. To add a new main page, add a title
+2. To add sub pages to new main page, add subfolders with a page name and the url link to that page.
+![sidebar-menu](/images/sidebar-menu.png)
