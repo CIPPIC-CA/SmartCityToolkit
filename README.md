@@ -33,3 +33,11 @@ Markdown is a way to style text on the web. You control the display of the docum
 Check out the https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/Example-text for a full list of markdown text.
 
 For full syntax guide https://guides.github.com/features/mastering-markdown/
+
+## Content for Homepage
+
+Homepage content at top of city scape image, is the only different on where to change the text content and can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_layouts/homepage.html 
+Within the <span> is where the text can be changed. 
+![homepage-intro](homepageintro.png)
+
+Homepage secondary content below the city scape image can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/index.md
