@@ -38,6 +38,6 @@ For full syntax guide https://guides.github.com/features/mastering-markdown/
 
 Homepage content at top of city scape image, is the only different on where to change the text content and can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_layouts/homepage.html 
 Within the <span> is where the text can be changed. 
-![homepage-intro](homepageintro.png)
+![homepage-intro](homepage-intro.png)
 
 Homepage secondary content below the city scape image can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/index.md
