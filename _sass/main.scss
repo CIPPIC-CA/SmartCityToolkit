@@ -78,13 +78,7 @@ body {
   flex-direction: column;
   overflow-wrap: break-word;
 }
-.page-content.with-sidebar {
-  .sidebar {
-    .page-title {
-      display: none;
-    }
-  }
-}
+
 .page-content {
   padding-top: 1rem;
   h1.page-title {
