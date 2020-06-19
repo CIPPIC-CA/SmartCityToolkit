@@ -45,7 +45,9 @@ Homepage secondary content below the city scape image can be edited here https:/
 ## Adding menu items to sidebar navigation
 When you have a page with children pages that you would like to display in the sidebar. 
 ![sidebar-navigation](images/sidebar-navigation.png)
-You will to edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
-1. To add a new main page, add a title
-2. To add sub pages to new main page, add subfolders with a page name and the url link to that page.
+
+You can edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
+1. To add a new main page, add the title of the page.
+2. To add sub pages to new main page, add subfolders with the page name and the page url link to that page.
 ![sidebar-menu](/images/sidebar-menu.png)
+
