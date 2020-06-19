@@ -38,12 +38,14 @@ For full syntax guide https://guides.github.com/features/mastering-markdown/
 
 Homepage content at top of city scape image, is the only different on where to change the text content and can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_layouts/homepage.html 
 Within the <span> is where the text can be changed. 
+  
 ![homepage-intro](images/homepage-intro.png)
 
 Homepage secondary content below the city scape image can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/index.md
 
 ## Adding menu items to sidebar navigation
 When you have a page with children pages that you would like to display in the sidebar. 
+
 ![sidebar-navigation](images/sidebar-navigation.png)
 
 You can edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
