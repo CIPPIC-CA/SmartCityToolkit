@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: Smart Cities
+sitemap: false
 ---
 ## Getting more information
 
