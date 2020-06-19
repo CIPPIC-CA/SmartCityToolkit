@@ -55,9 +55,9 @@ You can edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/ma
 
 ## Adding menu items to main navigation
 Main navigation shown in the header.
-![header-navigation](header-main-navigation.png)
+![header-navigation](/images/header-main-navigation.png)
 
 To add sub menu items to the header navigation, can be edited on the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/navigation.yml
 1. To add a link to the header navigation, add the name of the page and the link to the page.
 2. To add sub pages to the main links, add under sublinks the title and url of the page. 
-![navigation-file](navigation-file.png)
+![navigation-file](/images/navigation-file.png)
