@@ -14,7 +14,7 @@
 <meta property="og:url" content="http://localhost:4000/security" />
 <meta property="og:site_name" content="Smart City Toolkit" />
 <script type="application/ld+json">
-{"headline":"Security","url":"http://localhost:4000/security","author":{"@type":"Person","name":"Smart City Toolkit."},"description":"Headings H1 H2 H3 H4 H5 H6","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/security","author":{"@type":"Person","name":"Smart City Toolkit."},"headline":"Security","description":"Headings H1 H2 H3 H4 H5 H6","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Smart City Toolkit" /><script src="//assets/js/script.coffee"></script>
   
@@ -120,7 +120,7 @@ Images
   <div class="wrapper">
 
     <div class="footer-wrapper">
-      <a href="/SmartCityToolkit/sitemap.html">Sitemap</a>
+      <a href="/SmartCityToolkit/sitemap.xml">Sitemap</a>
       <a href="/SmartCityToolkit/creative-commons-by-4-0.html">Creative Commons By 4.0</a>
       <a href="/SmartCityToolkit/site-privacy.html">Privacy</a>
     </div>

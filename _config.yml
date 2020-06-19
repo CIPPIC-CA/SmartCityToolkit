@@ -56,14 +56,11 @@ sass:
 # Build settings
 theme: minima
 
+url: "https://cippic-ca.github.io/SmartCityToolkit/" # the base hostname & protocol for your site
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-coffeescript
+ - jekyll-sitemap
 
-elasticsearch:
-  url: "https://yq5bicdn8w:70u1trqhr9@smart-cities-testing-8607089540.us-east-1.bonsaisearch.net:443"
-  index_name: jekyll-posts
 
-plugins:
-  - searchyll
+  
