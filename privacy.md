@@ -3,9 +3,9 @@ layout: default
 title: Privacy
 permalink: /privacy
 ---
-#Privacy 
+# Privacy 
 
-##Privacy and Municipalities
+## Privacy and Municipalities
 
 Privacy is considered a fundamental right by Canadians.  Canadians view privacy both as a right protected by laws and as a value that is foundational to our enjoyment of other rights in a free and democratic society. For this reason, it is important to understand the many ways in which privacy intersects within the smart city.
 
@@ -19,7 +19,7 @@ Finally, civil laws regulate how people interact, create liability for intrusion
 
 As a result, Canadian municipalities planning to use smart city solutions face many potential ways in which they may be liable for breaching peoples’ privacy.  These laws overlap. Privacy compliance is further complicated by the emergence of public private partnerships for implementing smart city solutions .
 
-##Privacy in the Smart City
+## Privacy in the Smart City
 
 Smart city solutions use data and/or information technology tools to offer new municipal services or improve existing municipal services.  Both data and information technology tools can raise important privacy issues.  
 
@@ -29,32 +29,32 @@ Smart city information technology raises privacy issues because of the prevalenc
 
 Regardless of liability issues, the prevalence of sensors, cameras, and monitors across the smart city raises the spectre of unwanted surveillance, which can itself have a chilling effect on liberty.  People behave differently when they know they are being watched.  Surveillance pressures people into conforming to the behaviour of the majority.  In a society that values liberty, dissent, and diversity, we must always be cautious about the unintended consequences of the use of tools with surveillance capabilities.
 
-##Addressing Privacy: Policy and Legal Governance Recommendations
+## Addressing Privacy: Policy and Legal Governance Recommendations
 
-###1. Develop a Smart City Privacy Plan. 
+### 1. Develop a Smart City Privacy Plan. 
 Municipal governments should develop principled policies on the choice and implementation of smart city technologies. These policies should serve the interests of Canadians and be guided by the needs of Canadians and the goals and policy agendas of governments, rather than by commercial objectives of technology partners.  A Smart City Plan should be grounded in transparent and responsive governance, open standards, interoperable technologies, open data, meaningful public engagement and democratic control.
 
-###2. Involve Privacy Regulators at the Outset of Major Projects. 
+### 2. Involve Privacy Regulators at the Outset of Major Projects. 
 Smart city technologies pose difficult challenges to privacy laws and values. Municipalities and their partners should develop standards, practices and governance structures in close consultation with privacy regulators. Such consultations will assist with both legal compliance and with the use of privacy regulatory tools.
 
-###3. Develop Processes to Include Municipal Privacy Resources at the Outset. 
+### 3. Develop Processes to Include Municipal Privacy Resources at the Outset. 
 Municipalities and their partners should develop standards and practices that include municipal privacy resources at the outset.  Every municipality has an authority charged with privacy compliance. Bringing those authorities into even small projects at the earliest opportunity helps ensure that projects roll out in compliance with privacy laws from the outset. These authorities will also help identify useful tools such as privacy impact assessments and the privacy by design methodologies in the execution of smart city projects.
 
-###4. Use Privacy Impact Assessments. 
+### 4. Use Privacy Impact Assessments. 
 Privacy Impact Assessments are an essential, standardized tool, familiar to privacy regulators and authorities,that help identify privacy risks and issues and ensure regulatory compliance by mitigating the isssues raised.
-###5. Design with Privacy in Mind. 
+### 5. Design with Privacy in Mind. 
 Municipalities should embrace the principles of privacy by design  and security by design.  These principles place privacy and security at the centre of project design and development.  Many privacy issues arise after project design is complete.  These principles help ensure that issues are identified and accordingly addressed early, as an aspect of privacy design rather than as an expensive consequence of project execution.
 
-###6. Assert Privacy Principles. 
+### 6. Assert Privacy Principles. 
 Key privacy principles, such as consent, data minimization and identifying purposes must be incorporated into smart city data governance design.  De-identifying data at the source, where possible, or at the earliest possible point, where not, can help to minimize the volume of personal information inadvertently collected and stored. Where the objectives of an initiative can be achieved using less privacy invasive means, those alternatives should be employed .
 
-###7. Use Anonymization and Deidentification Standards . 
+### 7. Use Anonymization and Deidentification Standards . 
 Municipalities should avoid “re-inventing the wheel” in addressing privacy concerns.  Using standards for anonymization and de-identification, where they exist, will help to ensure that unexpected privacy issues are addressed at the outset.  
 
-###8. Data Governance. 
+### 8. Data Governance. 
 Data governance in the smart city is a civic responsibility. Municipalities and their partners should address key decisions about responsibility for the collection, use, sharing and safe-keeping of the different categories of data generated by smart city technologies in a transparent, principled and coherent fashion rather than in an ad hoc or reactive manner. Data sharing-agreements and data-processing agreements, and public private partnerships generally, should include terms binding private sector partners to the privacy commitments of the municipality.
 
-##Resources
+## Resources
 
 <insert Sundeep’s piece when ready>
 
