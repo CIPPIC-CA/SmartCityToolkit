@@ -1,176 +1,115 @@
 .homepage {
     .smart-city--image-map {
         position: relative;
-        area {
+        .map-pin {
             color: black;
-            position: relative;
-            &:hover,
-            &:focus {
-                &::before {
-                    content:'+';
-                    background-size: contain;
-                    background-repeat: no-repeat;
-                    position: absolute;
-                    border-radius: 10%;
-                    width: 8rem;
-                    height: 8rem;
-                    background-color: white;
-                    color: transparent;
-                    padding: .5rem;
-        
+            position: absolute;
+            width: auto;
+            height: auto;
+            background-color: white;
+            border-radius: 5px;
+            &:hover, 
+            &:focus,
+            &:focus-within {
+                background-color: white;
+                border-radius: 5px;
+            }
+            img {
+                width: 3rem;
+                margin: .5rem auto 0;
+                display: none;
+            }
+            .pin-title {
+                display: block;
+                padding: .5rem 1rem;
+                text-align: center;
+            }
+            svg {
+                position: absolute;
+                fill: white;
+                left: 0;
+            }
+            svg.bottom {
+                bottom: -1.75rem;
+            }
+            svg.top {
+                top: -1.5rem;
+            }
+            svg.left {
+                left: -3rem;
+            }
+            a {
+                color: black;
+                font-weight: bold;
+                &:hover, 
+                &:focus,
+                &:focus-within {
+                    text-decoration: underline;
+                    img {
+                        display: block;
+                    }
+                    .pin-title {
+                        text-align: center;
+                        font-weight: bold; 
+                    }
                 }
             }
         }
         .infrastructure {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/infrastructure.png');
-                    bottom: -7rem;
-                    left: 46rem;
-                    width: 7rem;
-                }
-            }
+            bottom: 34rem;
+            right: 34rem;
         }
         .public-health {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/public-health.png');
-                    bottom: -3rem;
-                    left: 11rem;
-                    width: 7rem;
-                    padding-top: .15rem;
-                }
-            }
+            bottom: 32rem;
+            left: 13rem;
         }
         .housing {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/housing.png');
-                    bottom: -1rem;
-                    left: 8rem;
-                    width: 8rem;
-                    height: 6rem;
-                }
-            }
+            top: 37rem;
+            left: 17rem;
         }
         .transportation-mobility {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/transportation.png');
-                    bottom: -15rem;
-                    left: 64rem;
-                    height: 5rem;
-                }
-            }
+            bottom: 19rem;
+            right: 10rem;
+            width: 11%;
         }
         .park-recreation {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/parks-recreation.png');
-                    bottom: -33rem;
-                    left: 11rem;
-                }
-            }
+            bottom: 14rem;
+            left: 10rem;
         }
         .economic-develop {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/economic-development-culture.png');
-                    bottom: -4rem;
-                    left: 57rem;
-                    height: 7rem;
-                }
-            }
+            right: 14rem;
+            top: 42rem;
         }
         .municipal-administration {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/municipal-administration.png');
-                    bottom: -3rem;
-                    left: 30rem;
-                    width: 6rem;
-                }
-            }
+            bottom: 40rem;
+            right: 39rem;
         }
         .civic-engagement {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/civic-engagement.png');
-                    bottom: -18rem;
-                    left: 44rem;
-                }
-            }
+            bottom: 13rem;
+            right: 27rem;
         }
         .information-technology {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/it-services.png');
-                    bottom: 7rem;
-                    left: 62rem;
-                    width: 7.5rem;
-                }
-            }
+            top: 27rem;
+            right: 16rem;
         }
         .emergency-management {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/emergency-management.png');
-                    bottom: -12rem;
-                    left: 20rem;
-                    padding-top: .15rem;
-                }
-            }
+            bottom: 17rem;
+            left: 28rem;
+            width: 9%;
         }
-        .utitlies1,
-        .utitlies2,
-        .utitlies3 {
-            &:hover,
-            &:focus {
-                &::before {
-                    background-image: url('/SmartCityToolkit/assets/images/utilities.png');
-                    width: 6rem;
-                    height: 8rem;
-                    padding-top: .25rem;
-                }
-            }
-        }
-        .utitlies1 {
-            &:hover,
-            &:focus {
-                &::before {
-                    bottom: 18rem;
-                    left: 22rem;
-                }
-            }
+        .utitlies {
+            top: 21rem;
+            left: 26rem;
         }
         .utitlies2 {
-            &:hover,
-            &:focus {
-                &::before {
-                    bottom: -12rem;
-                    left: 32rem;
-                }
-            }
+            bottom: 29rem;
+            left: 35rem;
         }
-        .utitlies3 {
-            &:hover,
-            &:focus {
-                &::before {
-                    bottom: 10rem;
-                    left: 68rem;
-                }
-            }
+        .utitlies1 {
+            top: 21rem;
+            right: 9rem;
         }
+        
     }
     .footer-city-logos {
         margin-bottom: 2rem;
