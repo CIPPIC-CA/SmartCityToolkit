@@ -4,10 +4,8 @@ title: Transportation
 permalink: /transportation
 ---
 
-## Transportation technologies impact how people and goods get around.
+One of municipalities’ primary tasks is to plan and provide the means by which people move through space over the course of the day, the week, and the year.  Transportation informs the way we design communities, the use we make of their space, and the capacity enjoyed by community districts.  
 
-* Connected cars and buses
-* Self-driving (“autonomous”) cars
-* Car and bike-sharing services
-* Automatic bridge and highway tolling
-* Automated license plate readers
+Transportation and mobility services include planning for road maintenance, snow clearance, traffic flow and, in many municipalities, public transit.  But it also includes services enabling transportation by other means such as bicycling and even foot traffic. 
+
+Astute use of data and technology can assist in the provision of these services. 
