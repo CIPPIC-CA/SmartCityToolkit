@@ -1,7 +1,7 @@
 ---
 layout: default
 title: IP Rights
-permalink: /ip-rights
+permalink: /intellectual-property
 ---
 
 # Intellectual Property
