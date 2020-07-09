@@ -7,7 +7,12 @@ toc:
         url: /transportation/vehicle-parking-management.html
       - page: Public Transit
         url: SmartCityToolkit/public-transit.html
-  - title: Manufacturing 
+  - title: Civic Engagement 
+    subfolderitems:
+      - page: Public Outreach
+        url: /civic-engagment/public-outreach.html
+      - page: Civic Empowerment 
+        url: /civic-engagment/civic-empowerment.html
   - title: Waste
   - title: Energy
   
