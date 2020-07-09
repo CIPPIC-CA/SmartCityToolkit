@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Public Transit
+title: Vehicle Parking Management
 permalink: /transporation/public-transit
 ---
 # Services: Public Transit 
@@ -53,7 +53,7 @@ Limit data collection to only that which is needed. Serious consideration and ju
 
 Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation. 
 
-Follow good privacy practices. <link to general page on good privacy practices – security by design, etc.> 
+Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
 
 ### Security Issues 
 
@@ -75,7 +75,8 @@ Where city data is stored on cloud-based servers, the cloud platform should be s
 
 All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control. 
 
-Follow good security practices. <link to general page on good security practices – security by design, encryption, etc.> 
+Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
+
 
 ### Procurement 
 
@@ -83,9 +84,9 @@ Follow good security practices. <link to general page on good security practices
 
 **Managing Issues.**   
 
-Procurement issues should be dealt with by following sound procurement practices <link to procurement Guide>. 
+Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html)
 
-Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. <link to procurement page> 
+[Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. 
 
 Deciding between high-tech and low-tech solutions will depend on several factors: 
 
