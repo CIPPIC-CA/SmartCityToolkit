@@ -9,3 +9,5 @@ One of municipalities’ primary tasks is to plan and provide the means by which
 Transportation and mobility services include planning for road maintenance, snow clearance, traffic flow and, in many municipalities, public transit.  But it also includes services enabling transportation by other means such as bicycling and even foot traffic. 
 
 Astute use of data and technology can assist in the provision of these services. 
+
+To explore smart city solutions and technologies, click any of the links on the sidebar to the left. 
