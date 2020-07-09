@@ -28,12 +28,12 @@ In discussions about licensing, it is inevitable that issues of trademark – wh
 
 ## Using Contracts: Licensing and Acquisition
 Licensing is essentially a form of permission – it allows for the use of a copyrighted, patented, or trademarked intellectual property, typically for a negotiated cost. On the contrary, assignment amounts to an owner giving certain rights to someone else; again, typically for a negotiated cost. Where issues of ownership or licensing exist, the best way to address those issues is to simply address them at their source. When smart cities are negotiating a contract with a vendor, contractor, or other third party, they should likely consider addressing:
-●	Licensing or assignment of copyright, if the data produced may be copyrightable,
-●	Ownership of the data that is produced, if the municipality is not the sole producer or analyzer of the data,
-●	How federal and provincial privacy laws apply to the data, its use, and how it is shared,
-●	Licensing of the technology if it is patentable,
-●	Licensing if use of a trademarked technology is necessary, and
-●	Warranties and representations or ownership and/or non-infringement to avoid future disagreements.
+*	Licensing or assignment of copyright, if the data produced may be copyrightable,
+*	Ownership of the data that is produced, if the municipality is not the sole producer or analyzer of the data,
+*	How federal and provincial privacy laws apply to the data, its use, and how it is shared,
+*	Licensing of the technology if it is patentable,
+*	Licensing if use of a trademarked technology is necessary, and
+*	Warranties and representations or ownership and/or non-infringement to avoid future disagreements.
 
 ## Education: Understanding IP Liabilities
 Also of importance is that municipal employees who are planning to use Intellectual Property to implement new technologies and services understand the liabilities associated with those IPs. While this may be more obvious with clearly patented or trademarked subject matter, it becomes more complicated when considering data or analysis generated from a partnership that is wholly new. Municipal employees must therefore approach every new partnership from a perspective that considers potential issues of IP like those outlined above. Early consultation with those versed in IP law will also likely prove helpful, as will general familiarity with potential IP difficulties.
@@ -46,7 +46,7 @@ Also of importance is that municipal employees who are planning to use Intellect
 1. Canadian Intellectual Property Office, [“Plan your IP strategy”](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr04563.html) 
   *	Summary of considerations when developing an IP strategy that is aligned with an organization’s goals, including commercialization, ownership and working with third parties.
 
-1. Office of the Privacy Commissioner of Canada, [“The Application of PIPEDA to Municipalities, Universities, Schools, and Hospitals”]{https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/02_05_d_25/)
+1. Office of the Privacy Commissioner of Canada, [“The Application of PIPEDA to Municipalities, Universities, Schools, and Hospitals”](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/02_05_d_25/)
   *	Brief explanation of the application of PIPEDA to non-core commercial activities of municipalities, universities, schools and hospitals (the “MUSH” sector).
 
 1. Canadian Intellectual Property Office, [“IP foundations series”](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr04590.html)
