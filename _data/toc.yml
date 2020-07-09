@@ -6,7 +6,7 @@ toc:
       - page: Vehicle Parking Management 
         url: /transportation/vehicle-parking-management.html
       - page: Public Transit
-        url: /public-transit.html
+        url: SmartCityToolkit/public-transit.html
   - title: Manufacturing 
   - title: Waste
   - title: Energy
