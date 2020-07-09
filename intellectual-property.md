@@ -1,9 +1,8 @@
 ---
 layout: default
-title: IP Rights
+title: Intellectual Property
 permalink: /intellectual-property
 ---
-
 # Intellectual Property
 
 *Intellectual Property Risks and Risk Management* - "Intellectual property" refers to a group of rights in different kinds of intellectual works, like inventions, software, and trade secrets.  Intellectual property rights play a key role in the acquisition, implementation, and operation of smart city tecnologies, and careful  management is necessary to manage risks associated with these rights.   
