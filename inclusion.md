@@ -17,6 +17,22 @@ Fortunately, there are many smart city solutions and technologies that focus on 
 *	**Service delivery telephone systems.** Residents may dial in for information on municipal services such as transportation, request accommodations for public events, and be updated on changes to municipal disability policies.   
 *	**Customer Service Applications.** Designing applications that combine multidisciplinary professional services (legal, medical, or social) can resolve the multi-layered issues people with disability face without having to redirect the resident to a variety of services. The application can screen an issue and identify what type of professional the resident needs. These applications can also assist the wider resident community as anyone can utilize this service.
 
-## Resources
+## Resources (annotated bibliography)
 
-<>
+1. Deloitte, [“Inclusive smart cities: Delivering digital solutions for all”](https://www2.deloitte.com/us/en/insights/industry/public-sector/inclusive-smart-cities.html) 
+    * Provides a framework to incorporate and prioritize inclusivity at each phase of a smart city initiative and includes examples of approaches cities have taken to address inclusivity.
+
+2.  G3ict, [“Smart Cities for All Toolkit”](https://smartcities4all.org/english-toolkit/). 
+    * A set of tools intended to help government officials, policy makers and others design smart cities with a focus on accessibility of information and communications technologies by persons with disabilities and older persons, including, for example, a checklist to follow when developing a public procurement policy for technology.
+
+3. OpenNorth, [“Open Smart Cities Guide”](https://www.opennorth.ca/publications/#open-smart-cities-guide).
+    * This guide provides a definition of an Open Smart City and discusses community-centric development of smart cities including examples of various smart city initiatives.
+
+4. Frontiers, [“The Concept of Sustainability in Smart City Definitions”](https://doi.org/10.3389/fbuil.2020.00077).
+    * This paper reviews the definitions of smart cities found in literature and suggests that while sustainability-oriented definitions are prevalent, the current implementation of smart cities tend to prioritize technology before the social aspect.
+
+5. Aimi Hamraie, [“A Smart City Is an Accessible City”](https://www.theatlantic.com/technology/archive/2018/11/city-apps-help-and-hinder-disability/574963/), The Atlantic (November 6, 2018).
+    * An overview of digital-accessibility maps and related technologies which attempt to address inclusivity of persons with disabilities, including examples and potential issues.
+
+6. Global Commission on Internet Governance, [“One Internet”](https://www.cigionline.org/sites/default/files/gcig_final_report_-_with_cover.pdf).
+    * A comprehensive look at building an open and accessible internet for everyone, including the issue of the “digital divide” between those with and without access to the Internet.
