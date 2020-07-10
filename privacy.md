@@ -23,7 +23,7 @@ As a result, Canadian municipalities planning to use smart city solutions face m
 
 Smart city solutions use data and/or information technology tools to offer new municipal services or improve existing municipal services.  Both data and information technology tools can raise important privacy issues.  
 
-The people of a municipality are often an integral component of municipal data analysis – their movement through space, their use of services, or their engagement with the municipality or other people are the data and context within and for which the analysis happens.  This will usually involve the collection of information about identifiable individuals, which falls within the definition of “personal information” governed by data protection laws.  Note that this definition includes not only information that, on its face, identifies individuals, but also information about and individual that is “identifiable”.  For example, data collected about an individual who is not identified by name but by "customer number” is easily identifiable if that data is compared to another database that includes both "customer number” and name. Location data of individuals, in particular, is extremely difficult to divorce from identity since people’s movement through space is often surprisingly consistent (e.g. daily travel from work to home and back) and unique (e.g., no one else both lives and works where you do).
+The people of a municipality are often an integral component of municipal data analysis – their movement through space, their use of services, or their engagement with the municipality or other people are the data and context within and for which the analysis happens.  This will usually involve the collection of information about identifiable individuals, which falls within the definition of “personal information” governed by data protection laws.  Note that this definition des not only information that, on its face, identifies individuals, but also information about and individual that is “identifiable”.  For example, data collected about an individual who is not identified by name but by "customer number” is easily identifiable if that data is compared to another database that includes both "customer number” and name. Location data of individuals, in particular, is extremely difficult to divorce from identity since people’s movement through space is often surprisingly consistent (e.g. daily travel from work to home and back) and unique (e.g., no one else both lives and works where you do).
 
 Smart city information technology raises privacy issues because of the prevalence of sensors that collect data.  The privacy issues associated with networked sensors – the “Internet of Things” - is well known.  The security issues associated with the very large network employed by Internet of Things solutions also poses issues for privacy, as insecure networks means that the personal information stored on those networks is also insecure.
 
@@ -42,6 +42,7 @@ Municipalities and their partners should develop standards and practices that in
 
 ### 4. Use Privacy Impact Assessments. 
 Privacy Impact Assessments are an essential, standardized tool, familiar to privacy regulators and authorities,that help identify privacy risks and issues and ensure regulatory compliance by mitigating the isssues raised.
+
 ### 5. Design with Privacy in Mind. 
 Municipalities should embrace the principles of privacy by design  and security by design.  These principles place privacy and security at the centre of project design and development.  Many privacy issues arise after project design is complete.  These principles help ensure that issues are identified and accordingly addressed early, as an aspect of privacy design rather than as an expensive consequence of project execution.
 
@@ -56,37 +57,78 @@ Data governance in the smart city is a civic responsibility. Municipalities and 
 
 ## Resources
 
-<insert Sundeep’s piece when ready>
+### Regulatory Publications
 
-The Canadian Government Executive Blog, “How to stop smart cities from becoming surveillance cities” online: https://canadiangovernmentexecutive.ca/how-to-stop-smart-cities-from-becoming-surveillance-cities/  
+Office of the Ontario Information and Privacy Commissioner, [Technology Fact Sheet: Smart Cities and your Privacy Rights](https://www.ipc.on.ca/wp-content/uploads/2018/04/fs-tech-smart-cities.pdf), (April 2018).
 
-Community Control Over Police Surveillance–Guiding Principles, online: https://www.aclu.org/fact-sheet/community-control-over-police-surveillance-guiding-principles?redirect=fact-sheet/ccops-guiding-principles
+ * Brief overview of some informational privacy issues associated by smart city technologies, particularly sensor data.
 
-Office of the Ontario Information and Privacy Commissioner, Technology Fact Sheet: Smart Cities and your Privacy Rights (April 2018), online: https://www.ipc.on.ca/wp-content/uploads/2018/04/fs-tech-smart-cities.pdf
+Office of the Ontario Information and Privacy Commissioner, [Webcast:  Building Smart Cities and Ensuring Public Trust](http://livemedia.biz/ipc2019.html), (January 24, 2019).
 
-Summary of Privacy Laws in Canada:  https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/ 
+ * Panel discussion on privacy issues raised by smart city proposals and regulatory responses to those risks.
 
-VIDEO:  What is Personal Information:  https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/bus_pipeda_intro/bus_101_02/ 
+Office of the Ontario Information and Privacy Commissioner, [Planning for Success:  A Privacy Impact Assessment Guide](https://www.ipc.on.ca/wp-content/uploads/2015/05/planning-for-success-pia-guide.pdf).
 
-Provincial and Territorial Privacy Laws and Oversight:  https://www.priv.gc.ca/en/about-the-opc/what-we-do/provincial-and-territorial-collaboration/provincial-and-territorial-privacy-laws-and-oversight/ 
+ * Useful guide to planning and conducting a privacy impact assessment.
+ 
+Office of the Ontario Information and Privacy Commissioner, ["De-identification Guidelines for Structured Data"](https://www.ipc.on.ca/wp-content/uploads/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf), (June 2016).
 
-Which Privacy Law Applies:  https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/ 
-https://smartcityprivacy.ca/ 
+ * Guidelines for systematically addressing potentially identifiable information in organized data. 
 
-Privacy International:  Smart Cities Resources:  https://privacyinternational.org/learning-topics/smart-cities 
+Office of the Privacy Commissioner of Canada, [Summary of Privacy Laws in Canada](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/).
 
-IAPP:  Privacy By Design:  https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/ 
+ * Overview of the different privacy laws applicable in different contexts in Canada.
 
-CBC:  The Spark:  Confused by Smart Cities?  This Expert explains what it is and why we should care:  https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/confused-by-smart-city-hype-this-expert-explains-what-it-is-and-why-we-should-care-1.5107893 
+Office of the Privacy Commissioner of Canada, [VIDEO:  What is Personal Information](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/bus_pipeda_intro/bus_101_02/).
 
-CBC:  The Spark:  To Protect Privacy, There Need to be Limits on Smart City Surveillance:  https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/to-protect-privacy-there-need-to-be-limits-on-smart-cities-surveillance-1.5112184 
+ * A simple but clear description of the definition of "personal information" under Canada's privacy laws.
 
-Smart Cities, Cybersecurity and Privacy:  What are the Risks?  https://www.comparitech.com/blog/vpn-privacy/smart-cities-privacy-risks/ 
+Office of the Privacy Commissioner of Canada, [Provincial and Territorial Privacy Laws and Oversight](https://www.priv.gc.ca/en/about-the-opc/what-we-do/provincial-and-territorial-collaboration/provincial-and-territorial-privacy-laws-and-oversight/).
 
-Securing the Smart City:  https://www.infosecurity-magazine.com/magazine-features/securing-the-smart-city-1/ 
+ * An overview of provincial privacy laws in Canada.
 
-Can Smart Cities Help Their Residents Without Hurting Their Privacy?  https://qz.com/1756852/smart-cities-will-always-have-a-data-privacy-problem/ 
+Office of the Privacy Commissioner of Canada, [Which Privacy Law Applies](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/).
 
-Webcast:  Building Smart Cities and Ensuring Public Trust:  http://livemedia.biz/ipc2019.html 
+ * A useful decision tree tool for determining which privacy law may apply in a situation - if any.
 
-Ontario IPC:  Planning for Success:  A Privacy Impact Assessment Guide:  https://www.ipc.on.ca/wp-content/uploads/2015/05/planning-for-success-pia-guide.pdf
+### Civil Society Guidance
+
+ACLU, [Community Control Over Police Surveillance – Guiding Principles](https://www.aclu.org/fact-sheet/community-control-over-police-surveillance-guiding-principles?redirect=fact-sheet/ccops-guiding-principles).
+
+ * A statement of principles for exercising community control over law enforcement surveillance activities, including those data-centric surveillance applications typically employed in smart city contexts.
+
+CIPPIC and McMaster University, [Smart City Privacy](https://smartcityprivacy.ca/).
+
+ * A guide to privacy issues and laws applicable to smart city approaches in Canada.  Includes a geographic survey of smart city tools already employed in Canada as well as a statement of best privacy practices.
+
+Privacy International, [Smart Cities Resources](https://privacyinternational.org/learning-topics/smart-cities).
+
+ * Reports, news analysis and other resources published by Privacy International, a leading privacy advocate.
+
+### Privacy Professionals
+
+IAPP, [Privacy By Design](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/).
+
+ * An overview of privacy by disign, a design approach to embedding privacy in technology from the outset.
+
+### Articles and Blog Posts
+
+The Canadian Government Executive Blog, [“How to stop smart cities from becoming surveillance cities”](https://canadiangovernmentexecutive.ca/how-to-stop-smart-cities-from-becoming-surveillance-cities/).
+
+ * 
+
+CBC, Spark ["Confused by Smart Cities? This Expert explains what it is and why we should care](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/confused-by-smart-city-hype-this-expert-explains-what-it-is-and-why-we-should-care-1.5107893).
+
+ * 
+
+CBC, Spark ["To Protect Privacy, There Need to be Limits on Smart City Surveillance](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/to-protect-privacy-there-need-to-be-limits-on-smart-cities-surveillance-1.5112184).
+
+ * 
+
+Josh Lake, ["Smart Cities, Cybersecurity and Privacy:  What are the Risks?](https://www.comparitech.com/blog/vpn-privacy/smart-cities-privacy-risks/), Comparitech (October 26, 2019).
+
+ * 
+
+Stephen Pritchard, ["Securing the Smart City"](https://www.infosecurity-magazine.com/magazine-features/securing-the-smart-city-1/), Infosecurity.
+
+ * 
