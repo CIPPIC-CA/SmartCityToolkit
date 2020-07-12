@@ -13,6 +13,13 @@ toc:
         url: /civic-engagment/public-outreach.html
       - page: Civic Empowerment 
         url: /civic-engagment/civic-empowerment.html
-  - title: Waste
+  - title: Emergency Services 
+    subfolderitems:
+      - page: Fire Response Systems
+        url: /emergency-services/fire-response-systems.html
+      - page: Community Engagement in Policing  
+        url: /emergency-services/community-engagement-in-policing.html
+      - page: Medical Emergency Response
+        url: /emergency-services/medical-emergency-response.html
   - title: Energy
   
