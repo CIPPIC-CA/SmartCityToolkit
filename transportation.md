@@ -1,13 +1,9 @@
 ---
 layout: sidebar-page
-title: Transportation & Mobility
-permalink: /transportation
+title: Emergency Services 
+permalink: /emergency-services
 ---
 
-One of municipalities’ primary tasks is to plan and provide the means by which people move through space over the course of the day, the week, and the year.  Transportation informs the way we design communities, the use we make of their space, and the capacity enjoyed by community districts.  
-
-Transportation and mobility services include planning for road maintenance, snow clearance, traffic flow and, in many municipalities, public transit.  But it also includes services enabling transportation by other means such as bicycling and even foot traffic. 
-
-Astute use of data and technology can assist in the provision of these services. 
+Municipal emergency services address the safety and well-being of both property and the person. Emergency services include the fire services that protect us from harm, the police services that monitor and address crime and disturbances, and the medical emergency services that respond when we are suddenly sick or injured. Smart city applications may improve the performance of existing infrastructure in these areas and also offer innovative approaches to service delivery.
 
 **To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
