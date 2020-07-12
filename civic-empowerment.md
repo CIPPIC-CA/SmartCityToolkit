@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Civic Empowerment
-permalink: /civic-empowerment
+permalink: civic-engagment/civic-empowerment
 ---
 # Services: Civic Empowerment
 
