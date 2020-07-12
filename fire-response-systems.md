@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fire Response Systems
+permalink: emergency-management/fire-response-systems
+---
 # Service: Fire Response Systems
 
 When a fire occurs, any delay in a response from municipal fire services can be costly – or, in the worst-case scenario, deadly. Typically, fire services are made aware of a fire occurring in a residence or business through a 911 call. This mechanism has obvious limitations. If the property is not actively monitored (i.e. someone is not currently present there), the fire may go undetected until it grows serious enough for an onlooker to notice it. Furthermore, even if someone is present in the property, if they are rendered unable to contact 911 through smoke inhalation or injury, they could very well be unable to seek out assistance.
