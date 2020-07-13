@@ -1,3 +1,8 @@
+---
+layout: default
+title: Creative Commons License
+permalink: creative-commons-by-4-0
+---
 # Attribution 4.0 International (CC BY 4.0)
 
 You are free to:
