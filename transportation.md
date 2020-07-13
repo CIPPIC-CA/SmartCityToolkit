@@ -9,5 +9,4 @@ Transportation and mobility services include planning for road maintenance, snow
 
 Astute use of data and technology can assist in the provision of these services. 
 
-
 **To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
