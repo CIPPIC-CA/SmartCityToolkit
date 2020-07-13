@@ -12,7 +12,7 @@ toc:
       - page: Public Outreach
         url: /civic-engagment/public-outreach.html
       - page: Civic Empowerment 
-        url: /civic-engagment/civic-empowerment.html
+        url: /civic-engagment/civic-e  - mpowerment.html
   - title: Emergency Management 
     subfolderitems:
       - page: Fire Response Systems
@@ -23,7 +23,7 @@ toc:
         url: /emergency-management/medical-emergency-response.html
       - page: Predictive Policing
         url: /emergency-management/predictive-policing.html
-title: Parks and Recreation 
+  - title: Parks and Recreation 
     subfolderitems:
       - page: Grounds and Facilities Maintenance
         url: /park-recreation/grounds-and-facilities-maintenance.html
