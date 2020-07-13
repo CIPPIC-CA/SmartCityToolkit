@@ -23,6 +23,11 @@ toc:
         url: /emergency-management/medical-emergency-response.html
       - page: Predictive Policing
         url: /emergency-management/predictive-policing.html
-        
+title: Parks and Recreation 
+    subfolderitems:
+      - page: Grounds and Facilities Maintenance
+        url: /park-recreation/grounds-and-facilities-maintenance.html
+      - page: Promoting Facilities Use
+        url: /park-recreation/promoting-facilities-use.html
   - title: Energy
   
