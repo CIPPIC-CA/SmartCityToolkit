@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community Engagement In Policing
-permalink: emergency-management/community-engagement-in-policing.md
+permalink: emergency-management/community-engagement-in-policing
 ---
 # Service: Community Engagement in Policing
 
