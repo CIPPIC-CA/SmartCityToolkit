@@ -14,7 +14,7 @@
 <meta property="og:url" content="http://localhost:4000/security" />
 <meta property="og:site_name" content="Smart City Toolkit" />
 <script type="application/ld+json">
-{"url":"http://localhost:4000/security","headline":"Security","author":{"@type":"Person","name":"Smart City Toolkit."},"description":"Headings H1 H2 H3 H4 H5 H6","@type":"WebPage","@context":"https://schema.org"}</script>
+{"url":"http://localhost:4000/security","author":{"@type":"Person","name":"Smart City Toolkit."},"headline":"Security","description":"Headings H1 H2 H3 H4 H5 H6","@type":"WebPage","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Smart City Toolkit" /><script src="//assets/js/script.coffee"></script>
   
