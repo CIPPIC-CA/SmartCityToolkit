@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Integration of Cycling into Municipal Traffic Plan
-permalink: /transporation/integration-of-cycling
+permalink: /transportation/integration-of-cycling
 ---
 # Services: Integration of Cycling into Municipal Traffic Plan 
 

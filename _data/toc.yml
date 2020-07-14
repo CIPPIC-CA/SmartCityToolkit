@@ -1,33 +1,48 @@
 toc:
+  ## Sub page table of contents
   - title: Transportation
     subfolderitems:
       - page: Integration of Cycling into Municipal Traffic Plan
-        url: /transportation/integration-of-cycling.html
+        url: /SmartCityToolkit/transportation/integration-of-cycling.html
       - page: Vehicle Parking Management 
-        url: /transportation/vehicle-parking-management.html
+        url: /SmartCityToolkit/transportation/vehicle-parking-management.html
       - page: Public Transit
-        url: /transportation/public-transit.html
+        url: /SmartCityToolkit/transportation/public-transit.html
   - title: Civic Engagement 
     subfolderitems:
       - page: Public Outreach
-        url: /civic-engagment/public-outreach.html
+        url: /SmartCityToolkit/civic-engagment/public-outreach.html
       - page: Civic Empowerment 
-        url: /civic-engagment/civic-e  - mpowerment.html
+        url: /SmartCityToolkit/civic-engagment/civic-empowerment.html
   - title: Emergency Management 
     subfolderitems:
       - page: Fire Response Systems
-        url: /emergency-management/fire-response-systems.html
+        url: /SmartCityToolkit/emergency-management/fire-response-systems.html
       - page: Community Engagement in Policing  
-        url: /emergency-management/community-engagement-in-policing.html
+        url: /SmartCityToolkit/emergency-management/community-engagement-in-policing.html
       - page: Medical Emergency Response
-        url: /emergency-management/medical-emergency-response.html
+        url: /SmartCityToolkit/emergency-management/medical-emergency-response.html
       - page: Predictive Policing
-        url: /emergency-management/predictive-policing.html
+        url: /SmartCityToolkit/emergency-management/predictive-policing.html
   - title: Parks and Recreation 
     subfolderitems:
       - page: Grounds and Facilities Maintenance
-        url: /park-recreation/grounds-and-facilities-maintenance.html
+        url: /SmartCityToolkit/park-recreation/grounds-and-facilities-maintenance.html
       - page: Promoting Facilities Use
-        url: /park-recreation/promoting-facilities-use.html
+        url: /SmartCityToolkit/park-recreation/promoting-facilities-use.html
   - title: Energy
-  
+
+  ## Sub-sub page table of contents
+  - title: Public Outreach
+    subfolderitems:
+      - page: Outreach to the disability community
+        url: /SmartCityToolkit/civic-engagment/public-outreach/outreach-to-the-disability-community.html
+    subfolderitems:
+      - page: Educating neighbourhoods on safe street practices
+        url: /SmartCityToolkit/civic-engagment/public-outreach/education-neighbourhoods-on-safe-street-practices.html
+  - title: Civic Empowerment
+    subfolderitems:
+      - page: Hackathons
+        url: /SmartCityToolkit/civic-engagment/civic-empowerment/hackathons.html
+      - page: Encouraging residents to vote
+        url: /SmartCityToolkit/civic-engagment/civic-empowerment/encouraging-residents-to-vote.html

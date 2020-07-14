@@ -1,0 +1,113 @@
+I"�)<h1 id="services-grounds-and-facilities-maintenance">Services: Grounds and Facilities Maintenance</h1>
+
+<p>Parks and recreational centres must be maintained. The range of maintenance necessary in these venues is diverse and multifaceted, involving both significant man-hours and consumption of both energy and water.</p>
+
+<h2 id="applications-and-solutions">Applications and Solutions</h2>
+
+<p><strong>Monitoring</strong> – Municipalities can track facility and park traffic and use this information to inform maintenance allocations. Further, they can use photographic and sensor technologies to record relevant environmental data and inform their decision-making processes. Predictive maintenance uses monitoring technologies and statistical analysis to determine the condition of in-service equipment, minimizing equipment downtime and maintenance costs.</p>
+
+<p><strong>Utility Use</strong> – Municipalities can implement green and smart technologies to reduce cost and waste with respect to energy and water use.</p>
+
+<h2 id="technologies">Technologies</h2>
+
+<p><strong>Monitoring Technologies</strong></p>
+
+<p><strong>Tracking Recreational Centre Use via Receipts</strong> – In areas that charge a fee for use (e.g. swimming pools and indoor skating rinks) data is readily available and probably already being used.</p>
+
+<p><strong>Passive Infrared Sensors</strong> – Thermal imaging sensors can detect passing objects and classify them as pedestrians or cyclists based on shape.</p>
+
+<p><strong>Battery-Powered Inductive Loops</strong> – Information collected from these products shows the number of objects that have passed and the direction they are going.</p>
+
+<p><strong>Cameras</strong> – Cameras can be coupled with algorithms that allow the camera to “see” the a given area and recognize object types – bicycles, pedestrians, wildlife - and record their actions.</p>
+
+<p><strong>Third party data acquisition</strong> – Fitness app developers have moved into the business of selling participatory or crowd-sourced biking data to municipalities. Apps can collect information from their users’ phone’s embedded accelerometer, microphone, and GPS.</p>
+
+<p><strong>Cloud-Based Data Platforms</strong> – Some service providers offer internet-based services for accessing and displaying sensor output.  These services allow their municipal customers to access the data in a single online space.</p>
+
+<p><strong>Smart Benches</strong> – Solar-powered, technologically equipped benches (i.e. WIFI, phone charging ports, etc.) can be outfitted with sensors to monitor pedestrian activity, air quality, noise levels and other information.</p>
+
+<p><strong>Drones</strong> – Particularly useful for covering large areas, unmanned aerial vehicles can be paired with cameras, sensors or sampling equipment.
+Geographic Information Systems and Services – GIS uses digital software to capture, store, manipulate, analyze, manage and present geographical data. GIS can be a useful planning and assessment tool and provide opportunities for park visitors to contribute information about the park and its use.</p>
+
+<p><strong>Sensor Networks and the Internet of Things</strong> – Similar to GIS. Sensor networks can record, store and transmit data about light, humidity, temperature, air pressure, air and water quality, resource consumption, etc… Software can then compile and analyze this data and trigger various automatic responses, e.g. sending a text message alerting municipal workers that some maintenance action is required.</p>
+
+<p><strong>Near-infrared Photography</strong> – Near-infrared photographic images visually show degrees of photosynthetic activity. These images can be used either as a one-off snapshot of plant and water health or to track photosynthesis patterns in water and vegetation over time.</p>
+
+<p><strong>Maintenance/Utility Use</strong></p>
+
+<p><strong>Photocatalytic Coatings</strong> – Based on titanium dioxide, these coatings sterilise surfaces, requiring less water and less aggressive chemical products to clean them. Numerous other innovative and environmentally friendly construction and landscaping materials and techniques are available: e.g. self-healing concrete, pervious paving, green roofs, engineered soils, graywater recycling, etc …</p>
+
+<p><strong>Rainwater Collection/Automatic Irrigation</strong> – Irrigation controllers conserve water by optimizing watering patterns in each park area depending on microclimate and soil type.</p>
+
+<p><strong>Hard-surface Testing Equipment</strong> – Hard-surface testing equipment uses electronic sensors to mimic a child’s head striking the surfaces under and around installed play-structures, providing quickly accessible data on impact, velocity, and potential for head injury. Municipalities can use this information to mitigate risks to children’s’ health.</p>
+
+<p><strong>Robotic Lawnmowers</strong> – Independent, self-moving machines that cut grass can be powered with clean energy. Most are battery powered, but some are solar. A low-voltage wire must be installed around the perimeter of the area to be mowed.</p>
+
+<p><strong>Bathroom Occupancy Sensors</strong> – Sensors detect when a stall is in use and display this information above stall doors, in a mobile app on users’ cell phones or on a monitor outside the bathrooms. Using the app, citizens can easily and anonymously notify maintenance staff of service and hygiene issues.</p>
+
+<p><strong>Solar Shade Structures</strong> – Shade structures equipped to provide solar energy.</p>
+
+<p><strong>Solar-Powered Garbage Compactors</strong> – Garbage, compost and recycling bins that compress contents using solar energy. Some has sensors to track fullness and can then alert maintenance staff. Others have software that can help optimize collection routes.</p>
+
+<p><strong>Motion-Activated Lighting Sensors</strong> – Motion activated sensors detect movement via microwave or ultrasonic energy, triggering a response, in this case, illuminating only those areas that are in use.</p>
+
+<p><strong>Off-Grid Light Fixtures</strong> – Light fixtures powered by off-grid energy sources, e.g. solar panels or wind turbines.</p>
+
+<h2 id="managing-liability-issues">Managing Liability Issues</h2>
+
+<p>The presence of children in public parks and recreational spaces make the liability issues in these areas especially fraught, particularly with respect to privacy and security.</p>
+
+<h3 id="privacy">Privacy</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Tracking and sensing technologies create privacy issues when they collect personal information.  The legal definition of “personal information” includes information about an identifiable individual even if the individual is not directly identified (so long as one might later identify the individual by, for example, cross-referencing unique fields like customer numbers). Thus, tracking and sensing technologies create privacy issues when they record recognizable images of individuals or record routes traceable to individuals.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Count, don’t track.  Record numbers and direction instead of tracing routes that can be associated with individuals.</p>
+
+<p>Choose the technology appropriate to the task.  Low-tech solutions such as pneumatic tubes may be able to provide the data needed but without the privacy issues that cameras introduce.</p>
+
+<p>Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.</p>
+
+<p>De-identify at the source. Many camera technologies allow for faces to be blurred at collection.</p>
+
+<p>De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.</p>
+
+<p>Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.</p>
+
+<p>Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</p>
+
+<h3 id="security-issues">Security Issues</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>The privacy issues inherent to tracking technologies include security issues, as data that does not initially identify individuals can do so in combination with other data. The presence of large numbers of children in these areas make these issues especially sensitive. If apps or websites for booking facilities accept payment, such payment should be processed securely.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.</p>
+
+<p>Access to personal information should be limited to those with a need to use the information.</p>
+
+<p>RFID bracelets, such as those used at Disney Land, could theoretically provide a sense of enhanced security during especially crowded events like Canada Day. However, this technology is unproven as a means of lost child tracking. For the most part, Disney uses their RFID bracelets as a digital proof-of-purchase and a means of recording user activity.</p>
+
+<p>Numerous options for secure online payment are available.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/security.html">good security practices</a>.</p>
+
+<h3 id="procurement-issues">Procurement Issues</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Technology acquisitions often implicate long term commitment to a specific vendor. This creates a danger that a municipality, having committed itself to a particular vendor through a competitive and transparent procurement process, is now at the mercy of the vendor for follow-on services and products.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Awareness. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology. Short term savings often come with outsize long term costs.</p>
+
+<p>Employ <a href="https://cippic-ca.github.io/SmartCityToolkit/procurement.html">sound procurement practices</a>.</p>
+:ET

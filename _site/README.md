@@ -38,14 +38,26 @@ For full syntax guide https://guides.github.com/features/mastering-markdown/
 
 Homepage content at top of city scape image, is the only different on where to change the text content and can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_layouts/homepage.html 
 Within the <span> is where the text can be changed. 
+  
 ![homepage-intro](images/homepage-intro.png)
 
 Homepage secondary content below the city scape image can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/index.md
 
 ## Adding menu items to sidebar navigation
 When you have a page with children pages that you would like to display in the sidebar. 
+
 ![sidebar-navigation](images/sidebar-navigation.png)
-You will to edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
-1. To add a new main page, add a title
-2. To add sub pages to new main page, add subfolders with a page name and the url link to that page.
+
+You can edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
+1. To add a new main page, add the title of the page.
+2. To add sub pages to new main page, add subfolders with the page name and the page url link to that page.
 ![sidebar-menu](/images/sidebar-menu.png)
+
+## Adding menu items to main navigation
+Main navigation shown in the header.
+![header-navigation](/images/header-main-navigation.png)
+
+To add sub menu items to the header navigation, can be edited on the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/navigation.yml
+1. To add a link to the header navigation, add the name of the page and the link to the page.
+2. To add sub pages to the main links, add under sublinks the title and url of the page. 
+![navigation-file](/images/navigation-file.png)

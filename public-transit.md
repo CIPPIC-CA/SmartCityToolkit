@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Public Transportation
-permalink: /transporation/public-transit
+layout: sidebar-page
+title: Public Transit
+permalink: /transportation/public-transit
 ---
 # Services: Public Transit 
 

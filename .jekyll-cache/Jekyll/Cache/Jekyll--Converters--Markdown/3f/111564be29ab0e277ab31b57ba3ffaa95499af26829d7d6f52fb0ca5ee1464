@@ -1,0 +1,157 @@
+I"�8<h1 id="services-civic-empowerment">Services: Civic Empowerment</h1>
+
+<p>Citizens who collaborate in the development of smart cities can gain control over their data and how it is used. In smart cities, real-time data exchange between citizens and governments allow citizens to participate in decisions about their city. This also allows for a flexible approach that takes into account the changes that a particular municipality may experience over time.</p>
+
+<h2 id="a-application-improving-access-to-townhall-meetings">(a) Application: Improving access to townhall meetings</h2>
+
+<p>Improving access to decision makers may empower citizens in participating in government decisions. Ordinarily, a resident would have to take active steps, such as attending townhall meetings, to voice issues on top of their regular roles in their community. Townhall meetings occur in particular locations, at specific times, and are only accessible to a select few, with the result that anyone who is unable to attend townhall is unable to voice their concerns. As a result, the townhall may be a misrepresentation of the residents in the municipality.</p>
+
+<p>Improving access to townhall meetings is one way that smart cities can boost civic engagement. While physical attendance may not be possible, smart city tools may allow virtual participation to balance out representation in townhall.</p>
+
+<h3 id="technologies">Technologies</h3>
+
+<ul>
+  <li>Recording in-person meetings. Audio or video recordings may be hosted on the municipality’s website so residents who cannot attend in-person town halls may still be appraised of issues and discussions.</li>
+  <li>Soliciting Agendas Online. Allowing for community input into town hall agendas before they are held ensures that they address topical subjects relevant to community interests.</li>
+  <li>Livestreaming meetings with live chat. Members who are unable to commute to meetings can participate in townhall activities through virtual participation. Text-based input may be advisable to prevent issues of latency – in-person representatives may monitor chats to ensure questions are answered and issues are raised.</li>
+  <li>Mobile kiosks. Placing townhall kiosks in areas with lower resident participation may provide unrepresented residents with an opportunity to voice their concerns.</li>
+  <li>Social media outreach. A large number of municipal residents already engage with social media on a regular basis. Hosting town hall discussions on social media apps can allow for greater participation in municipal decisions from demographics such as young adults.</li>
+</ul>
+
+<h3 id="managing-liabilities">Managing Liabilities</h3>
+
+<p><strong>Privacy</strong></p>
+
+<p><strong>Issues</strong>. When participating in townhall meetings, it is essential to identify the resident as well as their opinion. However, this can create difficulties for residents who wish to remain anonymous. On the other hand, anonymous comments prevent verification of resident status.</p>
+
+<p><strong>Managing Issues</strong>.</p>
+<ul>
+  <li>De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later.</li>
+  <li>De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. While the municipality may require identifying information to verify resident status, residents should still be able to post questions anonymously.</li>
+</ul>
+
+<p><strong>Disproportionate Representation</strong></p>
+
+<p><strong>Issues</strong>. Selecting a time for everyone to participate in townhall as well as unreliable access to internet can create disproportionate representation during townhall meetings.</p>
+
+<p><strong>Managing Issues</strong>.</p>
+<ul>
+  <li>Free municipal WIFI will assist individuals lacking access to reliable internet.</li>
+  <li>Holding virtual office hours. Residents unable to attend townhall meetings may participate during office hours so their voices are taken into account.</li>
+</ul>
+
+<h2 id="b-applications-encouraging-residents-to-vote">(b) Applications: Encouraging residents to vote</h2>
+
+<p>Voting demographics show that only a subset of residents end up voting. This can be an issue as individuals who are unable to travel to vote are unable to represent their voices. Smart city tools can encourage residents to exercise their democratic right to vote on variety of municipal issues and candidates regardless of whether they can physically access polls.</p>
+
+<h3 id="technologies-1">Technologies</h3>
+<ul>
+  <li>Online voting portals can involve residents in everyday municipal decisions from anywhere.</li>
+  <li>Engage in campaigns. Campaigns on social media and municipal websites to encourage voting can raise awareness among youth demographics.</li>
+  <li>Send voting reminders. Automated text messages can be sent to cell phone users with certain area codes to remind them to vote.</li>
+  <li>Rideshare applications. Providing transit for residents who do not have access to a voting centre can encourage residents from voting.</li>
+</ul>
+
+<h3 id="liabilities">Liabilities</h3>
+
+<p><strong>Digital literacy as a prerequisite for voting</strong></p>
+
+<p><strong>Issues</strong>. In order to navigate an online voting system, residents will require some level of digital literacy. Due to lack of digital literacy or mistrust of technology, some residents may be discouraged from voting.</p>
+
+<p><strong>Managing Issues</strong></p>
+<ul>
+  <li>Texting Voting Instructions. Residents should receive information on how to vote online prior to election day.</li>
+  <li>Keeping Alternative Forms of Voting Open. Residents who do not wish to participate in online voting should still have to option to vote in person.</li>
+</ul>
+
+<p><strong>Privacy</strong></p>
+
+<p><strong>Issues</strong>. Online voting systems often collect personal information of the voter as well as information on who they voted for.</p>
+
+<p><strong>Managing Issues</strong>.</p>
+<ul>
+  <li>Don’t track.  If it is unnecessary to track voters’ personal information, then the municipality should employ tools that don’t associate individuals with content.</li>
+  <li>De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.</li>
+  <li>Use non-identifying information as password to voting. Create a secure password on the resident’s voting card limiting the use of identifying information during the actual vote.</li>
+  <li>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</li>
+</ul>
+
+<p><strong>Voter Fraud</strong></p>
+
+<p><strong>Issues</strong>. If the online voting system is compromised or hacked, votes may be changed or destroyed compromising the integrity of the election.</p>
+
+<p><strong>Managing Issues</strong>.</p>
+<ul>
+  <li>Blockchain voting. Decentralized voting systems where a vote is permanently recorded on blockchain can create a secure online voting system.</li>
+  <li>Facial and Voice Recognition Voter Confirmation. Using a camera and microphone to verify the resident’s identity via facial recognition and voice recognition technology can prevent voter fraud.</li>
+</ul>
+
+<h2 id="c-applications-hackathons">(c) Applications: Hackathons</h2>
+
+<p>Hacking is creative problem solving. Hackathons, also called codefests or hackfests, are design marathons in which affected citizens, software developers, graphic designers, project managers and others come together for a short period of time to work intensively on a software project designed to meet a particular civic need. The goal of hackathons is usually to produce a functioning software application by the end of the event.
+Hackathons can engage the public in helping the government solve citizens’ problems. The best have educational workshops running in parallel. Well organized hackathons can strengthen community bonds by welcoming newcomers, providing an opportunity for participants to learn something new about problems they are interested in, and encouraging civic engagement and cooperation.</p>
+
+<p><strong>Hackathon Best Practices</strong></p>
+<ul>
+  <li>Clearly articulated. Projects should have a clear question or problem they are trying to tackle and a reasonably specific proposed solution.</li>
+  <li>Attainable. Most projects will likely accomplish less than imagined in the limited time they have. Project goals should be managed so that participants are able to feel sucessful at the end of the session.</li>
+  <li>Incorporating newcomers. Projects should have ready-to-go tasks for newcomers with a variety of skills and at a variety of skill levels. For coding projects, these tasks cannot require an intimate understanding of the code base.</li>
+  <li>Small groups of subject matter experts and other participants working together. Hackathons provide a unique opportunity to bring citizen concerns to the coding and tech community. Multiple small mini-project groups of 4-8 participants should be comprised of a mix of subject matter experts and other participants.</li>
+  <li>Training and education. Educational workshops running in parallel to small group projects can help bridge the divide between coders and other citizens, as well as spreading technological fluency to the wider community.</li>
+  <li>Project leaders. Each small group should be headed by a subject matter expert. A subject matter expert guides a project to real-world application.</li>
+  <li>Organized. The project leader’s role should be to coordinate, ensuring each team member has something to work on and helping to welcome new team members.</li>
+  <li>Open data. Successful hackathons require a generous supply of open data available to coders.</li>
+  <li>Follow up. One of the ultimate goals of the hackathon should be to create a community around the developed application that endures, post-hackathon:  users of course, but also support for the technical needs of the app (security, data, hosting on a site, etc).</li>
+  <li>Venue/Technical. An appropriate venue must provide: proper seating, one power strip per table, fast and reliable wifi, a space for presentations including projector and microphone, accessible entrances and wheelchair-friendly seating space, and accessible bathrooms.</li>
+</ul>
+
+<h3 id="managing-liability-issues">Managing Liability Issues</h3>
+
+<p><strong>Privacy</strong></p>
+
+<p><strong>Issues</strong>.</p>
+<ul>
+  <li>Registration data will often contain personal information</li>
+  <li>Privacy issues may also arise with respect to the application developed, as such applications often collect user data for both analytic and personalization purposes.</li>
+</ul>
+
+<p><strong>Managing Issues</strong>.</p>
+<ul>
+  <li>De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.</li>
+  <li>Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.</li>
+  <li>Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.</li>
+  <li>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</li>
+</ul>
+
+<p><strong>Intellectual Property Issues</strong></p>
+
+<p><strong>Issues</strong>.</p>
+<ul>
+  <li>Legal authorship of apps will lie with their authors, as these authors are not employees of the municipality.</li>
+  <li>As such, allocating liability resulting from use of the app in question could be contentious.</li>
+  <li>Data partnerships between public entities and private companies raise complex issues of who owns the data that results from them.</li>
+</ul>
+
+<p><strong>Managing Issues</strong></p>
+<ul>
+  <li>Contractual licensing or assigning of copyright of the hackathon-produced app and resulting data to the municipality if the municipality is not the sole producer or analyzer of the data.</li>
+  <li>Licensing of the technology if it is patentable.</li>
+  <li>Licensing if use of a trademarked technology is necessary.</li>
+  <li>Warranties and representations of ownership and/or non-infringement to avoid future disagreements.</li>
+  <li>Contractually allocating liability arising from app use to either the municipality, the author or the user.</li>
+  <li>See also: <a href="https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html">intellectual property issues</a>.</li>
+</ul>
+
+<p><strong>Hackathon Resources</strong></p>
+<ul>
+  <li>Joshua Tauberer, “How to Run a Successful Hackathon” (Creative Commons License, 2014); online: https://hackathon.guide.</li>
+  <li>An often-cited and accessible how-to guide for running inclusive, civic-minded hackathons. Some of the advice applies to event-planning more generally and seems geared toward first-time event hosts; e.g. the venue must have sufficient bathroom facilities; if providing food, accommodate a range of dietary restrictions, etc. The hackathon-specific advice, however, is precise, practical and grounded in real-world experience.</li>
+  <li>Major League Hacking, “Hackathon Organizer Guide” (Creative Commons License, ); online: https://guide.mlh.io.</li>
+  <li>Major League Hacking’s “Organizer Guide” consists of a series of articles for organizers to consult in the months leading up to the event. Article subject range from “Build a Killer Leadership Team” to “Setup a Placeholder Website” to “Keep Hackers Motivated”.</li>
+  <li>“Do Better At Conference Diversity” (Open Source Creative Commons License); online: http://conference.hopper.org.nz.</li>
+  <li>A New Zealand-based, open source guide to promoting greater diversity at conferences and hackathons. A practical guide that provides advice on speaker selection, t-shirt design, accessibility, and team diversity training, among many other topics.</li>
+  <li>Carefully review <a href="https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html">intellectual property issues</a>.</li>
+  <li>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</li>
+  <li>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/security.html">good security practices</a>.</li>
+</ul>
+:ET

@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: sidebar-page
 title: Vehicle Parking Management
-permalink: /transporation/vehicle-parking-management
+permalink: /transportation/vehicle-parking-management
 ---
 # Services: Vehicle Parking Management
 

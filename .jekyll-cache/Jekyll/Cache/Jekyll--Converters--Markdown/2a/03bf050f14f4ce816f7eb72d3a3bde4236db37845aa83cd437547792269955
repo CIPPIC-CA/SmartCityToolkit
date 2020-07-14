@@ -1,0 +1,55 @@
+I"_<h1 id="service-community-engagement-in-policing">Service: Community Engagement in Policing</h1>
+
+<p>Police services have long recognized that an aware community is a safer community. This raises the question: what are the most effective ways to inform the public about criminal activity in the community?</p>
+
+<h2 id="applications-and-solutions-descriptive-crime-mapping">Applications and Solutions: Descriptive Crime Mapping</h2>
+
+<p>Descriptive crime mapping has traditionally been used by police services to track when and where service calls occur, which has permitted police to track trends and allocate resources. Older methods of plotting had significant downsides: pinboard maps could only contain so much data at one time, and were typically only available to the police services maintaining them. As technology has evolved, so too has the capability of police to maintain, store, and analyze data about crimes that occur in their community. These technologies offer new methods to make that data public accessible.</p>
+
+<h2 id="technologies">Technologies</h2>
+
+<p><strong>DirectOnline Manual Crime Mapping</strong> – Combines traditional crime mapping techniques (manually logging when and where service calls occurred) with an online map portal that can be easily accessed by any member of the public. Reports may be general or more specific, containing a range of information from the reason for the service call to a basic description of the involved parties.</p>
+
+<p><strong>Online Automatic Crime Mapping</strong> – Integrates automatic dispatch systems with online crime mapping in order to automatically log service calls on a map when police are dispatched. Details of the service call may be added at a later time.</p>
+
+<p><strong>Crime Bulletins</strong> – Communicates basic data about crime that has occurred in the community in regular intervals, and provides basic prevention and safety tips on a more preventative basis. May be delivered via municipal website or on an opt-in basis via email.</p>
+<h2 id="managing-liability-issues">Managing Liability Issues</h2>
+
+<h3 id="accuracy">Accuracy</h3>
+
+<p><strong>Issues</strong></p>
+
+<p>Because crime maps typically make use of call data (i.e. instances where someone makes a call for police services) and not statistical data (i.e. the data internal to police departments that compiles witness statements, interviews, and at least some of the evidence) there is a question of if crime maps are truly a reliable resource.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Include disclaimers. Police-controlled crime maps should include disclaimers that data may not be entirely accurate and should inform users of what kind of decisions can be informed by the data they’re seeing – and what kind of decisions cannot. Maps that use calls for service as their point of reference should make clear that incidents did not necessarily happen at each point on the map.</p>
+
+<p>Don’t use third party platforms. Crime mapping provided through third party platforms is typically is accessible through their own web portals, of which police services can’t add disclaimers to. It may be valuable for police services to administer their own crime mapping in order to avoid this issue.</p>
+
+<p>Make data open. If police services do use a third party platform to administrate their crime mapping, they should make available to the public the data that they give those services, assuming that data does not raise any privacy concerns. This would allow people to judge the accuracy of the data more accurately, or at least understand under what basis certain conclusions are being drawn.</p>
+
+<p>Don’t use crime maps statistically. Since the data that most crime maps employ is not statistic, any statistic conclusions it draws likely will be at least somewhat misleading. Disclaimers help address this issue, but police services should also avoid adding any statistical analysis tools to their crime maps to prevent the public being misinformed.</p>
+
+<p>Update the map when more information is available. While a point on the map may at first simply show where a call for service was made, police services can later update that point to show where the incident actually occurred. Calls for service placed on the map should also clearly state that a call for service was made, and should not mislead people into thinking the incident actually occurred there.</p>
+
+<p>Don’t include certain entries on the “menu” if no data is provided. Third party platforms that offer crime mapping services often include a stock “menu” where crimes may be filtered to a specific crime, even if the police services in question do not provide data for that crime. This may give the impression that no crimes of that type have occurred when that is not the case. Simply excluding types of crime that are not reported on from the “menu” would completely fix this issue.</p>
+
+<p>More information is better than less. Jane Doe v Metropolitan Toronto (Municipality) Commissioners of Police (1998), 160 DLR (4th) 697 (Ont. Gen. Div.) established that police have a duty to warn narrow and distinct groups of potential victims of imminent threats to their safety. In the absence of such a warning, failure to protect such at-risk individuals could result in tort action against the police department.</p>
+
+<h3 id="privacy">Privacy</h3>
+
+<p><strong>Issues</strong></p>
+
+<p>Crime mapping will raise issues of privacy whenever the information it communicates could be linked with an individual’s identity. This could happen in situations as simple as those that associate where a crime occurred with a certain address, but could also encompass any information sharing that could expose involved parties.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Use “heat maps”, not pin boards. While it may be tempting to show exactly where a crime occurred, it may be better from a privacy perspective to show the number of crimes that have occurred within a block or few-block radius to avoid identifying any specific address.</p>
+
+<p>Anonymize data. Involved parties should likely not be identified beyond their approximate age and gender, if they are identified at all.</p>
+
+<p>Use general descriptions. If provided, reasons for dispatch are best described in broad, general terms (i.e. theft, noise disturbance, etc).</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</p>
+:ET

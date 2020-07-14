@@ -1,0 +1,114 @@
+I"�<h1 id="service-predictive-policing">Service: Predictive Policing</h1>
+
+<p>Police have a duty to protect the public and to detect and prevent crime. Municipalities can support law enforcement agencies by helping them drive evidence-based, data-driven law enforcement tactics and strategies that are effective, efficient and economical.</p>
+
+<h2 id="applications-and-solutions">Applications and Solutions:</h2>
+
+<p>Predictive policing uses data and analytics to predict where and when crime will occur.</p>
+
+<h2 id="technologies">Technologies</h2>
+
+<p><strong>Predictive Mapping AI</strong> – Predictive mapping software uses historical data of criminal activity to predict where and when future criminal activity is likely to occur.</p>
+
+<p><strong>Risk Assessment AI</strong> – Risk assessment programs measure an individual’s likelihood of re-offence, using a host of factors from criminal history to postal code to age and sex to given name. Such programs are highly controversial as they have been shown to exhibit racial and ethnic bias.</p>
+
+<p><strong>Facial Recognition</strong> – Facial recognition software uses machine learning algorithms to analyze images of people’s faces, matching them to images of identified individuals collected online or in an offline database.</p>
+
+<p><strong>Smart Surveillance</strong> – Smart-city capabilities implemented to increase the efficiency of city management can also serve as convenient tools for law enforcement. Information and communications technologies – from traffic sensors to CCTV cameras – can provide valuable information, while smart energy meters and infrared imaging can provide police officers with unprecedented information about households.</p>
+
+<p><strong>Body Cameras</strong> – Cameras that can be safely and comfortably attached to police officers’ uniforms, recording officers’ interactions with the public. Though they have found only limited implementation in Canada, use is widespread throughout the US.</p>
+
+<p><strong>Crowd Management</strong> – Integrated surveillance can notify an operator of potentially dangerous situations, e.g. if microphones in an area register a dramatic uptick in noise levels; the overseer can then quickly dispatch police officers or security personnel to the location, saving valuable response time</p>
+
+<h2 id="managing-liability-issues">Managing Liability Issues</h2>
+
+<h3 id="disproportionate-policing">Disproportionate Policing</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Increased police presence in a neighbourhood results in higher rates of arrest and conviction. Predictive mapping can lead to a vicious cycle of over-policing in socio-economically disadvantaged neighbourhoods, exacerbating existing social inequities.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Discretion. When deploying patrol vehicles, the recommendations of predictive mapping technologies should be tempered by the broader social implications of disproportionate policing practices.</p>
+
+<h3 id="transparency">Transparency</h3>
+
+<p><strong>Issue.</strong></p>
+
+<p>Machine learning algorithms are fundamentally inscrutable. This inscrutability to democratic oversight is problematic when it is influencing decisions that directly affect the privacy, liberty, security and perhaps even life of Canadians.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Algorithmic recommendations should never be used as a substitute for a flesh and blood decision-maker. At most, such programs should be treated as but one among many bits of evidence that lead the decision-maker to their conclusion.</p>
+
+<h3 id="privacy">Privacy</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Some of these technologies, especially when taken together, have broad and controversial privacy implications.</p>
+
+<p>Constitutionality. The constitutionality of police use of facial recognition software has not yet been tested in court. R v Jarvis, 2019 SCC 10 (paras 89-90) gives reason to suggest that its use in criminal investigation (particularly if combined with video surveillance) would likely prove unconstitutional (see also: R v Wong, [1990] 3 SCR 36 at pp. 46-7; and R v Yu, 2019 ONCA 946 at para 123).</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Anonymize data. Where possible, involved parties should likely not be identified beyond their approximate age and gender, if they are identified at all.</p>
+
+<p>Use general descriptions. If provided, reasons for dispatch are best described in broad, general terms (i.e. theft, noise disturbance, etc).</p>
+
+<p>Avoid over-reliance on technologically derived evidence. As the constitutionality of some of these technologies is not established, officers should avoid relying upon it exclusively when pursuing criminal investigations. Where practicable, warrants should be obtained before techno-surveillance equipment is deployed.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</p>
+
+<h3 id="accuracy">Accuracy</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Some of these technologies have been known to provide inaccurate results.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Until their efficacy and accuracy has been proven to the municipality, the accuracy of policing technologies should not be presumed.</p>
+
+<h3 id="security">Security</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Data security overlaps significantly with the privacy issues listed above. Proactive collection and utilization will mean that police services will amass more data in more formats than ever before. Municipalities will need to ensure they have robust cybersecurity and encryption systems in place to protect themselves from cyberattacks.</p>
+
+<p><strong>Managing Issues.</strong></p>
+
+<p>Prepare and rehearse a breach protocol. Data breaches happen. Municipalities should have a rehearsed breach protocol in place for this eventuality. Affected members of the public should be notified promptly and fully of any personal information that has been exposed.</p>
+
+<p>Anonymize data, where possible. Where possible, data should be anonymized to mitigate the potential ramifications of data misuse.</p>
+
+<p>Encrypt. All personal data should be encrypted.</p>
+
+<p>Limit Access. Access to sensitive personal data should be limited to municipal who truly require access in the execution of their duties.</p>
+
+<p>Log Access. All access to databases should be recorded and saved.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/security.html">good security practices</a>.</p>
+
+<h2 id="resources">Resources</h2>
+
+<p>Office of the Privacy Commissioner of Canada, <a href="https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2013/fr_201303/">“Automated Facial Recognition in the Public and Private Sectors”</a>, (May 2013).</p>
+<ul>
+  <li>This is the Office of the Privacy Commissioner’s write-up on some the policy concerns surrounding the use of facial recognition software both by private and state agencies.</li>
+</ul>
+
+<p>Hannah Couchman, <a href="https://www.libertyhumanrights.org.uk/issue/policing-by-machine/">“Report: Policing by Machine”</a>, Liberty (1 February 2019).</p>
+<ul>
+  <li>Provides a detailed look at some of the drawbacks of predictive policing strategies.</li>
+</ul>
+
+<p>Meijer, Albert &amp; Martijn Wessels, <a href="https://www.tandfonline.com/doi/full/10.1080/01900692.2019.1575664">“Predictive Policing: Review of Benefits and Drawbacks”</a>, (2019) 42:12 Intl J Pub Admin 1031.</p>
+<ul>
+  <li>Peer review literature review of the drawbacks and benefits of predictive policing. Meijer and Wessels find that there is insufficient empirical evidence to give credence to the claimed benefits of predictive policing tactics. The same, however, is true of the purported drawbacks.</li>
+</ul>
+
+<p>Groupe Speciale Mobile, <a href="https://www.gsma.com/iot//wp-content/uploads/2016/10/GSMA-Crowd-management-case-study-web.pdf">“GSMA Smart Cities Guide: Crowd Management”</a>.</p>
+<ul>
+  <li>Global mobile network operators’ guide to crowd management using smart phones linked to mobile networks.</li>
+</ul>
+:ET

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sidebar-page
 title: Civic Empowerment
 permalink: civic-engagment/civic-empowerment
 ---
