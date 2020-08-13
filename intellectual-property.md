@@ -40,26 +40,30 @@ Also of importance is that municipal employees who are planning to use Intellect
 
 ## Resources
 
-1. [“IP in business transactions: Canada overview”](https://ca.practicallaw.thomsonreuters.com/3-505-4642?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1), (Practical Law)
-  * Overview of the various IP rights in Canada, licensing and assignment of such rights, and related issues in a M&A context.
+### Guides and Toolkits
 
-1. Canadian Intellectual Property Office, [“Plan your IP strategy”](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr04563.html) 
+Canadian Intellectual Property Office, [“Plan your IP strategy”](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr04563.html) 
   *	Summary of considerations when developing an IP strategy that is aligned with an organization’s goals, including commercialization, ownership and working with third parties.
 
-1. Office of the Privacy Commissioner of Canada, [“The Application of PIPEDA to Municipalities, Universities, Schools, and Hospitals”](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/02_05_d_25/)
-  *	Brief explanation of the application of PIPEDA to non-core commercial activities of municipalities, universities, schools and hospitals (the “MUSH” sector).
-
-1. Canadian Intellectual Property Office, [“IP foundations series”](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr04590.html)
-  *	Primer on intellectual property, particularly patents, trademarks and industrial designs in Canada.
-
-1. Bereskin & Parr, [“The Licensing and Commercializing of Intellectual Property”](https://www.bereskinparr.com/files/file/docs/LicensingIPBereskinHartUpdate.pdf)
+Bereskin & Parr, [“The Licensing and Commercializing of Intellectual Property”](https://www.bereskinparr.com/files/file/docs/LicensingIPBereskinHartUpdate.pdf)
   *	A more in-depth look of licensing IP, including common terms found in licensing agreements, and a discussion of developing and exploiting technology in joint ventures.
 
-1. Compute Ontario & Orion, [“Building Ontario’s Next-Generation Smart Cities Through Data Governance, Part 4: The Future of Ontario’s Data”](https://www.orion.on.ca/wp-content/uploads/2019/11/Smart_Cities_The_future_of_Ontarios_data.pdf)
+### Other Resources
+
+[“IP in business transactions: Canada overview”](https://ca.practicallaw.thomsonreuters.com/3-505-4642?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1), (Practical Law)
+  * Overview of the various IP rights in Canada, licensing and assignment of such rights, and related issues in a M&A context.
+
+Office of the Privacy Commissioner of Canada, [“The Application of PIPEDA to Municipalities, Universities, Schools, and Hospitals”](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/r_o_p/02_05_d_25/)
+  *	Brief explanation of the application of PIPEDA to non-core commercial activities of municipalities, universities, schools and hospitals (the “MUSH” sector).
+
+Canadian Intellectual Property Office, [“IP foundations series”](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr04590.html)
+  *	Primer on intellectual property, particularly patents, trademarks and industrial designs in Canada.
+
+Teresa Scassa, [“Smart Cities: Data Ownership and Privacy Issues”](https://www.teresascassa.ca/index.php?option=com_k2&view=item&id=241:smart-cities-data-ownership-and-privacy-issues&Itemid=81)
+  *	A brief discussion of the ownership of data arising from smart cities and its alignment with principles of open government.
+  
+Compute Ontario & Orion, [“Building Ontario’s Next-Generation Smart Cities Through Data Governance, Part 4: The Future of Ontario’s Data”](https://www.orion.on.ca/wp-content/uploads/2019/11/Smart_Cities_The_future_of_Ontarios_data.pdf)
   *	The final report in a series summarizing the findings of a study about smart cities, including the roles of various stakeholders and the technologies involved, with a particular focus on data governance.
 
-1. MaRS Discovery District, [“A Primer on Civic Digital Trusts”](https://marsdd.gitbook.io/datatrust/about-this-primer) 
+MaRS Discovery District, [“A Primer on Civic Digital Trusts”](https://marsdd.gitbook.io/datatrust/about-this-primer) 
   *	Primer on a form of data governance called data trusts; also extensible to other digital assets and referred to as “civic digital trusts” in the article.
-
-1. Teresa Scassa, [“Smart Cities: Data Ownership and Privacy Issues”](https://www.teresascassa.ca/index.php?option=com_k2&view=item&id=241:smart-cities-data-ownership-and-privacy-issues&Itemid=81)
-  *	A brief discussion of the ownership of data arising from smart cities and its alignment with principles of open government.
