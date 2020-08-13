@@ -26,44 +26,28 @@ Municipalities must implement security-by-design in every design stage and procu
 
 ## Resources
 
-Sound security practices do not come in a one-size-fit-all solution.  Organizational guides and best practices documents offer some assistance to municipal administrators looking to adapt a city-wide Security Policy.
+### Guides and Toolkits
 
-Other Good resources on Practices for Cybersecurity in Smart Cities
-•	Ann Cavoukian and Mark Dixon (Information and Privacy Commissioner, Ontario, Canada) and Mark Dixon (Enterprise Architect, Oracle) in 2013, developed a paper on the fundamental approach to security-by-design for IoT technologies. The paper titled “Privacy and Security by Design: An Enterprise Architecture Approach” outlined the basic principles of embedding security into the design, build, testing, and maintenance stages of Enterprise Architecture.
-•	Mohamad Hasbini and several authors discussed in securing smart cities, the 15 things that should not go wrong in a smart cities’ environment such as healthcare, identity, water, transport, energy, drones, waste, etc., and proactive measures to take to avoid cyber-attacks and ransomware. If there is a cyber crisis, the authors detailed strategies in Smart Cities Cyber Crisis Management to mitigate and manage such situation using steps such as preparation, detection, response, investigation, containment, remediation, etc.
-•	The Center for Internet Security (CIS) developed a list of 140 guidelines on worldwide security configurations. To access the benchmarks, click here. 
-•	On IoT based attacks, Canadian Internet Registration Authority (CIRA) developed a solution called the Secure Home Gateway Project that helps to secure connected homes.
+[Canadian Centre for Cyber Security Cyber Centre Learning Hub](https://cyber.gc.ca/en/learning-hub)
+  * The Learning Hub (LH) is a trusted source for cyber and IT Security training for the Government Canada through a standard curriculum and customized solutions. There are two professional straining streams, Communications security (COMSEC) and Cyber Security, each with its own comprehensive lesson of security programs and best practices. Although the LH is based on federal policies and directives, Canadian municipal governments and public institutions are eligible and take priority for course offerings. These learning opportunities can also be tailored to address specific context and requirements.
+
+Center for Internet Security, [“Cybersecurity Best Practices”](https://www.cisecurity.org/cybersecurity-best-practices/). 
+  * The Center for Internet Security developed a list of 140 guidelines on worldwide security configurations.
+
 •	IoT Security Foundation provides IoT Security Compliance Framework and Questionnaire. The Compliance Framework covers the security requirement and guiding processes for IoTs while the Compliance Questionnaire is a spreadsheet checklist to support and document the security designs.
+
 •	The GSMA Association provides IoT Privacy and Security assessment checklists for IoT providers and vendors to document the design process of IoT products. 
+
 •	The Government of India in 2016 released a Model Framework with 30 cyber security requirements for smart city. The requirements cover different layers of security in smart cities (such as application layer, data layer, communication layer, and sensor layer).
-•	The Deloitte Centre for Government Insights has produced “Making Smart Cities Cybersecure”, a report summarizing the systemic sources of security vulnerabilities for smart cities and proposing policy solutions for addressing those issues.
-  
-Canadian Centre for Cyber Security: An Introduction to the Cyber Threat Environment 
- The Introduction to the Cyber Threat Environment is intended describe common concepts of cyber threat activity in Canada and provides baseline knowledge about the cyber threat environment. This document defines a cyber threat as an activity intended to compromise the security of an information system by altering the availability, integrity, or confidentiality of a system or the information it contains. The document covers the different motivations and sophistication of cyber threat actors and provides a non-exhaustive list of common tools and techniques used by these actors. They have also created a guidebook for local governments to learn more about agile software development and new modular contracting approaches.
 
-Canadian Centre for Cyber Security Cyber Centre Learning Hub
-The Learning Hub (LH) is a trusted source for cyber and IT Security training for the Government Canada through a standard curriculum and customized solutions. There are two professional straining streams, Communications security (COMSEC) and Cyber Security, each with its own comprehensive lesson of security programs and best practices. Although the LH is based on federal policies and directives, Canadian municipal governments and public institutions are eligible and take priority for course offerings. These learning opportunities can also be tailored to address specific context and requirements.
+•	The GSMA Association provides IoT Privacy and Security assessment checklists for IoT providers and vendors to document the design process of IoT products. 
 
-World Economic Forum: Why 2020 Is a Turning Point For Cybersecurity
- This World Economic Forum article suggests that there is an urgent need to advance cybersecurity as countries become more digitized and collect more data than ever. It then discusses various ways in cyber-risks will emerge, and ways in which leaders can adapt and adopt strategies to meet cybersecurity needs. These were categorized under technology, business strategy, and geopolitics and cooperation.
-Advances in new technologies will result in broader access to networks, increase in users and data collection. As such, the need for greater data protection could lead to more difficult sharing of information and weakened protection for law enforcement back doors.  Business strategies should incorporate new knowledge, processes and tools to respond to challenges and risks and be viewed as a fundamental business concern. The article suggests that this can only be achieved through partnerships in the private and public sector. With geopolitics and cooperation, all levels of government will collaborate with each other and non-governmental actors but may be met with delays due to  the complex nature of law-making across jurisdictions. 
-
-National Research Council of Canada (NRC): Cybersecurity   
-The NRC conducts research in cybersecurity and offers technical and advisory services to deal with cyber threats to public infrastructure and service operations. Their core competencies cover a variety of different areas of technology and is able to apply the expertise towards public systems. There is also a Cybersecurity Collaboration Consortium (CNCC) based in New Brunswick that researches cybersecurity with a particular focus on critical infrastructure protection, smart homes and cities, and smart grids.
-
-Global Public Policy Institute (GPPI):  Advancing Cybersecurity Capacity Building
-The GGPI Report defines cybersecurity capacity building (CCB) as a set of initiatives that empowers individuals, communities and governments to reap potential gains from investments in digital technologies. The report advocates for a principle-based approach and presents guiding principles that can provide guidance on scaling CCB as cybersecurity seems to be an afterthought to rapidly expanding connectivity. The report identifies each guiding principle, states the current status quo and makes a number of recommendations under each principle. The guiding principles are:
-•	National and international coordination and cooperation – coordination between government, civil society, and private sectors to carry out measures that are streamlined, prioritized and coherent.
-•	Integration of cybersecurity and development expertise – collaborate across sectors and between development and cybersecurity fields 
-•	Ownership of the recipient-country – this is more relevant at an international level but nonetheless carries the message that CCB efforts should be tailored to the respective government
-•	Sustainability of efforts – cybersecurity integration with a long-term goal and training for all relevant stakeholders
-•	Continued and mutual learning – frequent, structured and thorough evaluation and feedback mechanisms are required
+•	The Government of India in 2016 released a Model Framework with 30 cyber security requirements for smart city. The requirements cover different layers of security in smart cities (such as application layer, data layer, communication layer, and sensor layer).
 
 Public Safety Canada - 
 •	Fundamentals of Cyber Security for Canada’s Critical Infrastructure Community.
 •	Mitigation Guidelines for Denial of Service Attacks.
 •	Industrial Control System (ICS) Cyber Security: Recommended Best Practices.
-
 
 LSNetwork, Best Practices and Guides on IoT security in Smart Cities.
 
@@ -75,6 +59,30 @@ IoT Security Foundation – Secure Design Best Practice Guides.
 
 CSA – Cyber Security Guidelines for Smart City Technology Adoption.
 
+### Articles
+
+Ann Cavoukian and Mark Dixon, “Privacy and Security by Design: An Enterprise Architecture Approach”
+  * A 2013 paper on the fundamental approach to security-by-design for IoT technologies. The paper outlined the basic principles of embedding security into the design, build, testing, and maintenance stages of Enterprise Architecture.
+
+Mohamad Hasbini et al., ["Smart Cities Cyber Crisis Management"](https://securingsmartcities.org/wp-content/uploads/2017/09/SSC-SCCCM.pdf)
+•	Authors discussed  securing smart cities, the 15 things that should not go wrong in a smart cities’ environment such as healthcare, identity, water, transport, energy, drones, waste, etc., and proactive measures to take to avoid cyber-attacks and ransomware. If there is a cyber crisis, the authors detailed strategies in Smart Cities Cyber Crisis Management to mitigate and manage such situation using steps such as preparation, detection, response, investigation, containment, remediation, etc.
+
+•	On IoT based attacks, Canadian Internet Registration Authority (CIRA) developed a solution called the Secure Home Gateway Project that helps to secure connected homes.
+
+•	The Deloitte Centre for Government Insights has produced “Making Smart Cities Cybersecure”, a report summarizing the systemic sources of security vulnerabilities for smart cities and proposing policy solutions for addressing those issues.
+  
+Canadian Centre for Cyber Security: An Introduction to the Cyber Threat Environment 
+ * The Introduction to the Cyber Threat Environment is intended describe common concepts of cyber threat activity in Canada and provides baseline knowledge about the cyber threat environment. This document defines a cyber threat as an activity intended to compromise the security of an information system by altering the availability, integrity, or confidentiality of a system or the information it contains. The document covers the different motivations and sophistication of cyber threat actors and provides a non-exhaustive list of common tools and techniques used by these actors. They have also created a guidebook for local governments to learn more about agile software development and new modular contracting approaches.
+
+World Economic Forum: Why 2020 Is a Turning Point For Cybersecurity
+ * This World Economic Forum article suggests that there is an urgent need to advance cybersecurity as countries become more digitized and collect more data than ever. It then discusses various ways in cyber-risks will emerge, and ways in which leaders can adapt and adopt strategies to meet cybersecurity needs. These were categorized under technology, business strategy, and geopolitics and cooperation.
+
+National Research Council of Canada (NRC): Cybersecurity   
+ * The NRC conducts research in cybersecurity and offers technical and advisory services to deal with cyber threats to public infrastructure and service operations. Their core competencies cover a variety of different areas of technology and is able to apply the expertise towards public systems. There is also a Cybersecurity Collaboration Consortium (CNCC) based in New Brunswick that researches cybersecurity with a particular focus on critical infrastructure protection, smart homes and cities, and smart grids.
+
+Global Public Policy Institute (GPPI):  Advancing Cybersecurity Capacity Building
+ * The GGPI Report defines cybersecurity capacity building (CCB) as a set of initiatives that empowers individuals, communities and governments to reap potential gains from investments in digital technologies. The report advocates for a principle-based approach and presents guiding principles that can provide guidance on scaling CCB as cybersecurity seems to be an afterthought to rapidly expanding connectivity. The report identifies each guiding principle, states the current status quo and makes a number of recommendations under each principle. 
+
 IoTSecurity2018 – Enhancing IoT Security.
 
 ENISA – 
@@ -85,12 +93,12 @@ ENISA –
 
 ### Other Reading
 
-Mass Framingham, “Smart Cities Initiatives Forecast to Drive $189 Billion in Spending in 2023, According to a New Smart Cities Spending Guide from IDC”, IDC <https://www.idc.com/getdoc.jsp?containerId=prUS45303119>
+Mass Framingham, [“Smart Cities Initiatives Forecast to Drive $189 Billion in Spending in 2023, According to a New Smart Cities Spending Guide from IDC”](https://www.idc.com/getdoc.jsp?containerId=prUS45303119)
 
-Maryam Farsi et al, Digital Twin Technologies and Smart Cities, pages 130 - 147 <https://books.google.ca/books?id=sKCkDwAAQBAJ&printsec=frontcover&dq=Digital+Twin+Technologies+and+Smart+Cities&hl=en&sa=X&ved=0ahUKEwiyqtzrx9XpAhUjiOAKHQLtC_cQ6AEIKDAA#v=onepage&q=Digital%20Twin%20Technologies%20and%20Smart%20Cities&f=false> 
+[Maryam Farsi et al, Digital Twin Technologies and Smart Cities, pages 130 - 147](https://books.google.ca/books?id=sKCkDwAAQBAJ&printsec=frontcover&dq=Digital+Twin+Technologies+and+Smart+Cities&hl=en&sa=X&ved=0ahUKEwiyqtzrx9XpAhUjiOAKHQLtC_cQ6AEIKDAA#v=onepage&q=Digital%20Twin%20Technologies%20and%20Smart%20Cities&f=false) 
 
-Adel Elmaghraby et al, “Cyber security challenges in Smart Cities: Safety, security and privacy” Sciencedirect <https://doi.org/10.1016/j.jare.2014.02.006>
+Adel Elmaghraby et al, [“Cyber security challenges in Smart Cities: Safety, security and privacy”](https://doi.org/10.1016/j.jare.2014.02.006),Sciencedirect.
 
-Bell, “How to Overcome IoT Security Concerns”, <https://business.bell.ca/web/shop/resources/PDF/IoT/IDC_InfoBrief_Overcome_IoT_Security_Concerns_EN.PDF> 
+Bell, [“How to Overcome IoT Security Concerns”](https://business.bell.ca/web/shop/resources/PDF/IoT/IDC_InfoBrief_Overcome_IoT_Security_Concerns_EN.PDF) 
 
-LSNetwork, “Smart Planning our Smart Cities” <https://static1.squarespace.com/static/546bbd2ae4b077803c592197/t/5b2bbd44aa4a9970b3cff95f/1529593163251/CUIPublication.SmartPlanningOurSmartCities.June2018.pdf> 
+LSNetwork, [“Smart Planning our Smart Cities”](https://static1.squarespace.com/static/546bbd2ae4b077803c592197/t/5b2bbd44aa4a9970b3cff95f/1529593163251/CUIPublication.SmartPlanningOurSmartCities.June2018.pdf}
