@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Promoting Facilities Use
-permalink: /park-recreation/park-recreation/promoting-facilities-use
+permalink: /park-recreation/promoting-facilities-use
 ---
 # Services: Promoting Facilities Use
 
