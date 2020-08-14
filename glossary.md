@@ -15,9 +15,9 @@ permalink: /glossary
 	
 **Intellectual Property** - Intellectual property refers to a group of rights in different kinds of intellectual works, like inventions, software, and trade secrets.  Intellectual property rights play a key role in the acquisition, implementation, and operation of smart city tecnologies, and careful  management is necessary to manage risks associated with these rights. 
 	
-*Internet of Things (IoT) - The Internet of Things is the term given to networked devices.  IoT devices are "things" - sensors, meters, tools, vehicles, etc. - that have on-board internet communications capability.
+**Internet of Things (IoT)** - The Internet of Things is the term given to networked devices.  IoT devices are "things" - sensors, meters, tools, vehicles, etc. - that have on-board internet communications capability.
 	
-**Privacy Impact Assessments ** - Privacy Impact Assessments are an essential, standardized tool, familiar to privacy regulators and authorities, that help identify privacy risks and issues and ensure regulatory compliance by mitigating the issues raised.
+**Privacy Impact Assessments** - Privacy Impact Assessments are an essential, standardized tool, familiar to privacy regulators and authorities, that help identify privacy risks and issues and ensure regulatory compliance by mitigating the issues raised.
 	
 **Privacy by design** - Privacy by Design is a principled-based approach to designing technology and services that place privacy and security at the centre of project design and development.  Many privacy issues arise after project design is complete.  These principles help ensure that issues are identified and accordingly addressed early, as an aspect of privacy design rather than as an expensive consequence of project execution.
 	
