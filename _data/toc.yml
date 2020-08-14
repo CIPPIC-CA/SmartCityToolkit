@@ -26,13 +26,57 @@ toc:
         url: /SmartCityToolkit/emergency-management/predictive-policing.html
   - title: Parks and Recreation 
     subfolderitems:
-      - page: Grounds and Facilities Maintenance
+      - page: public-outreach
         url: /SmartCityToolkit/park-recreation/grounds-and-facilities-maintenance.html
       - page: Promoting Facilities Use
         url: /SmartCityToolkit/park-recreation/promoting-facilities-use.html
-  - title: Energy
-
-  ## Sub-sub page table of contents
+  - title: Housing 
+    subfolderitems:
+      - page: Affordable Huusing
+        url: /SmartCityToolkit/housing/affordable-housing
+      - page: Shelter Management
+        url: /SmartCityToolkit/housing/shelter-management
+      - page: Energy Efficient Homes
+        url: /SmartCityToolkit/housing/energy-efficient-homes
+  - title: Information Technology
+    subfolderitems:
+      - page: Internet Accessibility
+        url: /SmartCityToolkit/information-technology/internet-accessibility
+      - page: Creating and Informed Public
+        url: /SmartCityToolkit/information-technology/creating-informed-public
+      - page: Library Services
+        url: /SmartCityToolkit/information-technology/library-services
+  - title: Iinfrastructure
+    subfolderitems:
+      - page: Building Management
+        url: /SmartCityToolkit/infrastructure/building-management
+      - page: Facilities Management
+        url: /SmartCityToolkit/infrastructure/facilities-management
+      - page: Road Maintenance
+        url: /SmartCityToolkit/infrastructure/road-maintenance
+  - title: Municipal Aministration
+    subfolderitems: 
+      - page: Data Governance
+        url: /SmartCityToolkit/municipal-administration
+  - title: Public Health
+    subfolderitems:
+      - page: Air Quality
+        url: /SmartCityToolkit/public-health/air-quality
+      - page: Outbreak Management
+        url: /SmartCityToolkit/public-health/outbreak-management
+      - page: intervention-initiatives
+        url: /SmartCityToolkit/public-health/intervention-initiatives
+  - title: Utilities
+    subfolderitems:
+      - page: Water
+        url: /SmartCityToolkit/utilities/water
+      - page: Waste Management
+        url: /SmartCityToolkit/utilities/waste-management  
+      - page: Power
+        url: /SmartCityToolkit/utilities/power
+      - page: Reducing Emissions
+        url: /SmartCityToolkit/utilities/reducing-emissions
+        ## Sub-sub page table of contents
   - title: Public Outreach
     subfolderitems:
       - page: Outreach to the disability community
