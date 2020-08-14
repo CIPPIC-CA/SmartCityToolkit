@@ -32,13 +32,13 @@ toc:
         url: /SmartCityToolkit/park-recreation/promoting-facilities-use.html
   - title: Housing 
     subfolderitems:
-      - page: Affordable Huusing
+      - page: Affordable Housing
         url: /SmartCityToolkit/housing/affordable-housing
       - page: Shelter Management
         url: /SmartCityToolkit/housing/shelter-management
       - page: Energy Efficient Homes
         url: /SmartCityToolkit/housing/energy-efficient-homes
-  - title: Information Technology
+  - title: Information Technology Services
     subfolderitems:
       - page: Internet Accessibility
         url: /SmartCityToolkit/information-technology/internet-accessibility
@@ -46,7 +46,7 @@ toc:
         url: /SmartCityToolkit/information-technology/creating-informed-public
       - page: Library Services
         url: /SmartCityToolkit/information-technology/library-services
-  - title: Iinfrastructure
+  - title: Infrastructure
     subfolderitems:
       - page: Building Management
         url: /SmartCityToolkit/infrastructure/building-management
