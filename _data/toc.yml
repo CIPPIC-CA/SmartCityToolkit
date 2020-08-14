@@ -14,6 +14,12 @@ toc:
         url: /SmartCityToolkit/civic-engagment/public-outreach.html
       - page: Civic Empowerment 
         url: /SmartCityToolkit/civic-engagment/civic-empowerment.html
+  - title: Economic Development and Culture 
+    subfolderitems:
+      - page: Tourism Promotion
+        url: /SmartCityToolkit/economic-development-culture/tourism-promotion.html
+      - page: Economic Support  
+        url: /SmartCityToolkit/economic-development-culture/economic-support.html
   - title: Emergency Management 
     subfolderitems:
       - page: Fire Response Systems
