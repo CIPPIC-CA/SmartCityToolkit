@@ -1,6 +1,6 @@
 ---
 layout: sidebar-page
-title: Economic Development 
+title: Economic Development and Culture
 permalink: /economic-development-culture
 ---
 Municipalities can play an important role in supporting local businesses.  Municipalities can occupy an important position linking businesses with common issues and facilitating co-operation among businesses that might otherwise see themselves as competitors.  Municipal support of economic development and cultural undertakings can be the difference between success and failure.
