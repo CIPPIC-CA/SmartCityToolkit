@@ -1,6 +1,6 @@
 ---
 layout: sidebar-page
-title: Information Technology
+title: Information Technology Services
 permalink: /information-technology
 ---
 As the world becomes more and more connected, data and online services have started to play a new and central role in the lives of people living in all sorts of places. It is becoming increasingly important that people are able to access the internet to stay in touch with their loved ones and friends, get where they need to go, access their money, and maintain other aspects of their daily life. But that is not all the internet can enable them to do. Understanding where the data that informs them comes from and how it is analyzed, synthesized, and delivered can help citizens engage with the choices they make on a deeper and more thoughtful level. 
