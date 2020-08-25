@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Internet Accessibilituy
+title: Internet Accessibility
 permalink: /information-technology/internet-accessibility
 ---
 # Services: Greater Accessibility to Internet
