@@ -1,7 +1,7 @@
 ---
 layout: sidebar-page
 title: Utilities
-permalink: /utitlies
+permalink: /utilities
 
 ---
 Municipal public utilities include four services - water, electricity, energy, and waste management. These utilities are key infrastructure in any city and smart technologies can help citizen control their utility usage and municipalities manage the services more efficiently.
