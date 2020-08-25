@@ -18,11 +18,18 @@ Security challenges include data and identity theft, system vulnerability, and c
 ## How should Municipalities approach Security in Smart City Procurement
 
 Municipalities must implement security-by-design in every design stage and procurement process of smart city technology. Smart city technologies must be brought within the security policies of the municipality, and these processes themselves must be adapted to address the security risks new smart city technologies bring with them.  Standard security practices will include:
-•	Protecting personal information and privacy - This includes masking of personal data in the design process using encryption (DES, RSA, and AES for sensor networks), hashing (hash link, and hash lock), minimalist cryptography, and differential privacy.
-•	Using security technology - Intrusion Detection Systems (IDS) on all technologies in existence before the implementation of security-by-design. Additional protection includes the installation of antivirus and firewalls, software updates to patch software vulnerabilities and security flaws, the use of digital signatures, and secure APIs.
-•	Develop security impact assessment tools – Checklists and other such tools assess the impact of smart cities technologies on security and privacy at an early stage. Some terms to include in the checklist may be securing information and communication, standard protection of data and identity, the level of authentication and its process, elimination of weak points, firmware update timeframe, protocols for security breaches, etc.
-•	Develop human security policies – Many cyber attacks exploit human gullibility.  In this environment, security is everyone’s responsibility.  Training, access policies and credential enforcement will help address security vulnerabilities that no amount of software can patch.
-•	Consider Open Source Software – All software has security vulnerabilities.  Open source software benefits from a community of peers able to review and improve the software.  As collaboration expands, the quality of the software improves. Closed source systems, in contrast, depend on the security analysis of their publisher. This can be slow and expensive.  Standards, Best Practices, and Guides
+
+ •	Protecting personal information and privacy - This includes masking of personal data in the design process using encryption (DES, RSA, and AES for sensor networks), hashing (hash link, and hash lock), minimalist cryptography, and differential privacy.
+
+ •	Using security technology - Intrusion Detection Systems (IDS) on all technologies in existence before the implementation of security-by-design. Additional protection includes the installation of antivirus and firewalls, software updates to patch software vulnerabilities and security flaws, the use of digital signatures, and secure APIs.
+
+ •	Develop security impact assessment tools – Checklists and other such tools assess the impact of smart cities technologies on security and privacy at an early stage. Some terms to include in the checklist may be securing information and communication, standard protection of data and identity, the level of authentication and its process, elimination of weak points, firmware update timeframe, protocols for security breaches, etc.
+
+ •	Develop human security policies – Many cyber attacks exploit human gullibility.  In this environment, security is everyone’s responsibility.  Training, access policies and credential enforcement will help address security vulnerabilities that no amount of software can patch.
+
+ •	Consider Open Source Software – All software has security vulnerabilities.  Open source software benefits from a community of peers able to review and improve the software.  As collaboration expands, the quality of the software improves. Closed source systems, in contrast, depend on the security analysis of their publisher. This can be slow and expensive.  
+ 
+# Standards, Best Practices, and Guides
 
 ## Resources
 
