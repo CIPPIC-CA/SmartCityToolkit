@@ -28,7 +28,7 @@ As in all procurement situations, smart city procurement requires transparency. 
 
 Technology acquisitions often implicate long term commitment to a specific vendor.  This creates a danger that a municipality, having committed itself to a particular vendor through a competitive and transparent procurement process, is now at the mercy of the vendor for follow-on services and products. Municipalities need to be aware that taxpayer funds are vulnerable not only through the technology selection process, but also throughout the life cycle of the technology.
 
-## Annotated Bibliography
+## Resources
 
 *The following bibliography of sources looking at best practices and guidance on open smart city procurement. The sources include topics of procurement in the context of a smart city as well as open procurement.* 
 
