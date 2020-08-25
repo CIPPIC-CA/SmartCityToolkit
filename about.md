@@ -1,8 +1,9 @@
 ---
 layout: default
 title: About
+permalink: /about
 ---
-The Smart City Toolkit was created by CIPPIC, the (Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic)[https://cippic.ca/].  CIPPIC is Canada’s only public interest technology law clinic, and is based at the University of Ottawa’s Faculty of Law, Common Law Section.  CIPPIC General Counsel David Fewer led CIPPIC’s work on the project, supported by summer interns Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi and Rohoma Zakir.
+The Smart City Toolkit was created by CIPPIC, the [Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic](https://cippic.ca/).  CIPPIC is Canada’s only public interest technology law clinic, and is based at the University of Ottawa’s Faculty of Law, Common Law Section.  CIPPIC General Counsel David Fewer led CIPPIC’s work on the project, supported by summer interns Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi and Rohoma Zakir.
 
 The Smart City Toolkit was made possible through the generous funding of Infrastructure Canada.
 
