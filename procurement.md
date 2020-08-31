@@ -50,6 +50,8 @@ OpenNorth,[Open Smart Cities Guide v1.0](https://docs.google.com/document/d/1528
 
 [Canada’s 2018-2020 National Action Plan on Open Government](https://open.canada.ca/en/content/canadas-2018-2020-national-action-plan-open-government#toc5) (see 2. Financial Transparency and Accountability) - *The government of Canada made a commitment to financial transparency which resulted in more transparency in government procurement and spending processes. This means that citizens now have access to open data on the government’s procurement spending and contracts.* 
  
+
+
 Sara Wilson, ["Building Canada’s Low-Carbon Approach to Infrastructure Investments through Prioritization, Policy and Procurement 
 Future Cities Canada"](https://futurecitiescanada.ca/downloads/2018/FCC_ProcurementReport_201809.pdf), Evergreen 2017 - *This resource concentrates on sustainable, green infrastructure initiatives. However, the innovative approach to procurement is a good model for smart cities as well. The report recommends using procurement as a proactive tool for sustainability. Encouraging bidders to innovate, submit bids that are low-carbon and working on creating a more flexible procurement process. The report also cites “Going Green: Best Practices for Sustainable Procurement”. It outlines how national policy frameworks can change to promote better public procurement.* 
  
