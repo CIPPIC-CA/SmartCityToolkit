@@ -80,7 +80,7 @@ Global Public Policy Institute (GPPI), [Advancing Cybersecurity Capacity Buildin
 
 Mass Framingham, [“Smart Cities Initiatives Forecast to Drive $189 Billion in Spending in 2023, According to a New Smart Cities Spending Guide from IDC”](https://www.idc.com/getdoc.jsp?containerId=prUS45303119)  
 
-Maryam Farsi et al, ["Digital Twin Technologies and Smart Cities"](https://books.google.ca/books?id=sKCkDwAAQBAJ&printsec=frontcover&dq=Digital+Twin+Technologies+and+Smart+Cities&hl=en&sa=X&ved=0ahUKEwiyqtzrx9XpAhUjiOAKHQLtC_cQ6AEIKDAA#v=onepage&q=Digital%20Twin%20Technologies%20and%20Smart%20Cities&f=false), pages 130 - 147 
+Hanny F Altam and Gary B Wills, "IoT Security, Privacy, Safety and Ethics", in Maryam Farsi et al, [*Digital Twin Technologies and Smart Cities*](https://books.google.ca/books?id=sKCkDwAAQBAJ&printsec=frontcover&dq=Digital+Twin+Technologies+and+Smart+Cities&hl=en&sa=X&ved=0ahUKEwiyqtzrx9XpAhUjiOAKHQLtC_cQ6AEIKDAA#v=onepage&q=Digital%20Twin%20Technologies%20and%20Smart%20Cities&f=false) (2020), pages 130 - 147 
 
 Adel Elmaghraby et al, [“Cyber security challenges in Smart Cities: Safety, security and privacy”](https://doi.org/10.1016/j.jare.2014.02.006), Sciencedirect.
 
