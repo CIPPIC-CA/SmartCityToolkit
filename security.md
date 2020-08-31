@@ -84,6 +84,6 @@ Maryam Farsi et al, ["Digital Twin Technologies and Smart Cities"](https://books
 
 Adel Elmaghraby et al, [“Cyber security challenges in Smart Cities: Safety, security and privacy”](https://doi.org/10.1016/j.jare.2014.02.006), Sciencedirect.
 
-LSNetwork, ["Smart Planning our Smart Cities"](https://static1.squarespace.com/static/546bbd2ae4b077803c592197/t/5b2bbd44aa4a9970b3cff95f/1529593163251/CUIPublication.SmartPlanningOurSmartCities.June2018.pdf}
+LSNetwork, ["Smart Planning our Smart Cities"](https://static1.squarespace.com/static/546bbd2ae4b077803c592197/t/5b2bbd44aa4a9970b3cff95f/1529593163251/CUIPublication.SmartPlanningOurSmartCities.June2018.pdf)
 
 Bell, [“How to Overcome IoT Security Concerns”](https://business.bell.ca/web/shop/resources/PDF/IoT/IDC_InfoBrief_Overcome_IoT_Security_Concerns_EN.PDF) 
