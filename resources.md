@@ -20,7 +20,7 @@ Privacy International, [Smart Cities Resources](https://privacyinternational.org
 
 # Security
 
-Public Safety Canada - Public Safety has release a number of guides on infrastructure security. 
+Public Safety Canada - Public Safety has release a number of guides on infrastructure security: 
   * [Fundamentals of Cyber Security for Canada’s Critical Infrastructure Community](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2016-fndmntls-cybr-scrty-cmmnty/index-en.aspx)
   * [Mitigation Guidelines for Denial of Service Attacks](https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-001-en.aspx)
   * [Industrial Control System (ICS) Cyber Security: Recommended Best Practices](https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-002-en.aspx)
