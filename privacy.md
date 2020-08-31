@@ -96,3 +96,8 @@ CBC, Spark ["Confused by Smart Cities? This Expert explains what it is and why w
 CBC, Spark ["To Protect Privacy, There Need to be Limits on Smart City Surveillance](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/to-protect-privacy-there-need-to-be-limits-on-smart-cities-surveillance-1.5112184) - *In February, 2019, Victoria, BC hosted the 20th Annual Privacy and Security Conference which featured a panel on how to balance freedom and security in a smart city. Panelists included Ann Cavoukian, the former privacy commissioner of Ontario, David Izzard, Architecture & Cyber Security Manager for the City of Surrey, BC, and Andrew Clement, Professor Emiritus and the University of Toronto Information School and a member of the Waterfront Toronto Digital Strategy Advisory Board.*
 
 Stephen Pritchard, ["Securing the Smart City"](https://www.infosecurity-magazine.com/magazine-features/securing-the-smart-city-1/), Infosecurity - *Article on privacy and security issues in the smart city.*
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
