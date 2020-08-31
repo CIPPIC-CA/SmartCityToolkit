@@ -59,72 +59,40 @@ Data governance in the smart city is a civic responsibility. Municipalities and 
 
 ### Guides and Toolkits
 
-IAPP, [Privacy By Design](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/).
+IAPP, [Privacy By Design](https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/) - *An overview of privacy by design, a design approach to embedding privacy in technology from the outset.*
 
- * An overview of privacy by design, a design approach to embedding privacy in technology from the outset.
+Office of the Ontario Information and Privacy Commissioner, [Technology Fact Sheet: Smart Cities and your Privacy Rights](https://www.ipc.on.ca/wp-content/uploads/2018/04/fs-tech-smart-cities.pdf), (April 2018) - *Brief overview of some informational privacy issues associated by smart city technologies, particularly sensor data.*
 
-Office of the Ontario Information and Privacy Commissioner, [Technology Fact Sheet: Smart Cities and your Privacy Rights](https://www.ipc.on.ca/wp-content/uploads/2018/04/fs-tech-smart-cities.pdf), (April 2018).
-
- * Brief overview of some informational privacy issues associated by smart city technologies, particularly sensor data.
-
-Office of the Ontario Information and Privacy Commissioner, [Planning for Success:  A Privacy Impact Assessment Guide](https://www.ipc.on.ca/wp-content/uploads/2015/05/planning-for-success-pia-guide.pdf).
-
- * Useful guide to planning and conducting a privacy impact assessment.
+Office of the Ontario Information and Privacy Commissioner, [Planning for Success:  A Privacy Impact Assessment Guide](https://www.ipc.on.ca/wp-content/uploads/2015/05/planning-for-success-pia-guide.pdf) - *Useful guide to planning and conducting a privacy impact assessment.*
  
-Office of the Ontario Information and Privacy Commissioner, ["De-identification Guidelines for Structured Data"](https://www.ipc.on.ca/wp-content/uploads/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf), (June 2016).
+Office of the Ontario Information and Privacy Commissioner, ["De-identification Guidelines for Structured Data"](https://www.ipc.on.ca/wp-content/uploads/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf), (June 2016) - *Guidelines for systematically addressing potentially identifiable information in organized data.* 
 
- * Guidelines for systematically addressing potentially identifiable information in organized data. 
-
-Office of the Privacy Commissioner of Canada, [Which Privacy Law Applies](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/).
-
- * A useful decision tree tool for determining which privacy law may apply in a situation - if any.
+Office of the Privacy Commissioner of Canada, [Which Privacy Law Applies](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/) - *A useful decision tree tool for determining which privacy law may apply in a situation - if any.*
 
 ### Regulatory Publications
 
-Office of the Ontario Information and Privacy Commissioner, [Webcast:  Building Smart Cities and Ensuring Public Trust](http://livemedia.biz/ipc2019.html), (January 24, 2019).
+Office of the Ontario Information and Privacy Commissioner, [Webcast:  Building Smart Cities and Ensuring Public Trust](http://livemedia.biz/ipc2019.html), (January 24, 2019) - *Panel discussion on privacy issues raised by smart city proposals and regulatory responses to those risks.*
 
- * Panel discussion on privacy issues raised by smart city proposals and regulatory responses to those risks.
+Office of the Privacy Commissioner of Canada, [Summary of Privacy Laws in Canada](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/) - *Overview of the different privacy laws applicable in different contexts in Canada.*
 
-Office of the Privacy Commissioner of Canada, [Summary of Privacy Laws in Canada](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/).
+Office of the Privacy Commissioner of Canada, [VIDEO:  What is Personal Information](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/bus_pipeda_intro/bus_101_02/) - *A simple but clear description of the definition of "personal information" under Canada's privacy laws.*
 
- * Overview of the different privacy laws applicable in different contexts in Canada.
-
-Office of the Privacy Commissioner of Canada, [VIDEO:  What is Personal Information](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/pipeda-compliance-help/bus_pipeda_intro/bus_101_02/).
-
- * A simple but clear description of the definition of "personal information" under Canada's privacy laws.
-
-Office of the Privacy Commissioner of Canada, [Provincial and Territorial Privacy Laws and Oversight](https://www.priv.gc.ca/en/about-the-opc/what-we-do/provincial-and-territorial-collaboration/provincial-and-territorial-privacy-laws-and-oversight/).
-
- * An overview of provincial privacy laws in Canada.
+Office of the Privacy Commissioner of Canada, [Provincial and Territorial Privacy Laws and Oversight](https://www.priv.gc.ca/en/about-the-opc/what-we-do/provincial-and-territorial-collaboration/provincial-and-territorial-privacy-laws-and-oversight/) - *An overview of provincial privacy laws in Canada.*
 
 ### Civil Society Guidance
 
-ACLU, [Community Control Over Police Surveillance – Guiding Principles](https://www.aclu.org/fact-sheet/community-control-over-police-surveillance-guiding-principles?redirect=fact-sheet/ccops-guiding-principles).
+ACLU, [Community Control Over Police Surveillance – Guiding Principles](https://www.aclu.org/fact-sheet/community-control-over-police-surveillance-guiding-principles?redirect=fact-sheet/ccops-guiding-principles) - *A statement of principles for exercising community control over law enforcement surveillance activities, including those data-centric surveillance applications typically employed in smart city contexts.*
 
- * A statement of principles for exercising community control over law enforcement surveillance activities, including those data-centric surveillance applications typically employed in smart city contexts.
+CIPPIC and McMaster University, [Smart City Privacy](https://smartcityprivacy.ca/) - *A guide to privacy issues and laws applicable to smart city approaches in Canada.  Includes a geographic survey of smart city tools already employed in Canada as well as a statement of best privacy practices.*
 
-CIPPIC and McMaster University, [Smart City Privacy](https://smartcityprivacy.ca/).
-
- * A guide to privacy issues and laws applicable to smart city approaches in Canada.  Includes a geographic survey of smart city tools already employed in Canada as well as a statement of best privacy practices.
-
-Privacy International, [Smart Cities Resources](https://privacyinternational.org/learning-topics/smart-cities).
-
- * Reports, news analysis and other resources published by Privacy International, a leading privacy advocate.
+Privacy International, [Smart Cities Resources](https://privacyinternational.org/learning-topics/smart-cities) - *Reports, news analysis and other resources published by Privacy International, a leading privacy advocate.*
 
 ### Articles and Blog Posts
 
-Maryiam Saifuddin and Chad Marlow, The Canadian Government Executive Blog, [“How to stop smart cities from becoming surveillance cities”](https://canadiangovernmentexecutive.ca/how-to-stop-smart-cities-from-becoming-surveillance-cities/).
+Maryiam Saifuddin and Chad Marlow, The Canadian Government Executive Blog, [“How to stop smart cities from becoming surveillance cities”](https://canadiangovernmentexecutive.ca/how-to-stop-smart-cities-from-becoming-surveillance-cities/) - *This opinion piece asis from Maryiam Saifuddin, an Open Cities Fellow at the Sunlight Foundation, and Chad Marlow, an ACLU Senior Advocacy & Policy Counsel for surveillance, privacy & technology.*
 
- * This opinion piece asis from Maryiam Saifuddin, an Open Cities Fellow at the Sunlight Foundation, and Chad Marlow, an ACLU Senior Advocacy & Policy Counsel for surveillance, privacy & technology.
+CBC, Spark ["Confused by Smart Cities? This Expert explains what it is and why we should care](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/confused-by-smart-city-hype-this-expert-explains-what-it-is-and-why-we-should-care-1.5107893) - *Podcast interview with KTH Royal Institute of Technology urban sustainability professor Andrew Karvonen, discussing fundamentals of smart cities and their privacy considerations.*
 
-CBC, Spark ["Confused by Smart Cities? This Expert explains what it is and why we should care](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/confused-by-smart-city-hype-this-expert-explains-what-it-is-and-why-we-should-care-1.5107893).
+CBC, Spark ["To Protect Privacy, There Need to be Limits on Smart City Surveillance](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/to-protect-privacy-there-need-to-be-limits-on-smart-cities-surveillance-1.5112184) - *In February, 2019, Victoria, BC hosted the 20th Annual Privacy and Security Conference which featured a panel on how to balance freedom and security in a smart city. Panelists included Ann Cavoukian, the former privacy commissioner of Ontario, David Izzard, Architecture & Cyber Security Manager for the City of Surrey, BC, and Andrew Clement, Professor Emiritus and the University of Toronto Information School and a member of the Waterfront Toronto Digital Strategy Advisory Board.*
 
- * Podcast interview with KTH Royal Institute of Technology urban sustainability professor Andrew Karvonen, discussing fundamentals of smart cities and their privacy considerations.
-
-CBC, Spark ["To Protect Privacy, There Need to be Limits on Smart City Surveillance](https://www.cbc.ca/radio/spark/the-spark-guide-to-life-episode-eight-smart-cities-1.5107883/to-protect-privacy-there-need-to-be-limits-on-smart-cities-surveillance-1.5112184).
-
- * In February, 2019, Victoria, BC hosted the 20th Annual Privacy and Security Conference which featured a panel on how to balance freedom and security in a smart city. Panelists included Ann Cavoukian, the former privacy commissioner of Ontario, David Izzard, Architecture & Cyber Security Manager for the City of Surrey, BC, and Andrew Clement, Professor Emiritus and the University of Toronto Information School and a member of the Waterfront Toronto Digital Strategy Advisory Board.
-
-Stephen Pritchard, ["Securing the Smart City"](https://www.infosecurity-magazine.com/magazine-features/securing-the-smart-city-1/), Infosecurity.
-
- * Article on privacy and security issues in the smart city.
+Stephen Pritchard, ["Securing the Smart City"](https://www.infosecurity-magazine.com/magazine-features/securing-the-smart-city-1/), Infosecurity - *Article on privacy and security issues in the smart city.*
