@@ -36,7 +36,7 @@ The waste collection involves sending trucks into the community to collect garba
 
 ## Managing Liability Issues
 
-```
+~~~
 
 ### Privacy
 
@@ -60,15 +60,17 @@ Ensure that partners follow collection restrictions. When purchasing data from p
 
 Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).  
 
-```
+~~~
 
-### Security Issues
+
+|### Security Issues   |
+|---|
+| 
 
 **Issues.**
 
-Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.
-
-**Managing Issues.**
+Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.  |
+|**Managing Issues.**
 
 Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.
 
@@ -80,7 +82,7 @@ Regular audits and security patches. Where city data is stored on cloud-based se
 
 Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.
 
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
+Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).   |
 
 ### Procurement 
 
