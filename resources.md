@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Inclusion
-permalink: /inclusion
+title: Resources
+permalink: /resources.html
 ---
 # Privacy
 
