@@ -3,7 +3,7 @@ layout: default
 title: Hackathons
 permalink: civic-engagement/civic-empowerment/hackathons.html
 ---
-## (c) Applications: Hackathons
+## Applications: Hackathons
 
 Hacking is creative problem solving. Hackathons, also called codefests or hackfests, are design marathons in which affected citizens, software developers, graphic designers, project managers and others come together for a short period of time to work intensively on a software project designed to meet a particular civic need. The goal of hackathons is usually to produce a functioning software application by the end of the event.
 Hackathons can engage the public in helping the government solve citizens’ problems. The best have educational workshops running in parallel. Well organized hackathons can strengthen community bonds by welcoming newcomers, providing an opportunity for participants to learn something new about problems they are interested in, and encouraging civic engagement and cooperation.
