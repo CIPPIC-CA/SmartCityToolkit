@@ -4,7 +4,7 @@ title: Improving Access to Townhall Meetings
 permalink: civic-engagement/civic-empowerment/improving-access-to-townhall-meetings.html
 ---
 
-## (a) Application: Improving access to townhall meetings
+## Application: Improving Access to Townhall Meetings
 
 Improving access to decision makers may empower citizens in participating in government decisions. Ordinarily, a resident would have to take active steps, such as attending townhall meetings, to voice issues on top of their regular roles in their community. Townhall meetings occur in particular locations, at specific times, and are only accessible to a select few, with the result that anyone who is unable to attend townhall is unable to voice their concerns. As a result, the townhall may be a misrepresentation of the residents in the municipality. 
 
