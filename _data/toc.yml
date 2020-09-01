@@ -48,7 +48,7 @@ toc:
     subfolderitems:
       - page: Internet Accessibility
         url: /SmartCityToolkit/information-technology/internet-accessibility
-      - page: Creating and Informed Public
+      - page: Creating an Informed Public
         url: /SmartCityToolkit/information-technology/creating-informed-public
       - page: Library Services
         url: /SmartCityToolkit/information-technology/library-services
@@ -63,7 +63,7 @@ toc:
   - title: Municipal Aministration
     subfolderitems: 
       - page: Data Governance
-        url: /SmartCityToolkit/municipal-administration
+        url: /SmartCityToolkit/municipal-administration/data-governance
   - title: Public Health
     subfolderitems:
       - page: Air Quality
