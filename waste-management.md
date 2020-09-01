@@ -76,7 +76,7 @@ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/pri
 |Procurement   |
 |---|
 |**Issues.**   |
-Most waste management solutions will involve the procurement of products or services from third parties, which will raise procurement issues concerning the long-term costs of the technology, depending on the complexity and volume of hardware to be installed. Municipalities also enter Public-Private Partnerships (P3) for solid waste and recycling which may potentially raise issues about actual costs, service quality, and reduced transparency and accountability.   |
+|:warning:Most waste management solutions will involve the procurement of products or services from third parties, which will raise procurement issues concerning the long-term costs of the technology, depending on the complexity and volume of hardware to be installed. Municipalities also enter Public-Private Partnerships (P3) for solid waste and recycling which may potentially raise issues about actual costs, service quality, and reduced transparency and accountability.   |
 |**Managing Issues.**   |
 |Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).   | 
 |Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement.   | 
