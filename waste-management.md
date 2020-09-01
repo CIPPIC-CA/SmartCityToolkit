@@ -63,26 +63,16 @@ Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/pri
 ~~~
 
 
-|### Security Issues   |
-|---|
-| 
-
-**Issues.**
-
-Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.  |
-|**Managing Issues.**
-
-Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.
-
-Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. 
-
+|### Security Issues   |   |
+|---|---|
+| **Issues.**   |Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.  |
+|**Managing Issues.**   |Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.   |
+|   |Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks.   |
+|   |Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information.    |
 Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. 
-
-Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place.
-
-Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).   |
+|   |Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place.   |
+|   |Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.   |
+|   |Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).   |
 
 ### Procurement 
 
