@@ -11,9 +11,9 @@ toc:
   - title: Civic Engagement 
     subfolderitems:
       - page: Public Outreach
-        url: /SmartCityToolkit/civic-engagment/public-outreach.html
+        url: /SmartCityToolkit/civic-engagement/public-outreach.html
       - page: Civic Empowerment 
-        url: /SmartCityToolkit/civic-engagment/civic-empowerment.html
+        url: /SmartCityToolkit/civic-engagement/civic-empowerment.html
   - title: Economic Development and Culture 
     subfolderitems:
       - page: Tourism Promotion
@@ -85,11 +85,10 @@ toc:
         ## Sub-sub page table of contents
   - title: Public Outreach
     subfolderitems:
-      - page: Outreach to the disability community
-        url: /SmartCityToolkit/civic-engagment/public-outreach/outreach-to-the-disability-community.html
-    subfolderitems:
-      - page: Educating neighbourhoods on safe street practices
-        url: /SmartCityToolkit/civic-engagment/public-outreach/education-neighbourhoods-on-safe-street-practices.html
+      - page: Outreach to the Disability Community
+        url: /SmartCityToolkit/civic-engagement/public-outreach/outreach-to-the-disability-community.html
+      - page: Educating Neighbourhoods on Safe Street Practices
+        url: /SmartCityToolkit/civic-engagement/public-outreach/educating-neighbourhoods-on-safe-street-practices.html
   - title: Civic Empowerment
     subfolderitems:
       - page: Hackathons
