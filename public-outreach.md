@@ -11,4 +11,4 @@ We'll look at two public outreach applications:
 1. Educating neighbourhoods on safe street practices, and
 1. Outreach to the disability community.
 
-**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.
+**To explore smart city solutions and technologies, click any of the links on the sidebar to the left.**
