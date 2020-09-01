@@ -90,8 +90,10 @@ toc:
       - page: Educating Neighbourhoods on Safe Street Practices
         url: /SmartCityToolkit/civic-engagement/public-outreach/educating-neighbourhoods-on-safe-street-practices.html
   - title: Civic Empowerment
-    subfolderitems:
+    subfolderitems:    
+      - page: Improving Access to Townhall Meetings
+        url: /SmartCityToolkit/civic-engagement/civic-empowerment/improving-access-to-townhall-meetings.html
+      - page: Encouraging Residents to Vote
+        url: /SmartCityToolkit/civic-engagement/civic-empowerment/encouraging-residents-to-vote.html
       - page: Hackathons
         url: /SmartCityToolkit/civic-engagement/civic-empowerment/hackathons.html
-      - page: Encouraging residents to vote
-        url: /SmartCityToolkit/civic-engagement/civic-empowerment/encouraging-residents-to-vote.html
