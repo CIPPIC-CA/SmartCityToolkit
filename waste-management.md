@@ -36,6 +36,8 @@ The waste collection involves sending trucks into the community to collect garba
 
 ## Managing Liability Issues
 
+~~~
+
 ### Privacy
 
 **Issues.** 
@@ -57,6 +59,8 @@ Limit data collection to only that which is needed. Serious consideration and ju
 Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.
 
 Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
+
+~~~
 
 ### Security Issues
 
