@@ -36,7 +36,7 @@ The waste collection involves sending trucks into the community to collect garba
 
 ## Managing Liability Issues
 
-~~~
+```
 
 ### Privacy
 
@@ -60,7 +60,7 @@ Ensure that partners follow collection restrictions. When purchasing data from p
 
 Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
 
-~~~
+```
 
 ### Security Issues
 
