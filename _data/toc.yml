@@ -60,7 +60,7 @@ toc:
         url: /SmartCityToolkit/infrastructure/facilities-management
       - page: Road Maintenance
         url: /SmartCityToolkit/infrastructure/road-maintenance
-  - title: Municipal Aministration
+  - title: Municipal Administration
     subfolderitems: 
       - page: Data Governance
         url: /SmartCityToolkit/municipal-administration/data-governance
