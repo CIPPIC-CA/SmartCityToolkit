@@ -3,7 +3,6 @@ layout: default
 title: Encouraging Residents to Vote
 permalink: civic-engagement/civic-empowerment/encouraging-residents-to-vote.html
 ---
-## Applications:>
 
 ## Application: Encouraging Residents to Vote
 
