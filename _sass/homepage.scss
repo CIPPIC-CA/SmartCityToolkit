@@ -56,58 +56,60 @@
             }
         }
         .infrastructure {
-            bottom: 34rem;
-            right: 34rem;
+            bottom: 41%;
+            right: 38%; 
         }
         .public-health {
-            bottom: 32rem;
-            left: 13rem;
+            bottom: 37%;
+            left: 15%;
         }
         .housing {
-            top: 37rem;
-            left: 17rem;
+            top: 48%;
+            left: 20%;
         }
         .transportation-mobility {
-            bottom: 19rem;
-            right: 10rem;
-            width: 11%;
+            bottom: 22%;
+            right: 9%;
+            .top {
+                left: unset;
+                right: 0;
+            }
         }
         .park-recreation {
-            bottom: 14rem;
-            left: 10rem;
+            bottom: 15%;
+            left: 10%;
         }
         .economic-develop {
-            right: 14rem;
-            top: 42rem;
+            right: 4%;
+            top: 52%;
         }
         .municipal-administration {
-            bottom: 40rem;
-            right: 39rem;
+            bottom: 50%;
+            right: 43%;
         }
         .civic-engagement {
-            bottom: 13rem;
-            right: 27rem;
+            right: 32%;
+            bottom: 15%;
         }
         .information-technology {
-            top: 27rem;
-            right: 16rem;
+            top: 17%;
+            right: 19%;  
         }
         .emergency-management {
-            bottom: 17rem;
-            left: 28rem;
-            width: 9%;
+            bottom: 22%;
+            left: 29%;
         }
         .utitlies {
-            top: 21rem;
-            left: 26rem;
+            top: 35%;
+            left: 24%;
         }
         .utitlies2 {
-            bottom: 29rem;
-            left: 35rem;
+            bottom: 35%;
+            left: 37%;
         }
         .utitlies1 {
-            top: 21rem;
-            right: 9rem;
+            right: 10%;
+            top: 29%;
         }
         
     }
