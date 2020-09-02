@@ -1,0 +1,82 @@
+I"d<h1 id="services-shelter-management-and-pocketed-service-delivery">Services: Shelter Management and Pocketed Service Delivery</h1>
+
+<p>Municipalities provide front-line services to society’s most vulnerable members. Individuals facing temporary, transitional, and unsheltered homelessness are estimated to range from 200,000 to 300,000 annually.</p>
+
+<p>The actual number of homeless individuals is unknown due to numerous challenges. Housing first has the most positive outcomes in reducing homelessness, but shelters are still required as temporary measures. Municipal service departments face resource and bureaucratic obstacles to documenting, servicing, and supporting homeless individuals and communities. Many services are not directly offered by municipalities but non-profit organizations who operate with bare resources. Coordinating services across institutions is a significant barrier to adequately meeting the varied and urgent needs of the homeless population.</p>
+
+<p>Considerations: Capacity and resource limits, engagement and feedback, and monitoring outcomes1</p>
+
+<p>Problems: Data on homelessness and issues facing the homeless are typically not documented, shared, or assessed as a basis for policies, solutions, and services. Municipal privacy policies prevent departments from sharing information about clients resulting in ineffective service delivery, long wait times, and poor outcomes for individuals who need immediate access to services.</p>
+
+<p>Homeless people do not benefit from public health services because they do not have family doctors and face very long wait times (weeks and months) to access health professionals due to the ad-hoc availability of staff. Service delivery is pocketed, due to communication and coordination barriers across public and non-profit partners.</p>
+
+<h2 id="applications-and-solutions-service-coordination-through-data-management">Applications and Solutions: Service Coordination through Data Management</h2>
+
+<p>Coordination of information is essential to improving service delivery and outcomes for individuals who are chronically homeless. Software based programs that streamline intake clients to prioritize medical and health issues that can be delivered by shelter staff.</p>
+
+<p>Data-based insights are needed in real-time to better respond to individual needs. Access to timely mental and physical health services, social services, education, and shelter availability is critical to improve long-term outcomes. The staircase approach tracks feedback on services received and uses this to customize and improve services for individuals, improving outcomes.</p>
+
+<p>Tech solutions for homeless must consider that many homeless lack the capacity to use technologies such as smartphones and touchscreens. They require human guidance in requesting services and providing feedback.</p>
+
+<h2 id="technologies">Technologies</h2>
+
+<p><strong>Hotlines</strong> – Municipal hotlines coupled with data collection and integration for insights, can serve as the frontline for vulnerable individuals who are at-risk and homeless.</p>
+
+<p><strong>Mobile technologies</strong> – Cellphone dumbphone programs are used to enable street homeless to connect with municipal services. GPS tracking can help municipalities monitor and track where individuals are located to deploy outreach staff.</p>
+
+<p><strong>Encryption-Based File Sharing</strong> – Enables municipal departments to access confidential client information across departments to streamline data collection and reduce duplicative efforts in identifying service needs.</p>
+
+<p><strong>Cloud-Based Data Platforms</strong> – Internet based services for accessing and displaying client information.  These services allow service delivery agents including municipal departments, nonprofits, and charity organizations to access client information in a single online space.</p>
+
+<p><strong>Blockchain</strong> – Distributed ledger systems can give homeless a portable, digital identity. This allows municipalities to reduce red-tape that delays services by allowing confidential information to be shared without compromising privacy.</p>
+
+<h2 id="managing-liability-issues">Managing Liability Issues</h2>
+
+<h3 id="privacy">Privacy</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Many homeless people are deeply suspicious of privacy invasions and are resistant to data gathering technologies.3</p>
+
+<p><strong>Managing issues.</strong></p>
+
+<p>Protection of privacy and confidentiality must be a driving force in assessing technologies as participation will suffer if privacy invasions are allowed.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/privacy.html">good privacy practices</a>.</p>
+
+<h3 id="security">Security</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Of the approximately 200,000 people in the homeless population that use shelters in Canada, an additional 20 percent are ‘street-clients’ – those who choose not to use shelters which they view as a supplemental prison system due to exposure to drug use, violence, lack of privacy and security. Some may not have capacity to observe shelter rules after living on the streets for extended periods of time.</p>
+
+<p><strong>Managing issues.</strong></p>
+
+<p>Low technology solutions such as the presence of security officers can increase the ‘jail-like’ perception of prisoners, turning away clients in need. Visual surveillance, video monitoring, other forms of control can backfire in homeless shelters because they provoke aggressiion, contemptuous behaviour, ‘bad moods’ and threats of violence among shelter residents.</p>
+
+<p>Defining shelter boundaries is a significant problem when making decisions about expulsion of bad actors. Technology can trigger who is violating shelter rules to improve orderly conduct and reduce criminal activities from being engaged onsite. The use of CCTV cameras to surveil shelter spaces is legitimized as necessary to protect shelter staff and occupants and manage violent situations when coupled with security workers.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/security.html">good security practices</a>.</p>
+
+<h3 id="procurement">Procurement</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Untested technologies can introduce unforeseen harms.</p>
+
+<p><strong>Managing issues.</strong></p>
+
+<p>Procuring dumb phones to distribute to homeless is key to adoption and program success.</p>
+
+<p>Follow <a href="https://cippic-ca.github.io/SmartCityToolkit/procurement.html">sound procurement practices</a>.</p>
+
+<h3 id="operations">Operations</h3>
+
+<p><strong>Issues.</strong></p>
+
+<p>Coordinating with stakeholders and between departments, across programs, and mandates must balance the privacy and confidentiality client’s need with timely and adequate access to services.</p>
+
+<p><strong>Managing issues.</strong></p>
+
+<p>Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes.</p>
+:ET

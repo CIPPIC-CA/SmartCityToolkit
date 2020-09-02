@@ -1,0 +1,71 @@
+I"�1<h1 id="privacy">Privacy</h1>
+
+<p>IAPP, <a href="https://iapp.org/resources/article/privacy-by-design-the-7-foundational-principles/">Privacy By Design</a> - <em>An overview of privacy by design, a design approach to embedding privacy in technology from the outset.</em></p>
+
+<p>Office of the Ontario Information and Privacy Commissioner, <a href="https://www.ipc.on.ca/wp-content/uploads/2018/04/fs-tech-smart-cities.pdf">Technology Fact Sheet: Smart Cities and your Privacy Rights</a>, (April 2018) - <em>Brief overview of some informational privacy issues associated by smart city technologies, particularly sensor data.</em></p>
+
+<p>Office of the Ontario Information and Privacy Commissioner, <a href="https://www.ipc.on.ca/wp-content/uploads/2015/05/planning-for-success-pia-guide.pdf">Planning for Success:  A Privacy Impact Assessment Guide</a> - <em>Useful guide to planning and conducting a privacy impact assessment.</em></p>
+
+<p>Office of the Ontario Information and Privacy Commissioner, <a href="https://www.ipc.on.ca/wp-content/uploads/2016/08/Deidentification-Guidelines-for-Structured-Data.pdf">“De-identification Guidelines for Structured Data”</a>, (June 2016) - <em>Guidelines for systematically addressing potentially identifiable information in organized data.</em></p>
+
+<p>CIPPIC and McMaster University, <a href="https://smartcityprivacy.ca/">Smart City Privacy</a> - <em>A guide to privacy issues and laws applicable to smart city approaches in Canada.  Includes a geographic survey of smart city tools already employed in Canada as well as a statement of best privacy practices.</em></p>
+
+<p>Privacy International, <a href="https://privacyinternational.org/learning-topics/smart-cities">Smart Cities Resources</a> - <em>Reports, news analysis and other resources published by Privacy International, a leading privacy advocate.</em></p>
+
+<h1 id="security">Security</h1>
+
+<p>Public Safety Canada - Public Safety has release a number of guides on infrastructure security:</p>
+<ul>
+  <li><a href="https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2016-fndmntls-cybr-scrty-cmmnty/index-en.aspx">Fundamentals of Cyber Security for Canada’s Critical Infrastructure Community</a></li>
+  <li><a href="https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-001-en.aspx">Mitigation Guidelines for Denial of Service Attacks</a></li>
+  <li><a href="https://www.publicsafety.gc.ca/cnt/rsrcs/cybr-ctr/2012/tr12-002-en.aspx">Industrial Control System (ICS) Cyber Security: Recommended Best Practices</a></li>
+</ul>
+
+<p>The Internet of Things Coalition Canada, <a href="https://insightaas.com/new-research-privacy-and-security-in-the-internet-of-things-era-iotcc-best-practices-guidance/">Privacy and Security in the Internet of Things Era: IoTCC Best Practices Guidance</a> - <em>The Internet of Things Coalition Canada report outlining privacy and security risks in IoT environments and providing best practice guidance for prevention and remediation.</em></p>
+
+<p>IoT Security Foundation, <a href="https://www.iotsecurityfoundation.org/best-practice-guidelines/">Secure Design Best Practice Guides</a> - <em>This Foundation has delveloped a number of guides applicable to iot applications in the smart city.</em></p>
+
+<p>CSA – <a href="https://www.researchgate.net/profile/Mohamad_Amin_Hasbini/publication/320290965_Cyber_Security_Guidelines_for_Smart_City_Technology_Adoption/links/59dbf668458515e9ab452699/Cyber-Security-Guidelines-for-Smart-City-Technology-Adoption.pdf">Cyber Security Guidelines for Smart City Technology Adoption</a> - <em>This document provides guidelines for organizations planning the implementation of smart city technologies. It describes testing and assessments to consider in order to select the best and most secure vendors and technologies.</em></p>
+
+<p>Ann Cavoukian and Mark Dixon, <a href="https://www.ipc.on.ca/wp-content/uploads/Resources/pbd-privacy-and-security-by-design-oracle.pdf">“Privacy and Security by Design: An Enterprise Architecture Approach”</a> - <em>A 2013 paper on the fundamental approach to security-by-design for IoT technologies. The paper outlined the basic principles of embedding security into the design, build, testing, and maintenance stages of Enterprise Architecture.</em></p>
+
+<p>Canadian Centre for Cyber Security, <a href="https://cyber.gc.ca/en/guidance/introduction-cyber-threat-environment">An Introduction to the Cyber Threat Environment</a> - <em>The Introduction to the Cyber Threat Environment is intended describe common concepts of cyber threat activity in Canada and provides baseline knowledge about the cyber threat environment. This document defines a cyber threat as an activity intended to compromise the security of an information system by altering the availability, integrity, or confidentiality of a system or the information it contains. The document covers the different motivations and sophistication of cyber threat actors and provides a non-exhaustive list of common tools and techniques used by these actors. They have also created a guidebook for local governments to learn more about agile software development and new modular contracting approaches.</em></p>
+
+<p>National Research Council of Canada (NRC), <a href="https://nrc.canada.ca/en/research-development/products-services/technical-advisory-services/cybersecurity">Cybersecurity</a> - <em>The NRC conducts research in cybersecurity and offers technical and advisory services to deal with cyber threats to public infrastructure and service operations. Their core competencies cover a variety of different areas of technology and is able to apply the expertise towards public systems. There is also a Cybersecurity Collaboration Consortium (CNCC) based in New Brunswick that researches cybersecurity with a particular focus on critical infrastructure protection, smart homes and cities, and smart grids.</em></p>
+
+<h1 id="inclusion">Inclusion</h1>
+
+<p>Citizen Lab, <a href="https://www.citizenlab.co/ebooks-en/inclusion-in-e-democracy?goal=0_49e1e8647d-4209163f8e-198994545">The guide to inclusion in e-democracy</a> - <em>In this guide, the Citizen Lab offers principled but practical approaches to ensuring inclusivity designing digital participation platforms. The dcoument offers guidelines for how to communicate inclusively, build an inclusive questionnaire, combine offline and online participation, and ensure representativity.</em></p>
+
+<p>Treasury Board Secretariat, <a href="https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592">Directive on Automated Decision Making</a> - <em>The Government of Canada has adopted a directive on how to utilize artificial intelligence to make, or assist in making, administrative decisions in a manner that is compatible with core administrative law principles such as transparency, accountability, legality, and procedural fairness.</em></p>
+
+<p>Government of Canada, <a href="https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html">Algorithmic Impact Assessment</a> - <em>This tool offers a questionnaire designed to help assess and mitigate the risks associated with deploying an automated decision system.</em></p>
+
+<p>OpenNorth, <a href="https://www.opennorth.ca/publications/#open-smart-cities-guide">“Open Smart Cities Guide”</a> - <em>This guide provides a definition of an Open Smart City and discusses community-centric development of smart cities including examples of various smart city initiatives.</em></p>
+
+<p>Frontiers, <a href="https://doi.org/10.3389/fbuil.2020.00077">“The Concept of Sustainability in Smart City Definitions”</a> - <em>This paper reviews the definitions of smart cities found in literature and suggests that while sustainability-oriented definitions are prevalent, the current implementation of smart cities tend to prioritize technology before the social aspect.</em></p>
+
+<p>Aimi Hamraie, <a href="https://www.theatlantic.com/technology/archive/2018/11/city-apps-help-and-hinder-disability/574963/">“A Smart City Is an Accessible City”</a>, The Atlantic (November 6, 2018) - <em>An overview of digital-accessibility maps and related technologies which attempt to address inclusivity of persons with disabilities, including examples and potential issues.</em></p>
+
+<h1 id="intellectual-property">Intellectual Property</h1>
+
+<p>Canadian Intellectual Property Office, <a href="https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/wr04563.html">“Plan your IP strategy”</a> - <em>Summary of considerations when developing an IP strategy that is aligned with an organization’s goals, including commercialization, ownership and working with third parties.</em></p>
+
+<p>Canadian Intellectual Property Office, <a href="https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr04590.html">“IP foundations series”</a> - <em>Primer on intellectual property, particularly patents, trademarks and industrial designs in Canada.</em></p>
+
+<p>Teresa Scassa, <a href="https://www.teresascassa.ca/index.php?option=com_k2&amp;view=item&amp;id=241:smart-cities-data-ownership-and-privacy-issues&amp;Itemid=81">“Smart Cities: Data Ownership and Privacy Issues”</a> - <em>A brief discussion of the ownership of data arising from smart cities and its alignment with principles of open government.</em></p>
+
+<h1 id="procurement">Procurement</h1>
+
+<p><a href="https://static1.squarespace.com/static/546bbd2ae4b077803c592197/t/5b2bbd44aa4a9970b3cff95f/1529593163251/CUIPublication.SmartPlanningOurSmartCities.June2018.pdf">Smart Cities - A best Practices Guide for Building Our Future Cities, Canadian Urban Institute 2019 (smart city master planning guide)</a> Short section on procurement (p32-33) - <em>A holistic guide for municipalities designing smart cities, this document lays out the phases required of a municipality in order to design a fully functioning smart city. The section of most interest to us is phase V where the smart city design is implemented. an earlier discussion to implement smart city procurement.</em></p>
+
+<p>European Commission, <a href="https://eu-smartcities.eu/sites/eu-smartcities.eu/files/2017-09/D8.2_Public%20procurement%20models%20for%20SCC%20solutions.pdf">Analysing the potential for wide scale roll out of integrated smart cities and communities solutions: Public Procurement models for SCC solutions</a>, 2016 - <em>This report is a comprehensive analysis of how different public procurement models impact smart city solutions. It describes the types of public procurement models (new and traditional) and then uses case studies to observe trends and make recommendations.</em></p>
+
+<p>European Commission, <a href="https://ec.europa.eu/docsroom/documents/29261/attachments/1/translations/en/renditions/native">Guidance on Innovation Procurement</a> - <em>This document is created to assist municipalities in adopting innovation procurement. The document defines and establishes a need for innovative procurement followed by recommendations on creating a framework for adopting innovation procurement.</em></p>
+
+<p><a href="https://www.gov.uk/government/publications/open-source-procurement-toolkit">UK Open Source Procurement Toolkit – All About Open Source and Open Source Software Toolkit Security Note</a> - <em>The UK government published a toolkit on best practices in evaluating open source solutions in support of its open source procurement policy</em></p>
+
+<p>OpenNorth,<a href="https://docs.google.com/document/d/1528rqTjzKWwk4s2xKuPf7ZJg-tLlRK8WcMZQbicoGTM/edit">Open Smart Cities Guide v1.0</a> - <em>This Open Smart City Guide is intended to assist stakeholders participating in smart city projects. It includes guidance and examples of open procurement practices.</em></p>
+
+<p>Smart Cities Stakeholder Platform – Finance Working Group, <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=2ahUKEwja6KLS79DpAhXMdN8KHbguCuoQFjABegQIChAD&amp;url=http%3A%2F%2Fwww.sustainable-procurement.org%2Ffileadmin%2Ftemplates%2Fsp_platform%2Flib%2Fsp_platform_resources%2Ftools%2Fpush_resource_file.php%3Fuid%3D42abe812&amp;usg=AOvVaw2N8fO6j8c5uQG9GDEARAs2">Public Procurement for Smart Cities</a> - <em>This guide assists cities in implementing public procurement frameworks suitable for smart cities. The guide not only identifies best practices in procurement practices, but also identifies barriers to implementing best practices. Finally, the document is designed in the context of the low-carbon and environmental goods and services (LCEGS) sector but addresses problems that are common to other smart city procedures as well.</em></p>
+:ET
