@@ -38,7 +38,7 @@ Municipal Wi-Fi ensures that anyone with a wi-fi enabled device is able to acces
 | Privacy and Security|
 |---|
 |**Issues.** |
-|:warning: Municipalities have few means of ensuring that privately-owned networks that provide municipal wi-fi or Fibre internet do not improperly collect user data. :white_check_mark: Even if the municipality itself provides and administers the network, like all forms of public wi-fi, it is vulnerable to man-in-the-middle attacks, sniffing, and malicious hotspots.|
+|:warning: Municipalities have few means of ensuring that privately-owned networks that provide municipal wi-fi or Fibre internet do not improperly collect user data.  Even if the municipality itself provides and administers the network, like all forms of public wi-fi, it is vulnerable to man-in-the-middle attacks, sniffing, and malicious hotspots.|
 |**Managing Issues.**|
 |:white_check_mark: Ensure private networks do not collect data on users. One of the main concerns of municipalities in negotiating privately-administered municipal wi-fi of Fibre agreements is that user data is not improperly collected or used.|
 |:white_check_mark: Anonymize data. Alternatively, municipalities may allow for data collection, but stipulate that data be stripped of most or all identifying features.|
