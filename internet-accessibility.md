@@ -43,7 +43,7 @@ Municipal Wi-Fi ensures that anyone with a wi-fi enabled device is able to acces
 |:white_check_mark: Ensure private networks do not collect data on users. One of the main concerns of municipalities in negotiating privately-administered municipal wi-fi of Fibre agreements is that user data is not improperly collected or used.|
 |:white_check_mark: Anonymize data. Alternatively, municipalities may allow for data collection, but stipulate that data be stripped of most or all identifying features.|
 |Use encrypted networks. Encrypted networks usually ensure that communications between the router and the user are private.|
-|:white_check_mark: Encourage use of websites that use HTTPS protocol. HTTPS protocol is more secure and will help protect user’s private data. Sites that do not use HTTPS protocol that are| accessed via municipal wifi could be accompanied by a warning or disclaimer.|
+|:white_check_mark: Encourage use of websites that use HTTPS protocol. HTTPS protocol is more secure and will help protect user’s private data. Sites that do not use HTTPS protocol that are accessed via municipal wifi could be accompanied by a warning or disclaimer.|
 |:white_check_mark: Encourage the use of VPNs. Virtual Private Networks (VPNs) help keep user data private and out of the hands of those unauthorized to possess it for a small fee. Municipal wi-fi systems may make use of a landing page that encourages use of a VPN when using the system.|
 |:white_check_mark: Include disclaimers. The wi-fi’s landing page should include a disclaimer that sets out the risk of using public wi-fi and allows users to agree to the risks to access the service.|
 |:white_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
