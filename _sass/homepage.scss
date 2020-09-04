@@ -80,8 +80,13 @@
             left: 10%;
         }
         .economic-develop {
-            right: 4%;
+            right: 12%;
             top: 52%;
+            width: 24%;
+            @media(min-width: 1284px) {
+                top: 55%;
+                right: 10%;
+            }
         }
         .municipal-administration {
             bottom: 50%;
@@ -92,8 +97,11 @@
             bottom: 15%;
         }
         .information-technology {
-            top: 17%;
-            right: 19%;  
+            top: 35%;
+            right: 9%;  
+            svg {
+                left: 45%;
+            }
         }
         .emergency-management {
             bottom: 22%;
