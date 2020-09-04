@@ -36,42 +36,31 @@ The waste collection involves sending trucks into the community to collect garba
 
 ## Managing Liability Issues
 
-~~~
-### Privacy
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: The optimization of Waste Management requires planning and monitoring. For this to be effective, [IoT] devices collect, store, and transfer data and this may include the unintentional collection of personal information. Therefore, there are liabilities such as privacy concerns and security concerns, particularly where household data is collected and can be attributed to an identifiable person. <link to privacy meta-page> <link to security meta-page>.  | 
+| **Managing Issues.**|   
+|:white_check_mark: Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities.  | 
+|:white_check_mark: Inform users of privacy issues related to technology. A disclaimer can be provided to users about data collection and its privacy implications when engaging with interactive digital waste disposal apps. Municipalities should also inform haulers about privacy implications from monitoring vehicle status and driver behaviour.  | 
+|:white_check_mark: Obtain consent. Consent should be obtained when the user downloads waste disposal apps, and again when signing up for the service. They should be informed of the purpose of data collection, use and retention of data.  | 
+|:white_check_mark: De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.  | 
+|:white_check_mark: Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. Information associated with a household information regarding the types and volumes of waste should not include specific addresses.  | 
+|:white_check_mark: Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.  | 
+|:white_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).  | 
 
-**Issues.** 
-
-The optimization of Waste Management requires planning and monitoring. For this to be effective, [IoT] devices collect, store, and transfer data and this may include the unintentional collection of personal information. Therefore, there are liabilities such as privacy concerns and security concerns, particularly where household data is collected and can be attributed to an identifiable person. <link to privacy meta-page> <link to security meta-page>.  
-
-**Managing Issues.**  
-
-Count, don’t track.  Record numbers of smart bin use frequency, truck deployment, optimal collection times, and types of waste. Numerical data about the frequency of waste collection will not necessarily track identities.  
-
-Inform users of privacy issues related to technology. A disclaimer can be provided to users about data collection and its privacy implications when engaging with interactive digital waste disposal apps. Municipalities should also inform haulers about privacy implications from monitoring vehicle status and driver behaviour.  
-
-Obtain consent. Consent should be obtained when the user downloads waste disposal apps, and again when signing up for the service. They should be informed of the purpose of data collection, use and retention of data.  
-
-De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.  
-
-Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. Information associated with a household information regarding the types and volumes of waste should not include specific addresses.  
-
-Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.  
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).  
-~~~
-
-
-| |Security Issues   |
-|---|---|
-| **Issues.**   |:exclamation: Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.  |
-|**Managing Issues.**   |:white_check_mark: Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.   |
-|   |:white_check_mark: Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks.   |
-|   |:white_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information.    |
-|   |:white_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information.| 
-|   |:white_check_mark: Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place.   |
-|   |:white_check_mark: Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.   |
-|   |:white_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).   |
-
+| Security Issues | 
+|---|
+| **Issues.**   |
+|:exclamation: Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.  |
+|**Managing Issues.**   |
+|:white_check_mark: Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.   |
+|:white_check_mark: Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks.   |
+|:white_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information.    |
+|:white_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information.| 
+|:white_check_mark: Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place.   |
+|:white_check_mark: Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.   |
+|:white_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).   |
 
 |Procurement   |
 |---|
