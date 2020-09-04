@@ -36,7 +36,7 @@ The waste collection involves sending trucks into the community to collect garba
 
 ## Managing Liability Issues
 
-|: Privacy| 
+| Privacy| 
 |---|
 | **Issues.**|  
 |:warning: The optimization of Waste Management requires planning and monitoring. For this to be effective, [IoT] devices collect, store, and transfer data and this may include the unintentional collection of personal information. Therefore, there are liabilities such as privacy concerns and security concerns, particularly where household data is collected and can be attributed to an identifiable person. <link to privacy meta-page> <link to security meta-page>.  | 
@@ -49,7 +49,7 @@ The waste collection involves sending trucks into the community to collect garba
 |:white_check_mark: Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.  | 
 |:white_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).  | 
 
-|: Security Issues | 
+| Security Issues | 
 |---|
 | **Issues.**   |
 |:exclamation: Privacy issues inherent to smart waste management technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.  |
@@ -62,7 +62,7 @@ The waste collection involves sending trucks into the community to collect garba
 |:white_check_mark: Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.   |
 |:white_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).   |
 
-|**Procurement**   |
+|Procurement   |
 |---|
 |**Issues.**   |
 |:warning: Most waste management solutions will involve the procurement of products or services from third parties, which will raise procurement issues concerning the long-term costs of the technology, depending on the complexity and volume of hardware to be installed. Municipalities also enter Public-Private Partnerships (P3) for solid waste and recycling which may potentially raise issues about actual costs, service quality, and reduced transparency and accountability.   |
