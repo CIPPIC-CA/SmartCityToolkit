@@ -21,36 +21,25 @@ Learning portals present an elegant and simple solution to this issue by essenti
 
 ## Managing Liability Issues
 
-### Privacy
 
-**Issues.** 
+| Privacy | 
+|---|
+| **Issues.**   |
+|:warning: While it may be tempting for libraries to gather data about who is using the learning portal for what and why, doing so raises issues of privacy if that data can be used to identify an individual.| 
+|**Managing Issues.**|
+|:heavy_check_mark: Don’t gather data. Cookies and other means of collecting user data can simply not be utilized, or only used to store user settings instead of identifying information.|
+|:heavy_check_mark: Only record necessary data. If data is recorded to further develop the portal (i.e. determine which resources are most useful, etc), then it should be done so conservatively and in accordance with privacy laws.| 
+|:heavy_check_mark: Scrub data of identifying features. Names are typically unnecessary data and should be excluded. |
+|:heavy_check_mark: Use disclaimer: If the portal does collect user data, the user should be clearly informed in simple terms of what data is being collected and why. Libraries may also  choose to make their data collecting opt-in – although users should be able to use the portal regardless of whether they opt-in or not.|
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-While it may be tempting for libraries to gather data about who is using the learning portal for what and why, doing so raises issues of privacy if that data can be used to identify an individual. 
 
-**Managing Issues.**
-
-Don’t gather data. Cookies and other means of collecting user data can simply not be utilized, or only used to store user settings instead of identifying information.
-
-Only record necessary data. If data is recorded to further develop the portal (i.e. determine which resources are most useful, etc), then it should be done so conservatively and in accordance with privacy laws. 
-
-Scrub data of identifying features. Names are typically unnecessary data and should be excluded. 
-
-Use disclaimers. If the portal does collect user data, the user should be clearly informed in simple terms of what data is being collected and why. Libraries may also  choose to make their data collecting opt-in – although users should be able to use the portal regardless of whether they opt-in or not.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security
-
-**Issues.** 
-
-If any data is being recorded and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it, allowing for people to be improperly identified.
-
-**Managing issues.**
-
-Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. 
-
-Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations.
-
-Limit access. Any collected user data should only be able to be accessed by those who need to use the information.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
+| Security | 
+|---|
+| **Issues.**   |
+|:warning: If any data is being recorded and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it, allowing for people to be improperly identified.|
+|**Managing issues.**|
+|:heavy_check_mark: Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. |
+|:heavy_check_mark: Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations.|
+|:heavy_check_mark: Limit access. Any collected user data should only be able to be accessed by those who need to use the information.|
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).|
