@@ -20,18 +20,18 @@ Improving access to townhall meetings is one way that smart cities can boost civ
 
 ### Managing Liabilities 
 
-**Privacy** 
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: When participating in townhall meetings, it is essential to identify the resident as well as their opinion. However, this can create difficulties for residents who wish to remain anonymous. On the other hand, anonymous comments prevent verification of resident status.|
+|**Managing Issues**.|   
+|:heavy_check_mark: De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later.|   
+|:heavy_check_mark: De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. While the municipality may require identifying information to verify resident status, residents should still be able to post questions anonymously.|   
 
-**Issues**. When participating in townhall meetings, it is essential to identify the resident as well as their opinion. However, this can create difficulties for residents who wish to remain anonymous. On the other hand, anonymous comments prevent verification of resident status.
-
-**Managing Issues**. 
- * De-identify at the source. Many tools allow for engagement without collecting personal information. Doing so at the source helps prevent privacy issues from cropping up later. 
- * De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. While the municipality may require identifying information to verify resident status, residents should still be able to post questions anonymously.
-
-**Disproportionate Representation** 
-
-**Issues**. Selecting a time for everyone to participate in townhall as well as unreliable access to internet can create disproportionate representation during townhall meetings. 
-
-**Managing Issues**. 
- * Free municipal WIFI will assist individuals lacking access to reliable internet. 
- * Holding virtual office hours. Residents unable to attend townhall meetings may participate during office hours so their voices are taken into account. 
+| Disproportionate Representation| 
+|---|
+|**Issues**.|  
+|:warning: Selecting a time for everyone to participate in townhall as well as unreliable access to internet can create disproportionate representation during townhall meetings. |  
+|**Managing Issues**.|   
+|:heavy_check_mark: Free municipal WIFI will assist individuals lacking access to reliable internet. |   
+|:heavy_check_mark: Holding virtual office hours. Residents unable to attend townhall meetings may participate during office hours so their voices are taken into account.|    
