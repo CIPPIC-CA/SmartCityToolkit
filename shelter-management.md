@@ -37,51 +37,34 @@ Tech solutions for homeless must consider that many homeless lack the capacity t
 
 ## Managing Liability Issues
 
-### Privacy
+| Privacy|
+|---|
+| **Issues.**|  
+|:warning: Many homeless people are deeply suspicious of privacy invasions and are resistant to data gathering technologies.| 
+|**Managing issues.** | 
+|:heavy_check_mark: Protection of privacy and confidentiality must be a driving force in assessing technologies as participation will suffer if privacy invasions are allowed.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-**Issues.** 
+| Security|
+|---|
+| **Issues.**|  
+|:warning: Of the approximately 200,000 people in the homeless population that use shelters in Canada, an additional 20 percent are ‘street-clients’ – those who choose not to use shelters which they view as a supplemental prison system due to exposure to drug use, violence, lack of privacy and security. Some may not have capacity to observe shelter rules after living on the streets for extended periods of time. |
+|**Managing issues.** | 
+|:heavy_check_mark: Low technology solutions such as the presence of security officers can increase the ‘jail-like’ perception of prisoners, turning away clients in need. Visual surveillance, video monitoring, other forms of control can backfire in homeless shelters because they provoke aggressiion, contemptuous behaviour, ‘bad moods’ and threats of violence among shelter residents.| 
+|:heavy_check_mark: Defining shelter boundaries is a significant problem when making decisions about expulsion of bad actors. Technology can trigger who is violating shelter rules to improve orderly conduct and reduce criminal activities from being engaged onsite. The use of CCTV cameras to surveil shelter spaces is legitimized as necessary to protect shelter staff and occupants and manage violent situations when coupled with security workers.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
+ 
+| Procurement |
+|---|
+| **Issues.**|  
+|:warning: Untested technologies can introduce unforeseen harms.|
+|**Managing issues.** | 
+|:heavy_check_mark: Procuring dumb phones to distribute to homeless is key to adoption and program success.| 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
 
-Many homeless people are deeply suspicious of privacy invasions and are resistant to data gathering technologies.3 
-
-**Managing issues.** 
-
-Protection of privacy and confidentiality must be a driving force in assessing technologies as participation will suffer if privacy invasions are allowed.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security
-
-**Issues.** 
-
-Of the approximately 200,000 people in the homeless population that use shelters in Canada, an additional 20 percent are ‘street-clients’ – those who choose not to use shelters which they view as a supplemental prison system due to exposure to drug use, violence, lack of privacy and security. Some may not have capacity to observe shelter rules after living on the streets for extended periods of time. 
-
-**Managing issues.** 
-
-Low technology solutions such as the presence of security officers can increase the ‘jail-like’ perception of prisoners, turning away clients in need. Visual surveillance, video monitoring, other forms of control can backfire in homeless shelters because they provoke aggressiion, contemptuous behaviour, ‘bad moods’ and threats of violence among shelter residents.
-
-Defining shelter boundaries is a significant problem when making decisions about expulsion of bad actors. Technology can trigger who is violating shelter rules to improve orderly conduct and reduce criminal activities from being engaged onsite. The use of CCTV cameras to surveil shelter spaces is legitimized as necessary to protect shelter staff and occupants and manage violent situations when coupled with security workers. 
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement 
-
-**Issues.** 
-
-Untested technologies can introduce unforeseen harms. 
-
-**Managing issues.** 
-
-Procuring dumb phones to distribute to homeless is key to adoption and program success.
-
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
-
-### Operations
-
-**Issues.**
-
-Coordinating with stakeholders and between departments, across programs, and mandates must balance the privacy and confidentiality client’s need with timely and adequate access to services. 
-
-**Managing issues.** 
-
-Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes. 
+| Operations|
+|---|
+| **Issues.**|  
+|:warning: Coordinating with stakeholders and between departments, across programs, and mandates must balance the privacy and confidentiality client’s need with timely and adequate access to services. |
+|**Managing issues.** | 
+|:heavy_check_mark: Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes. | 
