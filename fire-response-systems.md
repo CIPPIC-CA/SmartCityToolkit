@@ -31,36 +31,23 @@ Direct fire monitoring allows municipal fire services to be informed of fire ala
 
 ## Managing Liability Issues
 
-### Reliability and Cost
+| Reliability and Cost| 
+|---|
+| **Issues.**|  
+|:warning: Since Direct Monitoring relies on phone lines and/or an internet connection, it can potentially prove ineffective in situations where these services are rendered inoperative (i.e. due to service outage or fire damage). False positives could also potentially prove problematic. Furthermore, the cost of the service may prove prohibited to lower income individuals and families who are just as at risk as others.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Be redundant when possible. Direct monitoring systems can be designed to default to the internet or phone line if the other is unavailable. Other systems should be inclusive of other types of fire alarms – for example, smart alarms may be integrated into automated home systems to blink the lights when a fire occurs.| 
+|:heavy_check_mark: Institute short delays. A 30 second delay between an alarm activating and the signal being sent to fire services could allow for an alarm to be cancelled, addressing false alarms. | 
+|:heavy_check_mark: Don’t institute penalties. Unless false alarms become an exceedingly costly problem, fire services should not charge for false alarms that result in an unneeded service call.| 
+|:heavy_check_mark: Distribute costs. If made mandatory, the cost of the service could potentially be distributed evenly across the municipality through mechanisms like property taxes or utilities.| 
+|:heavy_check_mark: Continue community education. While direct monitoring is safer than traditional fire monitoring, it is not a replacement for good fire safety practices. Continuing to educate the community fosters engagement and would help stop fires before they start.| 
 
-**Issues**
-
-Since Direct Monitoring relies on phone lines and/or an internet connection, it can potentially prove ineffective in situations where these services are rendered inoperative (i.e. due to service outage or fire damage). False positives could also potentially prove problematic. Furthermore, the cost of the service may prove prohibited to lower income individuals and families who are just as at risk as others.
-
-**Managing Issues.**
-
-Be redundant when possible. Direct monitoring systems can be designed to default to the internet or phone line if the other is unavailable. Other systems should be inclusive of other types of fire alarms – for example, smart alarms may be integrated into automated home systems to blink the lights when a fire occurs.
-
-Institute short delays. A 30 second delay between an alarm activating and the signal being sent to fire services could allow for an alarm to be cancelled, addressing false alarms. 
-
-Don’t institute penalties. Unless false alarms become an exceedingly costly problem, fire services should not charge for false alarms that result in an unneeded service call.
-
-Distribute costs. If made mandatory, the cost of the service could potentially be distributed evenly across the municipality through mechanisms like property taxes or utilities.
-
-Continue community education. While direct monitoring is safer than traditional fire monitoring, it is not a replacement for good fire safety practices. Continuing to educate the community fosters engagement and would help stop fires before they start.
-
-### Privacy
-
-**Issues**
-
-Any form of surveillance could potentially prove invasive if it is always active. Direct monitoring outfitted with a way for the central monitor – whether that is a service or the fire department – to communicate with someone present in the property could potentially allow for unauthorized surveillance. Essentially, if there is a microphone, there is the possibility that someone is listening.
-
-**Managing Issues.**
-
-Only enable communication when absolutely necessary. Systems should be configured to only allow someone to “listen in” when an alarm has been activated.
-
-Don’t allow for communication at all. Delay windows between when a signal is received and when fire services are dispatched could allow for something like a false alarm button to be pressed.
-
-Don’t store any data. If it is necessary for a microphone to always be listening (i.e. if it uses voice activated commands), then no audio is receives should ever be stored to avoid identifying individuals.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). 
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Any form of surveillance could potentially prove invasive if it is always active. Direct monitoring outfitted with a way for the central monitor – whether that is a service or the fire department – to communicate with someone present in the property could potentially allow for unauthorized surveillance. Essentially, if there is a microphone, there is the possibility that someone is listening.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Only enable communication when absolutely necessary. Systems should be configured to only allow someone to “listen in” when an alarm has been activated.| 
+|:heavy_check_mark: Don’t allow for communication at all. Delay windows between when a signal is received and when fire services are dispatched could allow for something like a false alarm button to be pressed.| 
+|:heavy_check_mark: Don’t store any data. If it is necessary for a microphone to always be listening (i.e. if it uses voice activated commands), then no audio is receives should ever be stored to avoid identifying individuals.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). | 
