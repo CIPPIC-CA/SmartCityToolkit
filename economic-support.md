@@ -38,28 +38,20 @@ Scale-up Programs – Scale-up programs apply to companies that have already val
 
 ## Managing Liability Issues
 
-### Intellectual Property Issues
+| Intellectual Property Issues| 
+|---|
+| **Issues.**|  
+|:warning: Intellectual property (IP) issues may arise from the different range of investment and personal involvements from different entities such as governments, universities, major corporations and angel investors. |
+|**Managing Issues.** |
+|:heavy_check_mark: Licensing agreements. Negotiations for licensing or other contractual use agreements regarding the ownership of innovation results can be made where R&D equipment, facilities or human resources are provided for by different public and private entities.|
+|:heavy_check_mark: Confidentiality agreements. Where startups develop novel products and services with other entities at innovation hubs, agreements should be in place to ensure that the intellectual property is confidential throughout the patent, trademark or copyright process.| 
+|:heavy_check_mark: Contractual allocation of liability. The allocation of liability arising from the app should be negotiated between the municipality, institutions and other private entities and assigned to any appropriate parties.| 
+|:heavy_check_mark: Carefully review [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html).| 
 
-**Issues.** 
 
-Intellectual property (IP) issues may arise from the different range of investment and personal involvements from different entities such as governments, universities, major corporations and angel investors. 
-
-**Managing Issues.** 
-
-Licensing agreements. Negotiations for licensing or other contractual use agreements regarding the ownership of innovation results can be made where R&D equipment, facilities or human resources are provided for by different public and private entities.
-
-Confidentiality agreements. Where startups develop novel products and services with other entities at innovation hubs, agreements should be in place to ensure that the intellectual property is confidential throughout the patent, trademark or copyright process.
-
-Contractual allocation of liability. The allocation of liability arising from the app should be negotiated between the municipality, institutions and other private entities and assigned to any appropriate parties.
-
-Carefully review [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html).
-
-### Employment Issues
-
-**Issues.** 
-
-Innovation hubs may give rise to employment law issues where the relationship between the hub and certain individuals are unclear. For example, innovation hubs often have many mentors that repeatedly participate in mentoring incoming start-ups. Such relationships should be clarified to define the scope of the relationship as it may have implications on employee rights and minimum requirements.
-
-**Managing Issues.**
-
-Employment contracts and other like relationship agreements should be drafted and reviewed by legal counsel to ensure compliance with the applicable statute of the province or territory.
+| Employment Issues| 
+|---|
+| **Issues.**|  
+|:warning: Innovation hubs may give rise to employment law issues where the relationship between the hub and certain individuals are unclear. For example, innovation hubs often have many mentors that repeatedly participate in mentoring incoming start-ups. Such relationships should be clarified to define the scope of the relationship as it may have implications on employee rights and minimum requirements.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Employment contracts and other like relationship agreements should be drafted and reviewed by legal counsel to ensure compliance with the applicable statute of the province or territory.| 
