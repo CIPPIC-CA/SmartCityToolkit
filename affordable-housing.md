@@ -38,52 +38,33 @@ Considerations – capital costs vs reduced operating costs and improved outcome
 
 ## Managing Liability Issues
 
-### Privacy
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Successful community initiatives are based on interpersonal relationships built on trust between members. Introducing data mining technologies can undermine project goals and participation. Technology should be used to determine evidence-based investments and measure and track outcomes, not to invade personal and public spaces or to encourage monetization of user data.|  
+|**Managing issues.**| 
+|:heavy_check_mark: Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals.| 
+|:heavy_check_mark: Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community.| 
+|:heavy_check_mark: Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.| 
+|:heavy_check_mark: De-identify at the source. Many camera technologies allow for faces to be blurred at collection.| 
+|:heavy_check_mark: De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.| 
+|:heavy_check_mark: Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.| 
+|:heavy_check_mark: Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-**Issues.** 
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: Security issues emerge from the hardware and software components of technology. The location of hardware in urban infrastructure may be vulnerable to vandalism, interference, or theft. Software issues will require security review to ensure that they are well-programmed and not prone to backdoor malware and privacy breaches. |
+|**Managing issues.** | 
+|:heavy_check_mark: In the affordable housing context, security issues can transform the objectives of wellness outcomes – for better or for worse. Security issues are contextualized in a community and can be mitigated by community engagement and feedback. | 
+|:heavy_check_mark: Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.| 
+|:heavy_check_mark: Access should be limited to those with a need to use the information. | 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-Successful community initiatives are based on interpersonal relationships built on trust between members. Introducing data mining technologies can undermine project goals and participation. Technology should be used to determine evidence-based investments and measure and track outcomes, not to invade personal and public spaces or to encourage monetization of user data. 
-
-**Managing issues.** 
-
-Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals. 
-
-Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community. 
-
-Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.
-
-De-identify at the source. Many camera technologies allow for faces to be blurred at collection.
-
-De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.
-
-Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.
-
-Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).g
-
-### Security
-
-**Issues.** 
-
-Security issues emerge from the hardware and software components of technology. The location of hardware in urban infrastructure may be vulnerable to vandalism, interference, or theft. Software issues will require security review to ensure that they are well-programmed and not prone to backdoor malware and privacy breaches. 
-
-**Managing issues.** 
-
-In the affordable housing context, security issues can transform the objectives of wellness outcomes – for better or for worse. Security issues are contextualized in a community and can be mitigated by community engagement and feedback. 
-
-Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.  
-
-Access should be limited to those with a need to use the information. 
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Operations
-
-**Issues.**
-
-Staff costs for delivery of ongoing community programs, projects and developments are often limited. Building community-based nonprofit, charity, and volunteer capacity is often critical for ongoing success, since private partners are unlikely to manage services post-construction. However, neglecting to appropriately allocate responsibility can expose both private and public partners to liabilities.  
-
-**Managing issues.** 
-
-Forming early partnerships with key stakeholders through contractual agreements allows liabilities to be distributed prior to their occurrence. To facilitate agreement, this should include detailing duties and relevant sunset clauses for when liabilities end. Understanding the lifecycle of projects and assessing risks early can shield municipalities from inheriting failed programs, plans and projects. 
+| Operations| 
+|---|
+| **Issues.**|  
+|:warning: Staff costs for delivery of ongoing community programs, projects and developments are often limited. Building community-based nonprofit, charity, and volunteer capacity is often critical for ongoing success, since private partners are unlikely to manage services post-construction. However, neglecting to appropriately allocate responsibility can expose both private and public partners to liabilities.  | 
+|**Managing issues.** | 
+|:heavy_check_mark: Forming early partnerships with key stakeholders through contractual agreements allows liabilities to be distributed prior to their occurrence. To facilitate agreement, this should include detailing duties and relevant sunset clauses for when liabilities end. Understanding the lifecycle of projects and assessing risks early can shield municipalities from inheriting failed programs, plans and projects. | 
