@@ -38,60 +38,40 @@ Software interface unifying IoTs – Integrates energy sub-systems to enable rul
 
 ## Managing Liability Issues
 
-### Privacy
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Consider the level of detail personal information is being collected and shared. Utility data is not personal unless it is linked with personal information such as home address or customer information.| 
+|**Managing issues.**| 
+|:heavy_check_mark: De-identification of data and aggregating energy data prior to sharing with different agencies will help protect privacy.| 
+|:heavy_check_mark: Collect data, don’t surveil homes.  Collect samples of data that can be used to inform efficiency solutions rather than ongoing collection that can reveal personal activities and may be considered energy surveillance. | 
+|:heavy_check_mark: Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less effective and more privacy invasive. | 
+|:heavy_check_mark: Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.| 
+|:heavy_check_mark: De-identify at the source. Many camera technologies allow for faces to be blurred at collection.| 
+|:heavy_check_mark: De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.| 
+|:heavy_check_mark: Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.| 
+|:heavy_check_mark: Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-**Issues.**
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: Primary issues with energy efficiency technologies are impacted by scale. The security concerns and threats to a smart grid system are of a different level than the threats posed by a software application collecting data. The relevant question is whether an adversary could hack the system to interfere with delivering energy reliably.| 
+|**Managing issues.** | 
+|:heavy_check_mark: Security breaches against essential technologies can result in physical harm to an individual and requires thorough risk assessment.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-Consider the level of detail personal information is being collected and shared. Utility data is not personal unless it is linked with personal information such as home address or customer information. 
+| Procurement | 
+|---|
+| **Issues.**|  
+|:warning: Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. |
+|**Managing issues.**| 
+|:heavy_check_mark: Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining  building systems at an ecosystem level. | 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
 
-**Managing issues.**
-
-De-identification of data and aggregating energy data prior to sharing with different agencies will help protect privacy.
-
-Collect data, don’t surveil homes.  Collect samples of data that can be used to inform efficiency solutions rather than ongoing collection that can reveal personal activities and may be considered energy surveillance. 
-
-Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less effective and more privacy invasive. 
-
-Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.
-
-De-identify at the source. Many camera technologies allow for faces to be blurred at collection.
-
-De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.
-
-Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.
-
-Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security
-
-**Issues.** Primary issues with energy efficiency technologies are impacted by scale. The security concerns and threats to a smart grid system are of a different level than the threats posed by a software application collecting data. The relevant question is whether an adversary could hack the system to interfere with delivering energy reliably. 
-
-**Managing issues.** 
-
-Security breaches against essential technologies can result in physical harm to an individual and requires thorough risk assessment.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement 
-
-**Issues.** 
-
-Compatibility and synchronicity across hardware and software systems is a critical liability risk because the effectiveness of smart systems relies upon coordinating functions. 
-
-**Managing issues.** 
-
-Linking sensors, monitors, and energy consumption information to optimize performance is envisioned as the ideal in theory. But introduces contractual, privacy, security and safety risks when examining  building systems at an ecosystem level. 
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
-
-### Operations
-
-**Issues.** 
-
-Safety considerations on the efficacy of new technologies requires proving it performs to code.  If safety and performance are not thoroughly tested they can endanger safety, result in property damage, and compromise the reliability of other building systems. 
-
-**Managing issues.**
-
-Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes. 
+| Operations| 
+|---|
+|**Issues.**|  
+|:warning: Safety considerations on the efficacy of new technologies requires proving it performs to code.  If safety and performance are not thoroughly tested they can endanger safety, result in property damage, and compromise the reliability of other building systems. |
+|**Managing issues.**| 
+|:heavy_check_mark: Developing metrics and easing file sharing restrictions can benefit the end user and produce better outcomes. | 
