@@ -23,38 +23,24 @@ Automatic gunshot detection tools do not require third party calls to emergency 
 
 **Radio Frequency (RF) Transmitters and Receivers** – A RF can detect the sound frequency of emergency vehicle sirens within a particular range and send signals to traffic lights’ microcontroller to prioritize traffic flow. 
 
-### Privacy
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: As with any form of always-on surveillance, continued monitoring of the community could raise issues of privacy. This is especially true if Gunshot Detection systems are configured to begin recording audio or footage after they detect a weapon discharge.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Don’t record anything. While the evidence will likely be useful from a crime fighting perspective, recording audio or footage does not actually have any tangible benefit when it comes to medical response. Systems could therefore be configured to only serve the purpose of detecting gunshots, not identifying who fired the weapon.| 
+|:heavy_check_mark: Contact Medical Responders first. Gunshot detection is primarily monitored and employed by police services. To de-emphasize invasive policing, medical first responders could administer the system instead, and inform police that a gun discharge had occurred once the victim has been located and attended to.| 
+|:heavy_check_mark: Use the technology sparingly. Systems should likely only be considered if underreported gun violence is a genuine issue in the community and a real danger of victims going untreated exists.| 
+|:heavy_check_mark: Scrub data of identifying features. Real-time voice modulation or face blurring could be used to anonymize individuals who are picked up by feeds. | 
+|:heavy_check_mark: Engage with the community. Prior to installation, absolute transparency should be employed with the community to explain the limitations of the technology and how data will be used.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). | 
 
-**Issues**
-
-As with any form of always-on surveillance, continued monitoring of the community could raise issues of privacy. This is especially true if Gunshot Detection systems are configured to begin recording audio or footage after they detect a weapon discharge.
-
-**Managing Issues.**
-
-Don’t record anything. While the evidence will likely be useful from a crime fighting perspective, recording audio or footage does not actually have any tangible benefit when it comes to medical response. Systems could therefore be configured to only serve the purpose of detecting gunshots, not identifying who fired the weapon.
-
-Contact Medical Responders first. Gunshot detection is primarily monitored and employed by police services. To de-emphasize invasive policing, medical first responders could administer the system instead, and inform police that a gun discharge had occurred once the victim has been located and attended to.
-
-Use the technology sparingly. Systems should likely only be considered if underreported gun violence is a genuine issue in the community and a real danger of victims going untreated exists.
-
-Scrub data of identifying features. Real-time voice modulation or face blurring could be used to anonymize individuals who are picked up by feeds. 
-
-Engage with the community. Prior to installation, absolute transparency should be employed with the community to explain the limitations of the technology and how data will be used.
- 
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html). 
-
-### Security
-
-**Issues**
-
-If any data is being recorded and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it.
-
-**Managing Issues.**
-
-Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. 
-
-Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations.
-
-Limit access. Any collected audio or footage should only be able to be accessed by those who need to use the information.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: If any data is being recorded and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. | 
+|:heavy_check_mark: Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations.| 
+|:heavy_check_mark: Limit access. Any collected audio or footage should only be able to be accessed by those who need to use the information.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
