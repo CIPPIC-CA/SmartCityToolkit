@@ -45,76 +45,42 @@ It is hard for the human ears or eyes to pick up wavelengths or detect sound wav
 
 ## Managing Liability Issues 
 
-### Privacy
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: The above-mentioned water services technologies may give rise to privacy issues where personal information about an identifiable individual is involved. This could occur where smart meters identify and track the water consumption of a particular household or where camera monitoring water levels can capture the images of individuals. These liability issues include data concerns relating to data ownership and privacy concerns relating to consent and identification of individuals.|
+|**Managing Issues.** | 
+|:heavy_check_mark: Face blurring. Cameras can use machine learning to automatically identify people in images and videos and then blur out the faces or whole bodies of individuals. Since cameras will be used for the purpose of water and flood monitoring, there is no need to capture or store footage of identifiable people.| 
+|:heavy_check_mark: Use larger usage maps, not individual households. If developing an app or web portal that allows citizens to view their water usage and see how their neighbourhood compares, the usage map should show a radius for the usage rather than any specific address.| 
+|:heavy_check_mark: De-identify data of personal information: Most technologies such as cameras allow for the de-identification of persons captured and transferred during data collection.| 
+|:heavy_check_mark: De-identify as soon as possible: Data collected should de-identify persons captured in the process during the collection of information. Face blurring software can be automatic using machine learning and AI.| 
+|:heavy_check_mark: Restriction of data sharing: Most times, there can be no restriction on the data collected but there can be a restriction on how the data collected is shared from one network port to another to reduce the misuse of personal information collected in the process.| 
+|:heavy_check_mark: Minimize data collection: This is the minimization of data collection to what is needed or required. | 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
+ 
+| Security Issues| 
+|---|
+| **Issues.**|  
+|:warning: There are security concerns from the use of these technologies such as poor encryption measures, weak firewalls, ransomware, manipulation of the sensor data to create a panic, and system hijack. |
+|**Managing Issues.**| 
+|:heavy_check_mark: Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.| 
+|:heavy_check_mark: Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.| 
+|:heavy_check_mark: Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access.| 
+|:heavy_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. | 
+|:heavy_check_mark: Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. | 
+|:heavy_check_mark: Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. | 
+|:heavy_check_mark: Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed.| 
+|:heavy_check_mark: Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices.| 
+|:heavy_check_mark: Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-**Issues.** 
+| Procurement| 
+|---|
+| **Issues.**|  
+|:warning: Most water monitoring solutions will involve the purchase of products or services from third parties, which will raise procurement issues about vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions.|
+|**Managing Issues.** | 
+|:heavy_check_mark: Procurement issues should be dealt with by following sound procurement practices <link to procurement Guide>.| 
+|:heavy_check_mark: Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. Carefully review [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html).| 
+|:heavy_check_mark: Deciding between high-tech and low-tech solutions will depend on several factors: (a) What is the use case? Emergency responses to flood and water management will likely rely on the speed, accuracy, and scalability that “smarter” technologies offer. On the other hand, long-term planning may not necessarily require those features. (b) Costs – low-tech solutions tend to be cheaper to acquire and maintain. (c) Use of existing infrastructure – solutions that can make use of existing infrastructure will have lower costs than brand new construction projects. (d) Scalability – the scalability and large-scale deployment should be considered for long-term costs and vendor lock-in. Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data, as well as the capacity to connect with other IoT devices.| 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
 
-The above-mentioned water services technologies may give rise to privacy issues where personal information about an identifiable individual is involved. This could occur where smart meters identify and track the water consumption of a particular household or where camera monitoring water levels can capture the images of individuals. These liability issues include data concerns relating to data ownership and privacy concerns relating to consent and identification of individuals.
-
-**Managing Issues.** 
-
-Face blurring. Cameras can use machine learning to automatically identify people in images and videos and then blur out the faces or whole bodies of individuals. Since cameras will be used for the purpose of water and flood monitoring, there is no need to capture or store footage of identifiable people.
-
-Use larger usage maps, not individual households. If developing an app or web portal that allows citizens to view their water usage and see how their neighbourhood compares, the usage map should show a radius for the usage rather than any specific address.
-
-De-identify data of personal information: Most technologies such as cameras allow for the de-identification of persons captured and transferred during data collection.
-
-De-identify as soon as possible: Data collected should de-identify persons captured in the process during the collection of information. Face blurring software can be automatic using machine learning and AI.
-
-Restriction of data sharing: Most times, there can be no restriction on the data collected but there can be a restriction on how the data collected is shared from one network port to another to reduce the misuse of personal information collected in the process.
-
-Minimize data collection: This is the minimization of data collection to what is needed or required. 
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security Issues 
-
-**Issues.** 
-
-There are security concerns from the use of these technologies such as poor encryption measures, weak firewalls, ransomware, manipulation of the sensor data to create a panic, and system hijack. 
-
-**Managing Issues.**
-
-Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.  
-
-Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.
-
-Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access.
-
-Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. 
-
-Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. 
-
-Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. 
-
-Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed.
-
-Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices.
-
-Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement
-
-**Issues.** 
-
-Most water monitoring solutions will involve the purchase of products or services from third parties, which will raise procurement issues about vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions.
-
-**Managing Issues.** 
-
-Procurement issues should be dealt with by following sound procurement practices <link to procurement Guide>.
-
-Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. Carefully review [intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html).
-
-Deciding between high-tech and low-tech solutions will depend on several factors:
-
-What is the use case? Emergency responses to flood and water management will likely rely on the speed, accuracy, and scalability that “smarter” technologies offer. On the other hand, long-term planning may not necessarily require those features.
-
-Costs – low-tech solutions tend to be cheaper to acquire and maintain. High-tech solutions 
-
-Use of existing infrastructure – solutions that can make use of existing infrastructure will have lower costs than brand new construction projects.
-
-Scalability – the scalability and large-scale deployment should be considered for long-term costs and vendor lock-in. Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data, as well as the capacity to connect with other IoT devices.
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
