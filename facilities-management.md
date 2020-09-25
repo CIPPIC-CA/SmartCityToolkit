@@ -29,65 +29,41 @@ In buildings, connecting sensors with BAS software can coordinate live monitorin
 
 ## Managing Liability Issues
 
-### Privacy
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Technology should be used to determine drive data-based decisions to reduce costs and to improve, measure, and track outcomes of facility maintenance and services, not to invade personal and public spaces or to encourage monetization of user data. |
+|**Managing issues.** | 
+|:heavy_check_mark: Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals. | 
+|:heavy_check_mark: Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community.| 
+|:heavy_check_mark: Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.| 
+|:heavy_check_mark: De-identify at the source. Many camera technologies allow for faces to be blurred at collection. If there is an alternative solution that does not use cameras, opt for that instead.| 
+|:heavy_check_mark: De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.| 
+|:heavy_check_mark: Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.| 
+|:heavy_check_mark: Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-**Issues.** 
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: Security issues emerge from the hardware and software components of technology. The location of hardware in urban infrastructure may be vulnerable to damage from weather, wear and tear, and vandalism. |
+|**Managing issues.** | 
+|:heavy_check_mark: Security added to urban spaces to monitor smart devices may magnify privacy issues rather than address the original problem of servicing facilities. A balance needs to be struck in terms of how much security is needed, that is contextualized in a given community and informed by community engagement and feedback. | 
+|:heavy_check_mark: Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.| 
+|:heavy_check_mark: Access should be limited to those with a need to use the information. | 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-Technology should be used to determine drive data-based decisions to reduce costs and to improve, measure, and track outcomes of facility maintenance and services, not to invade personal and public spaces or to encourage monetization of user data. 
+| Procurement| 
+|---|
+| **Issues.**|  
+|:warning: Community based insights created by third-party developers may thwart municipal efforts or identify more costly solutions required for procurement.| 
+|**Managing issues.** | 
+|:heavy_check_mark: Share data using open license with terms of use for third-party developers. Embed contract terms if directly procuring market data that connects insights with measurable outcomes. | 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
 
-**Managing issues.** 
-
-Capture data impersonally.  Record feedback and comments in an anonymous way that cannot be attributed to individuals. 
-
-Choose the technology appropriate to the task.  Low-tech solutions in some contexts may be preferable to high-tech ones, consider the non-technical benefits of an activity and whether the technology is enhancing the outcomes and protecting privacy or if it is obstructing the development of trust and community. 
-
-Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.
-
-De-identify at the source. Many camera technologies allow for faces to be blurred at collection. If there is an alternative solution that does not use cameras, opt for that instead.
-
-De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible.
-
-Limit data collection to only that which is needed. Collection strategies such as bicycle numbers and heat maps rather than individual-specific routes avoid engaging more serious privacy concerns.
-
-Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security
-
-**Issues.** 
-
-Security issues emerge from the hardware and software components of technology. The location of hardware in urban infrastructure may be vulnerable to damage from weather, wear and tear, and vandalism. 
-
-**Managing issues.** 
-
-Security added to urban spaces to monitor smart devices may magnify privacy issues rather than address the original problem of servicing facilities. A balance needs to be struck in terms of how much security is needed, that is contextualized in a given community and informed by community engagement and feedback. 
-
-Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.  
-
-Access should be limited to those with a need to use the information. 
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement 
-
-**Issues.** 
-
-Community based insights created by third-party developers may thwart municipal efforts or identify more costly solutions required for procurement. 
-
-**Managing issues.** 
-
-Share data using open license with terms of use for third-party developers. Embed contract terms if directly procuring market data that connects insights with measurable outcomes. 
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
-
-
-### Operations
-
-**Issues.** 
-
-Staffing resources for facilities maintenance is often constrained by cost and time limitations. Engaging community feedback can support open data initiatives and the development of app-based solutions enabling as rating systems, user-contributed data, and automated municipal alerts. 
-
-**Managing issues.** 
-
-Sharing de-identified data early can support maintenance cycles and allow municipalities to improve services without investing significantly on embedded hardware where it may not be cost-effective or necessary. 
+| Operations| 
+|---|
+| **Issues.**|  
+|:warning: Staffing resources for facilities maintenance is often constrained by cost and time limitations. Engaging community feedback can support open data initiatives and the development of app-based solutions enabling as rating systems, user-contributed data, and automated municipal alerts. |
+|**Managing issues.** | 
+|:heavy_check_mark: Sharing de-identified data early can support maintenance cycles and allow municipalities to improve services without investing significantly on embedded hardware where it may not be cost-effective or necessary. | 
