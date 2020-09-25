@@ -25,34 +25,22 @@ While air quality reports given at the beginning of the day may help people deci
 
 ## Managing Liability Issues
 
-### Accuracy and Cost
+| Accuracy and Cost| 
+|---|
+| **Issues.**|  
+|:warning: The more reliable and accurate the air quality reading technology is, the higher cost it demands. Additionally, automatic or smart pollen mapping does not tend to be as accurate as other forms of air monitoring in lower pollen conditions.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Distribute costs. The cost of the service could potentially be distributed evenly across the municipality through mechanisms like property taxes or utility fees.| 
+|:heavy_check_mark: Make use of existing initiatives. Private organizations already undertake their own air quality analysis, so municipalities may consider entering partnerships with these organizations or making use of the data they publish. | 
+|:heavy_check_mark: Crowdsource. Smart pollen monitoring may make use of crowdsource tree and plant mapping   to reduce costs of surveys.| 
+|:heavy_check_mark: Increase accuracy through historical data. Current results may be compared to historical data trends to increase accuracy and flag potentially inaccurate readings.| 
 
-**Issues.** 
-
-The more reliable and accurate the air quality reading technology is, the higher cost it demands. Additionally, automatic or smart pollen mapping does not tend to be as accurate as other forms of air monitoring in lower pollen conditions.
-
-**Managing Issues.**
-
-Distribute costs. The cost of the service could potentially be distributed evenly across the municipality through mechanisms like property taxes or utility fees.
-
-Make use of existing initiatives. Private organizations already undertake their own air quality analysis, so municipalities may consider entering partnerships with these organizations or making use of the data they publish. 
-
-Crowdsource. Smart pollen monitoring may make use of crowdsource tree and plant mapping   to reduce costs of surveys.
-
-Increase accuracy through historical data. Current results may be compared to historical data trends to increase accuracy and flag potentially inaccurate readings.
-
-### Inclusion
-
-**Issues.** 
-
-While these outlined technologies are very good methods of collecting data for municipal use, data needs to be communicated livestream to the public to allow it to be useful.
-
-**Managing Issues.**
-
-Create web portals. Pollution and pollen levels could be published and updated on the municipality’s existing websites, which could also contain historical data for comparison. 
-
-Send notifications. Text or email alerts could be used to send interested parties daily pollen and pollution levels, with an included link to a website containing real-time information.
-
-Prioritize accessible methods. Since certain methods of measuring pollution and pollen load don’t require an actual test to be conducted (such as smart monitoring), these methods may be used to provide more accessible real-time data.
-
-Use technologies in conjunction. When trying to ensure data is both timely and accurate, redundancy is key. Certain systems may be used in conjunction (such as daily pollution/pollen tests and smart monitoring) in order to provide real-time data that is both accessible and verifiable.
+| Inclusion| 
+|---|
+| **Issues.**|  
+|:warning: While these outlined technologies are very good methods of collecting data for municipal use, data needs to be communicated livestream to the public to allow it to be useful.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Create web portals. Pollution and pollen levels could be published and updated on the municipality’s existing websites, which could also contain historical data for comparison. | 
+|:heavy_check_mark: Send notifications. Text or email alerts could be used to send interested parties daily pollen and pollution levels, with an included link to a website containing real-time information.| 
+|:heavy_check_mark: Prioritize accessible methods. Since certain methods of measuring pollution and pollen load don’t require an actual test to be conducted (such as smart monitoring), these methods may be used to provide more accessible real-time data.| 
+|:heavy_check_mark: Use technologies in conjunction. When trying to ensure data is both timely and accurate, redundancy is key. Certain systems may be used in conjunction (such as daily pollution/pollen tests and smart monitoring) in order to provide real-time data that is both accessible and verifiable.| 
