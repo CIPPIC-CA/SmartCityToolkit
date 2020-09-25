@@ -23,56 +23,36 @@ The tracking and monitoring of infectious diseases has long since been a measure
 
 ## Managing Liability Issues
 
-### Privacy
 
-**Issues.**
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: When dealing with sensitive private data such as those concerning people’s health and movement patterns, it is natural that privacy would be a significant concern. Officials must be cautious to balance a level of disclosure that is actually useful with ensuring individuals cannot be identified.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act (PHIPA) in Ontario.| 
+|:heavy_check_mark: Conduct annual audits and/or risk assessments. Doing so could raise issues of privacy that may not be examined otherwise.| 
+|:heavy_check_mark: Anonymize data. While a certain amount of disclosure is necessary to ensure that the data is actually useful (i.e. age, weight, height, etc), unnecessary details should always be excluded.| 
+|:heavy_check_mark: De-identify at the source. Extraneous information should not be gathered when data is being obtained for use in datasets if it is unnecessary.| 
+|:heavy_check_mark: Provide notice and allow for opt-out. If data provided by an individual may be disclosed to different stakeholders, they should be informed of this disclosure, its nature, and scope. Objections should factor greatly into risk assessments and given heavy consideration.| 
+|:heavy_check_mark: Use less invasive technologies when possible. For example, contact tracing can be entirely non-location based, with each mobile device carrying a unique encrypted key. This key is broadcasted to nearby devices and stored in a queue for a specified period. If someone is found by health authorities to be infected, a notification is sent to every device storing that specific key to inform the individual to seek out testing.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-When dealing with sensitive private data such as those concerning people’s health and movement patterns, it is natural that privacy would be a significant concern. Officials must be cautious to balance a level of disclosure that is actually useful with ensuring individuals cannot be identified.
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: If any data is being collected and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it, allowing for people to be improperly identified. Health data is also particularly sensitive, so special care must be taken to keep it secure.|
+|**Managing issues.**| 
+|:heavy_check_mark: Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act (PHIPA) in Ontario.| 
+|:heavy_check_mark: Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. | 
+|:heavy_check_mark: Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations.| 
+|:heavy_check_mark: Limit access. Any collected user data should only be able to be accessed by those who need to use the information.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-**Managing Issues.**
-
-Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act (PHIPA) in Ontario.
-
-Conduct annual audits and/or risk assessments. Doing so could raise issues of privacy that may not be examined otherwise.
-
-Anonymize data. While a certain amount of disclosure is necessary to ensure that the data is actually useful (i.e. age, weight, height, etc), unnecessary details should always be excluded.
-
-De-identify at the source. Extraneous information should not be gathered when data is being obtained for use in datasets if it is unnecessary.
-
-Provide notice and allow for opt-out. If data provided by an individual may be disclosed to different stakeholders, they should be informed of this disclosure, its nature, and scope. Objections should factor greatly into risk assessments and given heavy consideration.
-
-Use less invasive technologies when possible. For example, contact tracing can be entirely non-location based, with each mobile device carrying a unique encrypted key. This key is broadcasted to nearby devices and stored in a queue for a specified period. If someone is found by health authorities to be infected, a notification is sent to every device storing that specific key to inform the individual to seek out testing.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security
-
-**Issues.** 
-
-If any data is being collected and anyone can be identified with that data, then the previously outlined privacy issues also raise issues of security. Data that is stored could potentially be accessed by unauthorized users if proper care isn’t taken to prevent it, allowing for people to be improperly identified. Health data is also particularly sensitive, so special care must be taken to keep it secure.
-
-**Managing issues.**
-
-Ensure compliance with established regimes. Provinces may possess their own legislative regimes in relation with health-related data, such as the Personal Health Information Protection Act (PHIPA) in Ontario.
-
-Institute privacy solutions. Many privacy solutions that seek to strip identifying data will also address issues of security. 
-
-Hold data in a secure location. If data cannot be anonymized, it should be held in a secure location. This ensures individuals cannot be identified by it except in authorized situations.
-
-Limit access. Any collected user data should only be able to be accessed by those who need to use the information.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Accuracy
-
-**Issues.** 
-
-While it may not be particularly difficult to ensure data is accurate during regular monitoring, in the midst of a burgeoning pandemic doing so may be a great deal more complicated. With administrative staff otherwise occupied and healthcare professionals busy saving lives, entering data without errors may not be a primary concern.
-
-**Managing issues.**
-
-Limit the amount of data collected. The less data that needs to be entered, the lower the margin of error.
-
-Institute automatic data population. Instead of manually filling out fields, software can be developed to draw data from patient records or lab results.
-
-Use error flagging. Software can be developed or configured to warn the person entering the data of unusual values (i.e. an age value over 100).
+| Accuracy| 
+|---|
+| **Issues.**|  
+|:warning: While it may not be particularly difficult to ensure data is accurate during regular monitoring, in the midst of a burgeoning pandemic doing so may be a great deal more complicated. With administrative staff otherwise occupied and healthcare professionals busy saving lives, entering data without errors may not be a primary concern.|
+|**Managing issues.**| 
+|:heavy_check_mark: Limit the amount of data collected. The less data that needs to be entered, the lower the margin of error.| 
+|:heavy_check_mark: Institute automatic data population. Instead of manually filling out fields, software can be developed to draw data from patient records or lab results.| 
+|:heavy_check_mark: Use error flagging. Software can be developed or configured to warn the person entering the data of unusual values (i.e. an age value over 100).| 
