@@ -27,56 +27,37 @@ Smart city solutions are effective at automating monitoring, tracking, and sensi
 
 ## Managing Liability Issues
 
-### Privacy
 
-**Issues.** 
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Consider the location of installing detection devices. Ensure that advanced sensor systems such as LiDAR are not located near private residences. |
+|**Managing issues.** | 
+|:heavy_check_mark: Modifying algorithms to distort human classifiers can reduce the likelihood that individuals will be inadvertently monitored. | 
+|:heavy_check_mark: Collect data, don’t surveil.  Wildlife monitoring should not in theory, infringe on privacy rights. However, technologies that are used in surveillance gathering should be carefully screened for privacy issues. | 
+|:heavy_check_mark: Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less, more prone to weather and technical failures and more privacy invasive. | 
+|:heavy_check_mark: Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, if technologies must be placed near private residences, ensure data is not collected from these locations. | 
+|:heavy_check_mark: Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-Consider the location of installing detection devices. Ensure that advanced sensor systems such as LiDAR are not located near private residences. 
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: Roadside detection devices are subject to vandalization, theft, and destruction from automobile collisions. | **Managing issues.** | 
+|:heavy_check_mark: Considering security and replacement costs of lost or damaged devices should be assessed as part of adoption. | 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-**Managing issues.** 
+| Procurement | 
+|---|
+| **Issues.**|  
+|:warning: Costs of deploying wildlife crossing strategies should be considered from a lifecycle perspective.  |
+|**Managing issues.** | 
+|:heavy_check_mark: Smart technologies may appear to eliminate a problem altogether but can have significant operational and maintenance costs associated with their implementation including structural requirements, damage from weather, technical failures, false-positive and false negative detection rates, and more. | 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
 
-Modifying algorithms to distort human classifiers can reduce the likelihood that individuals will be inadvertently monitored. 
-
-Collect data, don’t surveil.  Wildlife monitoring should not in theory, infringe on privacy rights. However, technologies that are used in surveillance gathering should be carefully screened for privacy issues. 
-
-Choose the technology appropriate to the task.  Low-tech solutions such passive technologies may be preferable to high tech post-construction solutions that are less, more prone to weather and technical failures and more privacy invasive. 
-
-Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, if technologies must be placed near private residences, ensure data is not collected from these locations. 
-
-Ensure that partners or contractors follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security
-
-**Issues.** 
-
-Roadside detection devices are subject to vandalization, theft, and destruction from automobile collisions. 
-
-**Managing issues.** 
-
-Considering security and replacement costs of lost or damaged devices should be assessed as part of adoption. 
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement 
-
-**Issues.** 
-
-Costs of deploying wildlife crossing strategies should be considered from a lifecycle perspective.  
-
-**Managing issues.** 
-
-Smart technologies may appear to eliminate a problem altogether but can have significant operational and maintenance costs associated with their implementation including structural requirements, damage from weather, technical failures, false-positive and false negative detection rates, and more. 
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
-
-**Operations**
-
-**Issues.** 
-
-Effectiveness in terms of reducing vehicle-animal collisions should be considered before selecting a solution. 
-
-**Managing issues.** 
-
-Pilot technologies prior to incentivizing or deploying it. Collect appropriate data on various solutions before adopting a municipal-wide strategy. 
+| Operations| 
+|---|
+| **Issues.**|  
+|:warning: Effectiveness in terms of reducing vehicle-animal collisions should be considered before selecting a solution. |
+|**Managing issues.** | 
+|:heavy_check_mark: Pilot technologies prior to incentivizing or deploying it. Collect appropriate data on various solutions before adopting a municipal-wide strategy. | 
