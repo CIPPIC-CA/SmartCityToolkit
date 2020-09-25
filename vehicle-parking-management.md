@@ -29,65 +29,38 @@ Smart Parking solutions aim to reduce the stress and time used in finding parkin
 
 ## Managing Liability Issues
 
-### Privacy
- 
-**Issues.** Smart parking technologies will encounter privacy issues where they collect the personal information of an identifiable individual, including identifiers that can be linked to create a profile on a person. This data includes that coming from location-tracking technologies, license plate readers, and mobile phone data can all be traceable to individuals.
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Smart parking technologies will encounter privacy issues where they collect the personal information of an identifiable individual, including identifiers that can be linked to create a profile on a person. This data includes that coming from location-tracking technologies, license plate readers, and mobile phone data can all be traceable to individuals.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Count, don’t track.  Record numbers and directions of high traffic areas or parking spots instead of tracing routes or vehicles that can be associated with individuals. Numerical data about the occupancy of parking spots or garages will not necessarily track identities.| 
+|:heavy_check_mark: Inform users of privacy issues related to interactive features. A disclaimer can be provided to users about data collection and its privacy implications when engaging with interactive GPS-based apps.| 
+|:heavy_check_mark: Obtain consent where possible. Consent should be obtained when the user downloads parking apps, and again when signing up for the service. They should be informed of the purpose of data collection, use and retention of data.| 
+|:heavy_check_mark: Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.| 
+|:heavy_check_mark: De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. For example, license plate information obtained from ALPR cameras should be deleted as soon as possible.| 
+|:heavy_check_mark: Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. Specific vehicle information that can be traced to individuals should not be collected unless necessary.| 
+|:heavy_check_mark: Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).| 
 
-**Managing Issues.**
-  
-Count, don’t track.  Record numbers and directions of high traffic areas or parking spots instead of tracing routes or vehicles that can be associated with individuals. Numerical data about the occupancy of parking spots or garages will not necessarily track identities.
+| Security | 
+|---|
+| **Issues.**|  
+|:warning: Privacy issues inherent to smart tourism technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.|
+|**Managing Issues.** | 
+|:heavy_check_mark: Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.| 
+|:heavy_check_mark: Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. | 
+|:heavy_check_mark: Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place.| 
+|:heavy_check_mark: Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices.| 
+|:heavy_check_mark: All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-Inform users of privacy issues related to interactive features. A disclaimer can be provided to users about data collection and its privacy implications when engaging with interactive GPS-based apps.
-
-Obtain consent where possible. Consent should be obtained when the user downloads parking apps, and again when signing up for the service. They should be informed of the purpose of data collection, use and retention of data.
-
-Data-fuzzing. Employ data-fuzzing techniques to preserve privacy. For example, do not include start and end points in route data so that a particular route cannot be traced to an individual. Similarly, fuzzing data of sensitive areas provides an additional layer of security for personal information.
-
-De-identify as soon as possible.  If personal information absolutely must be collected, it should be stripped away as soon as possible. For example, license plate information obtained from ALPR cameras should be deleted as soon as possible.
-
-Limit data collection to only that which is needed. Serious consideration and justification should be made for the collection of sensitive personal information. Specific vehicle information that can be traced to individuals should not be collected unless necessary.
-
-Ensure that partners follow collection restrictions. When purchasing data from private companies, ensure that they are upholding their own privacy obligations under relevant legislation.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-
-### Security Issues
-
-**Issues.**  Privacy issues inherent to smart tourism technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.
-
-**Managing Issues.** 
-
-Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.  
-
-Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. 
-
-Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place.
-
-Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices.
-
-All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement
-
-**Issues.** Smart parking solutions will involve the procurement of hardware and software programs from third parties. This will raise procurement issues of the risk of obsolescence or vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions.
-
-**Managing Issues.**  
-
-Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
-
-[Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. 
-
-Use of International Organization for Standardization (ISO) guidance and indicators of international standards of best practices to procure reliable solutions that will meet future needs.
-
-Deciding between high-tech and low-tech solutions will depend on several factors:
-
-What is the use case? Real-time parking availability will require the speed, accuracy, and scalability that “smarter” sensor technologies offer. 
-
-Cost - low-tech solutions tend to be cheaper to acquire and maintain. 
-
-Effectiveness – Considerations should be made for the context and environment in which the solutions will be used in. Electromagnetic sensors in parking lots located above subway lines have had issues of triggering sensors to read “occupied” until trains moved on. In-ground sensors are also susceptible to damage from snow removal and higher maintenance costs to change batteries.
-
-Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases.
+| Procurement| 
+|---|
+| **Issues.**|  
+|:warning: Smart parking solutions will involve the procurement of hardware and software programs from third parties. This will raise procurement issues of the risk of obsolescence or vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Procurement issues should be dealt with by following [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
+|:heavy_check_mark: [Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. | 
+|:heavy_check_mark: Use of International Organization for Standardization (ISO) guidance and indicators of international standards of best practices to procure reliable solutions that will meet future needs.| 
+|:heavy_check_mark: Deciding between high-tech and low-tech solutions will depend on several factors: (a) What is the use case? Real-time parking availability will require the speed, accuracy, and scalability that “smarter” sensor technologies offer. (b) Cost - low-tech solutions tend to be cheaper to acquire and maintain. (c) Effectiveness – Considerations should be made for the context and environment in which the solutions will be used in. Electromagnetic sensors in parking lots located above subway lines have had issues of triggering sensors to read “occupied” until trains moved on. In-ground sensors are also susceptible to damage from snow removal and higher maintenance costs to change batteries. (d) Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases.| 
