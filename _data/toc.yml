@@ -70,7 +70,7 @@ toc:
         url: /SmartCityToolkit/public-health/air-quality
       - page: Outbreak Management
         url: /SmartCityToolkit/public-health/outbreak-management
-      - page: intervention-initiatives
+      - page: Public Health Intervention Initiatives
         url: /SmartCityToolkit/public-health/intervention-initiatives
   - title: Utilities
     subfolderitems:
