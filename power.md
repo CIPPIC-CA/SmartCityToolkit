@@ -25,46 +25,28 @@ Municipalities select and maintain street lighting to improve street safety for 
 
 ## Managing Liability Energy Issues 
 
-### Privacy 
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Privacy issues may arise where intelligent streetlight solutions can identify an individual using computer vision presence. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.|
+|**Managing Issues.**| 
+|:heavy_check_mark: De-identify at the source. Many camera technologies allow for faces to be blurred at collection. | 
+|:heavy_check_mark: De-identify as soon as possible. Data collected should de-identify persons captured in the process during the collection of information.| 
+|:heavy_check_mark: Minimize data collection. This is the minimization of data collection to what is needed or required. Statistical data about optimal times for dimming lights will not require people’s personal information.| 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|  
 
-**Issues.** 
-
-Privacy issues may arise where intelligent streetlight solutions can identify an individual using computer vision presence. There is a potential for a greater vulnerability with a large network of connected devices because a single breached device may expose the entire network to unauthorized access.
-
-**Managing Issues.**
-
-De-identify at the source. Many camera technologies allow for faces to be blurred at collection. 
-
-De-identify as soon as possible. Data collected should de-identify persons captured in the process during the collection of information.
-
-Minimize data collection. This is the minimization of data collection to what is needed or required. Statistical data about optimal times for dimming lights will not require people’s personal information.
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security 
-
-**Issues.**
-
-Privacy and security work together. Protecting the privacy of individuals involves ensuring the security of the data collected. 
-
-**Managing Issues.**
-
-Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.  
-
-Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.
-
-Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access.
-
-Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. 
-
-Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. 
-
-Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. 
-
-Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed.
-
-Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices.
-
-Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
+| Security | 
+|---|
+| **Issues.**|  
+|:warning: Privacy and security work together. Protecting the privacy of individuals involves ensuring the security of the data collected. |
+|**Managing Issues.**| 
+|:heavy_check_mark: Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.| 
+|:heavy_check_mark: Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels.| 
+|:heavy_check_mark: Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access.| 
+|:heavy_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. | 
+|:heavy_check_mark: Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent audits and security patches, with a data recovery strategy in place. | 
+|:heavy_check_mark: Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. | 
+|:heavy_check_mark: Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices that are identified to be compromised can be isolated until maintenance is performed.| 
+|:heavy_check_mark: Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices.| 
+|:heavy_check_mark: Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.| 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
