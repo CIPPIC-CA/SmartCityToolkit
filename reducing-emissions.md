@@ -40,73 +40,42 @@ Solar photovoltaic (PV) collectors – PV uses semi-conductor technology to dire
 
 ## Managing Liability Issues
 
-### Privacy 
 
-**Issues.** 
+| Privacy| 
+|---|
+| **Issues.**|  
+|:warning: Privacy issues may arise where smart meters and HEMS gather personal information about the user’s energy usage, patterns, and daily schedules. Mobile apps in relation to a HEMS or air pollution can also have privacy implications where users must input more personal information or use interactive features such as posting about real-time updates about poor air quality areas.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Count, don’t track.  Record usage statistics and numerical data instead of tracking the identities within individual households. Numerical data about household size, energy usage, and peak times will not necessarily track identities.| 
+|:heavy_check_mark: Inform users of privacy issues related to interactive features. A disclaimer can be provided to users about privacy implications when engaging with mobile apps that permit users to post in forums or discussion boards about poor air quality areas. | 
+|:heavy_check_mark: Obtain consent. Mobile apps and HEMS will likely collect more sensitive and identifiable information. These software tools should obtain consent at the beginning of its use when it is downloaded and again when registering an account, and indicate the purpose of data collection, use and retention of data.| 
+|:heavy_check_mark: De-identify as soon as possible. Data collected should de-identify persons captured in the process during the collection of information.| 
+|:heavy_check_mark: Limit data collection to only that which is needed. This is the minimization of data collection to what is needed or required. Serious consideration and justification should be made for the collection of sensitive personal information. | 
+|:heavy_check_mark: Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).|
 
-Privacy issues may arise where smart meters and HEMS gather personal information about the user’s energy usage, patterns, and daily schedules. Mobile apps in relation to a HEMS or air pollution can also have privacy implications where users must input more personal information or use interactive features such as posting about real-time updates about poor air quality areas.
+| Security| 
+|---|
+| **Issues.**|  
+|:warning: Privacy issues inherent to smart tourism technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. Smart grids will also face security challenges given the volume of data and devices with which a large utility communicates.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.| 
+|:heavy_check_mark: Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels. | 
+|:heavy_check_mark: Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access.| 
+|:heavy_check_mark: Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. | 
+|:heavy_check_mark: Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent anomaly detection, audits and security patches, with a data recovery strategy in place. | 
+|:heavy_check_mark: Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. | 
+|:heavy_check_mark: Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices can have an embedded real-time anomaly detector to find compromised devices and isolate them until maintenance is performed.| 
+|:heavy_check_mark: Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices. The system can be programmed to detect the threat or failure type, source, impact, possible solutions, and send an emergency alert to operating personnel for manual clearance or maintenance.| 
+|:heavy_check_mark: Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.| 
+|:heavy_check_mark: Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).| 
 
-**Managing Issues.**
-
-Count, don’t track.  Record usage statistics and numerical data instead of tracking the identities within individual households. Numerical data about household size, energy usage, and peak times will not necessarily track identities.
-
-Inform users of privacy issues related to interactive features. A disclaimer can be provided to users about privacy implications when engaging with mobile apps that permit users to post in forums or discussion boards about poor air quality areas. 
-
-Obtain consent. Mobile apps and HEMS will likely collect more sensitive and identifiable information. These software tools should obtain consent at the beginning of its use when it is downloaded and again when registering an account, and indicate the purpose of data collection, use and retention of data.
-
-De-identify as soon as possible. Data collected should de-identify persons captured in the process during the collection of information.
-
-Limit data collection to only that which is needed. This is the minimization of data collection to what is needed or required. Serious consideration and justification should be made for the collection of sensitive personal information. 
-
-Follow [good privacy practices](https://cippic-ca.github.io/SmartCityToolkit/privacy.html).
-
-### Security 
-
-**Issues.** 
-
-Privacy issues inherent to smart tourism technologies will include security issues, as data that does not initially identify individuals can do so in combination with other data. The software programs and hardware components will require security measures to prevent unauthorized access to the data. Smart grids will also face security challenges given the volume of data and devices with which a large utility communicates.
-
-**Managing Issues.**
-
-Many of the same solutions to privacy issues will address security issues:  e.g., de-identify at source if possible, or as soon as possible if otherwise.  Where personal information is collected, it should be held in a secure location.  
-
-Encryption. Encryption protects personal information by a process of scrambling data so that it can only be accessed with a unique decryption key which will translate the data back into its original readable form. There are several types of encryption algorithms to protect the actual personal information data as well as the channels of communication in which the data travels. 
-
-Authentication. This prevents unauthorized access to the network control of these technologies using processes that verify their clearance to access the data. The level of authentication should commensurate with the risks. Two-factor authentication offers an extra layer of security by requiring two pieces of information, making it more difficult for someone to gain unauthorized access.
-
-Limit access to data. Physical, organization and technological measures to limit access to data should be in place to only allow access to those who need to handle the information. 
-
-Regular audits and security patches. Where city data is stored on cloud-based servers, the cloud platform should be subject to consistent anomaly detection, audits and security patches, with a data recovery strategy in place. 
-
-Regular software updates. Most technologies have routine software updates to prevent hackers and eavesdroppers from loading malicious software that disrupts network data. Security assessments for software should look for risks and vulnerabilities to ensure security approaches are up-to-date, appropriate, and effective. 
-
-Maintenance of Hardware. This prevents a breach of the security parameters on hardware by hackers or thieves. Hardware devices can have an embedded real-time anomaly detector to find compromised devices and isolate them until maintenance is performed.
-
-Security platform. Establishing a security platform that analyzes data, searches for potential indicators of compromise with the capability of implementing security measures such as isolating affected devices. The system can be programmed to detect the threat or failure type, source, impact, possible solutions, and send an emergency alert to operating personnel for manual clearance or maintenance.
-
-Ensure that partners have adequate safeguards. All partners or contractors should have adequate safeguards depending on the sensitivity of the information in their control.
-
-Follow [good security practices](https://cippic-ca.github.io/SmartCityToolkit/security.html).
-
-### Procurement
-
-**Issues.** 
-
-Low-carbon solutions involves the procurement of hardware, software programs and developers, and construction projects from third parties. This will raise procurement issues of the risk of obsolescence or vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions. There will also need to be consideration for the modes of transportations as GHG emissions also flow from the transportation process.
-
-**Managing Issues.**
-
-Procurement issues should be dealt with by following sound procurement practices <link to procurement Guide>.
-
-Intellectual property issues will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the conditions of procurement. <link to procurement page>
-
-A proactive approach to procurement prioritizes value for money across the life cycle of the product rather than the lowest bid. Request for Proposals (RFP) can specifically seek out low-embodied carbon materials and low-carbon infrastructure designs that will lower GHG emissions over the building life cycle. Life cycle assessment (LCA) is a tool and criteria that can be used to prioritize infrastructure investments.
-
-Deciding between high-tech and low-tech solutions will depend on several factors:
-- What is the environmental context for its use? Municipalities must assess whether they have the appropriate environmental conditions for local renewable energy production to maximize return on investment. 
-- Cost - low-tech solutions tend to be cheaper to acquire and maintain. Solutions that make use of existing infrastructure will also have lower costs. 
-- Low-carbon building materials may be more expensive than conventional versions which can be negated be subsidy programs.
-- Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases.
-- Effectiveness – The RFP can be customized to include requirements to demonstrate effectiveness of the renewable energy production methods in the specific environment such as Canada’s cold winter climates.
-
-Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).
+| Procurement| 
+|---|
+| **Issues.**|  
+|:warning: Low-carbon solutions involves the procurement of hardware, software programs and developers, and construction projects from third parties. This will raise procurement issues of the risk of obsolescence or vendor lock-in, long-term costs of the technology, and choosing between high-tech and low-tech solutions. There will also need to be consideration for the modes of transportations as GHG emissions also flow from the transportation process.|
+|**Managing Issues.**| 
+|:heavy_check_mark: Procurement issues should be dealt with by following sound procurement practices <link to procurement Guide>.| 
+|:heavy_check_mark: [Intellectual property issues](https://cippic-ca.github.io/SmartCityToolkit/intellectual-property.html) will arise over ownership and confidentiality of data.  Access and other data entitlements should be addressed at the outset, as part of the [conditions of procurement](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
+|:heavy_check_mark: A proactive approach to procurement prioritizes value for money across the life cycle of the product rather than the lowest bid. Request for Proposals (RFP) can specifically seek out low-embodied carbon materials and low-carbon infrastructure designs that will lower GHG emissions over the building life cycle. Life cycle assessment (LCA) is a tool and criteria that can be used to prioritize infrastructure investments.| 
+|:heavy_check_mark: Deciding between high-tech and low-tech solutions will depend on several factors: (a) What is the environmental context for its use? Municipalities must assess whether they have the appropriate environmental conditions for local renewable energy production to maximize return on investment. (b) Cost - low-tech solutions tend to be cheaper to acquire and maintain. Solutions that make use of existing infrastructure will also have lower costs. (c) Low-carbon building materials may be more expensive than conventional versions which can be negated be subsidy programs. (d) Scalability – Assess bid submissions on the risks of scalability and flexibility to deal with structured and unstructured data. Some considerations include use of consortium models for incremental expansions and non-relational databases. (e) Effectiveness – The RFP can be customized to include requirements to demonstrate effectiveness of the renewable energy production methods in the specific environment such as Canada’s cold winter climates.| 
+|:heavy_check_mark: Follow [sound procurement practices](https://cippic-ca.github.io/SmartCityToolkit/procurement.html).| 
