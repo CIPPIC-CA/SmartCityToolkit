@@ -61,9 +61,9 @@ Smart Cities Stakeholder Platform – Finance Working Group, [Public Procurement
 
 ### Other Useful Sources
  
-Matt Tim, [“Procurement Process 101: The Stages in the Procurement Process”](https://blog.procurify.com/2014/09/16/stages-procurement-process/)
+Sean Kolenko, [“Procurement Process 101: The Stages in the Procurement Process”](https://blog.procurify.com/2014/09/16/stages-procurement-process/)
 	
-Tim Matt, [“What is the Difference Between Procurement and Purchasing?”](https://blog.procurify.com/2014/02/07/what-is-the-difference-between-procurement-and-purchasing/)
+Matt Lim, [“What is the Difference Between Procurement and Purchasing?”](https://blog.procurify.com/2014/02/07/what-is-the-difference-between-procurement-and-purchasing/)
 
 Jeremy Devray-Benichou, [“Smart procurement for smart cities”](https://meetingoftheminds.org/smart-procurement-for-smart-cities-29894) 
 
