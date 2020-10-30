@@ -50,6 +50,40 @@ OpenNorth, [“Open Smart Cities Guide”](https://www.opennorth.ca/publications
 Frontiers, [“The Concept of Sustainability in Smart City Definitions”](https://doi.org/10.3389/fbuil.2020.00077) - *This paper reviews the definitions of smart cities found in literature and suggests that while sustainability-oriented definitions are prevalent, the current implementation of smart cities tend to prioritize technology before the social aspect.*
 
 Aimi Hamraie, [“A Smart City Is an Accessible City”](https://www.theatlantic.com/technology/archive/2018/11/city-apps-help-and-hinder-disability/574963/), The Atlantic (November 6, 2018) - *An overview of digital-accessibility maps and related technologies which attempt to address inclusivity of persons with disabilities, including examples and potential issues.*
+
+## Inclusion - Algorithmic Bias
+
+[The Toronto Declaration, Protecting the right to equality and non-discrimination in machine learning systems](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), (2018) 
+
+Treasury Board, Canada, [“Directive on Automated Decision-Making”](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592), (2019)
+
+Government of Canada, [Beta-version, Algorithmic Impact Assessment](https://open.canada.ca/aia-eia-js/?lang=en)
+The Berkman Klein Center for Internet & Society at Harvard University, ["Artificial Intelligence & Human Rights: Opportunities & Risks"](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), (2018)
+
+James Manyika , Jake Silberg and Brittany Presten, [“What Do We Do About the Biases in AI?”](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai), Harvard Business Review (2019)
+
+Will Knight, [“AI Is Biased. Here's How Scientists Are Trying to Fix It”](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/), Wired (2019) 
+Haro Ken, [“This is how AI bias really happens—and why it’s so hard to fix”](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/), MIT Technology Review (2019) 
+
+##Inclusion - Digital Divide
+
+George Sciadas, [“The Digital Divide in Canada”](http://publications.gc.ca/Collection/Statcan/56F0009X/56F0009XIE2002001.pdf), Statistics Canada (2016).
+
+Allison Bramwell, Ken Coates, and Neil Bradford, [“Expanding digital opportunity in Canada?”](https://munkschool.utoronto.ca/ipl/files/2019/04/Bramwell_Coates_Bradford-Summary-Theme-IV-18AP2019.pdf)
+
+Nicole Goodman and Zac Spicer, [“Winning the smart cities challenge with equity, inclusion”](https://policyoptions.irpp.org/magazines/march-2018/winning-smart-cities-challenge-equity-inclusion/)
+
+OECD, “Bridging the Digital Divide”](https://www.oecd.org/site/schoolingfortomorrowknowledgebase/themes/ict/bridgingthedigitaldivide.htm)
+
+Open Media, [“11 things Canada should do now to close the Digital Divide for good”](https://openmedia.org/article/item/11-things-against-digital-divide), (2020) 
+
+Public Interest Advocacy Centre, [“#WCRD2017: Building an Affordable Digital World For Everyone”](https://www.piac.ca/our-specialities/wcrd2017-building-an-affordable-digital-world-for-everyone/), (2017)
+
+[“The Digital Divide, ICT, and Broadband Internet”](https://www.internetworldstats.com/links10.htm), Internet World Stats 
+Stanford University, [“The Digital Divide”](https://cs.stanford.edu/people/eroberts/cs181/projects/digital-divide/start.html) 
+
+
+
   
 # Intellectual Property
 
