@@ -9,11 +9,10 @@ The Smart City Toolkit was created by CIPPIC, the [Samuelson-Glushko Canadian In
 
 ![CIPPIC Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/CIPPIC_Logo.jpg)   
 
-![CIPPIC Logo](/images/CIPPIC_Logo.jpg)
-
 The Smart City Toolkit was made possible through an investment from Infrastructure Canada.
-[Infrastructure Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/INFC-Col_transparent.png
-) [Canada Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/Canada_01.png)   
+
+![Infrastructure Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/INFC-Col_transparent.png)    ![Canada Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/Canada_01.png)   
 
 This site was builtby the good people from [Open Concept](https://openconcept.ca/).
-[Open Concept Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/Open_Concept.png)
+
+![Open Concept Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/Open_Concept.png)
