@@ -101,7 +101,6 @@ Aimi Hamraie, [“A Smart City Is an Accessible City”](https://www.theatlantic
 Global Commission on Internet Governance, [“One Internet”](https://www.cigionline.org/sites/default/files/gcig_final_report_-_with_cover.pdf).
   * A comprehensive look at building an open and accessible internet for everyone, including the issue of the “digital divide” between those with and without access to the Internet.
 
-
 ### Resources - Algorithmic Bias
 
 [The Toronto Declaration, Protecting the right to equality and non-discrimination in machine learning systems](https://cyber.harvard.edu/sites/default/files/2018-09/2018-09_AIHumanRightsSmall.pdf), (2018) 
@@ -115,6 +114,8 @@ James Manyika , Jake Silberg and Brittany Presten, [“What Do We Do About the B
 
 Will Knight, [“AI Is Biased. Here's How Scientists Are Trying to Fix It”](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/), Wired (2019) 
 Haro Ken, [“This is how AI bias really happens—and why it’s so hard to fix”](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/), MIT Technology Review (2019) 
+
+Andreas Tsamados, Nikita Aggarwal, Josh Cowls, Jessica Morley, Huw Roberts, Taddeo Mariarosaria and Luciano Floridi, [The Ethics of Algorithms: Key Problems and Solutions](http://dx.doi.org/10.2139/ssrn.3662302), (July 28, 2020)
 
 ### Resources - Digital Divide
 
