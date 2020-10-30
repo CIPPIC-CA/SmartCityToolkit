@@ -65,6 +65,8 @@ James Manyika , Jake Silberg and Brittany Presten, [“What Do We Do About the B
 Will Knight, [“AI Is Biased. Here's How Scientists Are Trying to Fix It”](https://www.wired.com/story/ai-biased-how-scientists-trying-fix/), Wired (2019) 
 Haro Ken, [“This is how AI bias really happens—and why it’s so hard to fix”](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/), MIT Technology Review (2019) 
 
+Andreas Tsamados, Nikita Aggarwal, Josh Cowls, Jessica Morley, Huw Roberts, Taddeo Mariarosaria and Luciano Floridi, [The Ethics of Algorithms: Key Problems and Solutions](http://dx.doi.org/10.2139/ssrn.3662302), (July 28, 2020)
+
 ##Inclusion - Digital Divide
 
 George Sciadas, [“The Digital Divide in Canada”](http://publications.gc.ca/Collection/Statcan/56F0009X/56F0009XIE2002001.pdf), Statistics Canada (2016).
