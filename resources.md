@@ -81,9 +81,6 @@ Public Interest Advocacy Centre, [“#WCRD2017: Building an Affordable Digital W
 
 [“The Digital Divide, ICT, and Broadband Internet”](https://www.internetworldstats.com/links10.htm), Internet World Stats 
 Stanford University, [“The Digital Divide”](https://cs.stanford.edu/people/eroberts/cs181/projects/digital-divide/start.html) 
-
-
-
   
 # Intellectual Property
 
@@ -106,3 +103,5 @@ European Commission, [Guidance on Innovation Procurement](https://ec.europa.eu/d
 OpenNorth,[Open Smart Cities Guide v1.0](https://docs.google.com/document/d/1528rqTjzKWwk4s2xKuPf7ZJg-tLlRK8WcMZQbicoGTM/edit) - *This Open Smart City Guide is intended to assist stakeholders participating in smart city projects. It includes guidance and examples of open procurement practices.* 
 
 Smart Cities Stakeholder Platform – Finance Working Group, [Public Procurement for Smart Cities](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwja6KLS79DpAhXMdN8KHbguCuoQFjABegQIChAD&url=http%3A%2F%2Fwww.sustainable-procurement.org%2Ffileadmin%2Ftemplates%2Fsp_platform%2Flib%2Fsp_platform_resources%2Ftools%2Fpush_resource_file.php%3Fuid%3D42abe812&usg=AOvVaw2N8fO6j8c5uQG9GDEARAs2) - *This guide assists cities in implementing public procurement frameworks suitable for smart cities. The guide not only identifies best practices in procurement practices, but also identifies barriers to implementing best practices. Finally, the document is designed in the context of the low-carbon and environmental goods and services (LCEGS) sector but addresses problems that are common to other smart city procedures as well.*
+
+John Loxley and Salim Loxley, [“Asking the right questions: A guide for municipalities considering P3s”](https://cupe.ca/guide-municipalities-p3s), CUPE (2d ed.) (2020). -*This Guide provides municipalities with specific questions to ask prior to engaging in public-private partnerships to understand their costs and benefits.*
