@@ -1,63 +1,18 @@
-# SmartCityToolkit
-Link to site https://cippic-ca.github.io/SmartCityToolkit/
+---
+layout: homepage
+title: Smart Cities
+sitemap: false
+---
 
-## Adding a new page to your site.
-https://help.github.com/en/github/working-with-github-pages/adding-content-to-your-github-pages-site-using-jekyll
+# Home
 
-### To add a new page to your site. 
-1. In the root of your repo, click 'Create new file'.
-![picture of create file](images/create-file.png)
+## Exploring the Smart City
 
-2. Name your file, making sure to add ".md" to file name.
-Example: about-us.md
+Smart City tools and applications are all around us. This toolkit describes many different smart city applications and tools already in use in cities today. Explore the cityscape below to see the different areas of municipal activity and service that employ smart city approaches. Click on the map to explore specific applications and technologies. Smart city solutions should not be blindly adapted, but instead implemented in ways that assess and account for risks and unforeseen effects. Each solution described discusses common risks and their management.
 
-3. First thing to add to your file will be as follows:
-There are two different **layout** to use:
-* Default (no sidebar navigation).
-* Sidebar-page (this will include a sidebar menu navigation).
+Beneath the cityscape we've identified five "meta-issues": privacy, security, inclusion, intellectual property, and inclusion. These meta-issues recur time and time again as municipalities consider, select, and implement smart city approaches to providing municipal services. Clicking on each meta-issue leads to a discussion of approaches to and resources and tools for addressing these meta-issues in pro-active ways.
 
-**Title** - of the page.
-**permalink** - this will allow you create url alias.
-![mandatory info](images/mandatory-info.png)
+## About this Toolkit
 
-4. Add content to page. 
+This toolkit was made available to you through an investment from [Infrastructure Canada](https://www.infrastructure.gc.ca/cities-villes/index-eng.html), and the hard work of the law students of CIPPIC, the [Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic](https://cippic.ca/) of the [Common Law Section of the Faculty of Law, University of Ottawa](https://commonlaw.uottawa.ca/en).
 
-5. Commit file to repo.
-![commit-file](images/commit-file.png)
-
-
-## Adding content on your page. 
-
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
-
-Check out the https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/Example-text for a full list of markdown text.
-
-For full syntax guide https://guides.github.com/features/mastering-markdown/
-
-## Content for Homepage
-
-Homepage content at top of city scape image, is the only different on where to change the text content and can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_layouts/homepage.html 
-Within the <span> is where the text can be changed. 
-  
-![homepage-intro](images/homepage-intro.png)
-
-Homepage secondary content below the city scape image can be edited here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/index.md
-
-## Adding menu items to sidebar navigation
-When you have a page with children pages that you would like to display in the sidebar. 
-
-![sidebar-navigation](images/sidebar-navigation.png)
-
-You can edit the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/toc.yml.
-1. To add a new main page, add the title of the page.
-2. To add sub pages to new main page, add subfolders with the page name and the page url link to that page.
-![sidebar-menu](/images/sidebar-menu.png)
-
-## Adding menu items to main navigation
-Main navigation shown in the header.
-![header-navigation](/images/header-main-navigation.png)
-
-To add sub menu items to the header navigation, can be edited on the file here https://github.com/CIPPIC-CA/SmartCityToolkit/blob/master/_data/navigation.yml
-1. To add a link to the header navigation, add the name of the page and the link to the page.
-2. To add sub pages to the main links, add under sublinks the title and url of the page. 
-![navigation-file](/images/navigation-file.png)
