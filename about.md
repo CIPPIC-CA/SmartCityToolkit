@@ -4,9 +4,7 @@ title: About
 permalink: /about
 ---
 
-# About
-
-La trousse Ville intelligente a été créée par la [Clinique d’intérêt public et de politique d’Internet du Canada Samuelson-Glushko](https://cippic.ca/) \(CIPPIC\). Basée à la Section de common law de la Faculté de droit de l’Université d’Ottawa, la CIPPIC est la seule clinique juridique portant sur les technologies et l’intérêt public au Canada. C’est David Frewer, avocat-conseil de la CIPPIC, qui a dirigé ce projet, avec l’aide des stagiaires d’été Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi et Rohoma Zakir.
+La trousse Ville intelligente a été créée par la [Clinique d’intérêt public et de politique d’Internet du Canada Samuelson-Glushko](https://cippic.ca/) (CIPPIC). Basée à la Section de common law de la Faculté de droit de l’Université d’Ottawa, la CIPPIC est la seule clinique juridique portant sur les technologies et l’intérêt public au Canada. C’est David Frewer, avocat-conseil de la CIPPIC, qui a dirigé ce projet, avec l’aide des stagiaires d’été Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi et Rohoma Zakir.
 
 La création de cette trousse a été rendue possible grâce à un investissement d’Infrastructure Canada.
 

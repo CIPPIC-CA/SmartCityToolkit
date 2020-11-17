@@ -1,0 +1,27 @@
+---
+layout: default
+title: Glossary
+permalink: /glossary
+---
+**Chaînes de blocs** – La technologie des chaînes de blocs combine le cryptage, des applications similaires à des feuilles de calcul et l’informatique distribuée pour créer un système de registres extrêmement sécuritaire et transparent. Les chaînes de blocs sont des « registres distribués » qui assurent la sécurité de leur contenu.
+
+**Gouvernance des données** – La gouvernance des données est la responsabilité civique de gérer les données municipales de façon responsable. Les municipalités devraient prendre les décisions clés concernant la responsabilité de la collecte, de l’utilisation, de la communication et du stockage des différentes catégories de données générées par les technologies de la ville intelligente d’une manière transparente, fondée sur des principes et cohérente plutôt que de façon ponctuelle ou réactive. Les accords de communication ou de traitement des données – et les partenariats public-privé en général – doivent comporter des clauses obligeant les partenaires du secteur privé à respecter les engagements de la municipalité en matière de protection de la vie privée.
+
+**Fiducies de données** – Les fiducies de données sont des structures organisationnelles conçues pour gérer des données (notamment leur utilisation et leurs modalités d’accès) conformément aux principes issus de la common law. Le contenu de la fiducie (les données) doit être géré par des administrateurs (les fiduciaires) dans l’intérêt des bénéficiaires de la fiducie. En pratique, le concept de fiducie de données est fluide, et plusieurs structures de gouvernance de données se désignent elles-mêmes comme des « fiducies de données », même si elles ne font pas de gestion de données dans l’intérêt de bénéficiaires et qu’aucun fiduciaire n’est en fonction pour exercer un contrôle.
+
+**Anonymisation** –   L’anonymisation consiste à retirer d’un ensemble les données qui pourraient servir à identifier une personne. Différents secteurs élaborent actuellement des normes pour encadrer cette pratique.
+
+**Pôles d’innovation** – Les pôles d’innovation fournissent un espace d’incubation dynamique regroupant des services d’aide qui donnent aux jeunes pousses un meilleur accès aux conseils et aux ressources nécessaires à la réalisation de leurs objectifs d’affaires. Tendances technologiques, gestion de l’innovation, connaissances propres au secteur d’activité, conseils financiers, occasions de réseautage... autant de moyens pour ces nouvelles entreprises de se développer stratégiquement et de se doter de solutions adaptées. Les pôles sélectionnent et accueillent des entrepreneurs de différents secteurs et mettent au point des programmes uniques permettant de bâtir des réseaux locaux et internationaux, d’attirer les talents et de créer des emplois.
+
+*Propriété intellectuelle* – Le concept de « propriété intellectuelle » fait référence à un ensemble de droits couvrant diverses œuvres intellectuelles (inventions, logiciels ou secrets industriels, entre autres). Les droits liés à la propriété intellectuelle jouent un rôle déterminant dans l’acquisition, la mise en œuvre et l’exploitation des technologies d’une ville intelligente, soulevant des risques qu’il faut gérer avec soin.
+
+**Internet des objets (IdO)** – L’Internet des objets est le nom donné aux appareils connectés. Ces appareils sont des « choses » – capteurs, compteurs, outils, véhicules – qui sont équipées d’une connexion Internet intégrée.
+
+**Études d’impact sur la vie privée** – Les études d’impact sur la vie privée sont un outil essentiel et normalisé que connaissent bien les organismes et les responsables de la protection de la vie privée. Ces études permettent de repérer les risques et de les atténuer pour assurer la conformité réglementaire.
+
+**Protection de la vie privée dès la conception** – La protection de la vie privée dès la conception est une approche fondée sur des principes qui vise à concevoir des technologies et des services en misant sur la protection de la vie privée et la sécurité dès la conception et le développement des projets. Les risques pour la vie privée émergeant souvent après la conception du projet, ces principes permettent de repérer et de régler les problèmes rapidement, lors de la conception du projet plutôt qu’après son déploiement, ce qui aurait des conséquences plus coûteuses.
+
+**Approvisionnement** – La notion d’approvisionnement fait référence au processus comprenant la préparation d’une entente préalable avec une source externe et l’acquisition de biens ou de services auprès de celle-ci. L’approvisionnement consiste à acheter un bien ou service dans le cadre d’un processus d’appel d’offres ou de soumission qui peut impliquer une négociation entre les parties.
+
+**Compteurs intelligents** – Les compteurs intelligents effectuent un relevé à distance des services publics comme le gaz, l’eau et l’électricité. Ils analysent les données, communiquent les détails de la consommation et peuvent également détecter et signaler les fuites. Ils peuvent être posés dans les maisons, les commerces ou les environnements industriels, au moment de la construction ou plus tard, afin de garantir l’exactitude des factures et d’accroître l’efficacité. Les données recueillies par ces compteurs intelligents peuvent être chargées dans des applications mobiles ou des portails Web où les clients peuvent consulter leur consommation, la comparer avec celle de leurs voisins et estimer leur prochaine facture.
+
