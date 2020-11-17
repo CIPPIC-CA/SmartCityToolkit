@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Accueil](README.md)
 * [About](untitled-1.md)
 * [Resources](untitled-1-1.md)
 * [Glossary](untitled-2.md)

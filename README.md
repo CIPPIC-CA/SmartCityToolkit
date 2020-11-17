@@ -4,13 +4,15 @@ title: Smart Cities
 sitemap: false
 ---
 
-# Home
+# Accueil
 
-## Exploring the Smart City
+## À la découverte de la ville intelligente
 
-Smart City tools and applications are all around us. This toolkit describes many different smart city applications and tools already in use in cities today. Explore the cityscape below to see the different areas of municipal activity and service that employ smart city approaches. Click on the map to explore specific applications and technologies. Smart city solutions should not be blindly adapted, but instead implemented in ways that assess and account for risks and unforeseen effects. Each solution described discusses common risks and their management.
+La présente trousse décrit plusieurs des applications existantes et des outils actuels qui rendent une ville intelligente. Explorez le paysage urbain ci-dessous pour découvrir les activités et les services municipaux qui caractérisent une ville intelligente. Cliquez sur la carte pour en apprendre davantage sur une application ou une technologie donnée. Les solutions retenues pour une ville intelligente ne devraient pas être adaptées aveuglément, mais plutôt être mises en place en en évaluant et documentant les risques et les conséquences imprévues. Les risques communs et leur gestion sont indiqués pour chacune des solutions décrites.
 
-Beneath the cityscape we've identified five "meta-issues": privacy, security, inclusion, intellectual property, and inclusion. These meta-issues recur time and time again as municipalities consider, select, and implement smart city approaches to providing municipal services. Clicking on each meta-issue leads to a discussion of approaches to and resources and tools for addressing these meta-issues in pro-active ways.
+Nous avons indiqué sous le paysage urbain cinq métapréoccupations : vie privée, sécurité, approvisionnement, propriété intellectuelle et inclusion. Ces métapréoccupations sont soulevées régulièrement lorsque les municipalités soupèsent, choisissent et instaurent des approches intelligentes pour la prestation de leurs services. En cliquant sur chaque métapréoccupation, vous en apprendrez davantage sur la manière d’y répondre, ainsi que sur les ressources et les outils nécessaires pour le faire de façon proactive.
+
+
 
 ## About this Toolkit
 

@@ -6,9 +6,11 @@ permalink: /about
 
 # About
 
-The Smart City Toolkit is intended to offer a practical description of a range of smart city applications and technologies that can be used to address the needs and services of municipalities across a broad range of municipal services. The Smart City Toolkit is intended to identify not only how data and technology can be applied to existing and new types of municipal services, but also how these approaches raise important issues that should be addressed through planning and informed implementation.
+La trousse Ville intelligente a été créée par la [Clinique d’intérêt public et de politique d’Internet du Canada Samuelson-Glushko](https://cippic.ca/) \(CIPPIC\). Basée à la Section de common law de la Faculté de droit de l’Université d’Ottawa, la CIPPIC est la seule clinique juridique portant sur les technologies et l’intérêt public au Canada. C’est David Frewer, avocat-conseil de la CIPPIC, qui a dirigé ce projet, avec l’aide des stagiaires d’été Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi et Rohoma Zakir.
 
-The Smart City Toolkit was created by CIPPIC, the [Samuelson-Glushko Canadian Internet Policy and Public Interest Clinic](https://cippic.ca/). CIPPIC is Canada’s only public interest technology law clinic, and is based at the University of Ottawa’s Faculty of Law, Common Law Section. CIPPIC General Counsel David Fewer led CIPPIC’s work on the project, supported by summer interns Jey Kumarasamy, Abby Lenner, Robin McLachlen, Nnubia Ogbuefi, Rachel Poon, Sundeep Virdi and Rohoma Zakir.
+La création de cette trousse a été rendue possible grâce à un investissement d’Infrastructure Canada.
+
+La trousse Ville intelligente présente des descriptions pratiques d’une foule de technologies et d’applications de ville intelligente qui peuvent répondre aux besoins des municipalités et soutenir une vaste gamme de services municipaux. Elle ne sert pas qu’à montrer comment les données et la technologie peuvent se greffer aux services municipaux existants ou nouveaux, mais aussi comment cette approche soulève d’importantes questions auxquelles il faut répondre par une approche planifiée et une mise en œuvre éclairée.
 
 ![CIPPIC Logo](https://cippic-ca.github.io/SmartCityToolkit/assets/images/CIPPIC_Logo.jpg)
 
